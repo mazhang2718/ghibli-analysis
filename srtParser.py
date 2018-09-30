@@ -1,18 +1,31 @@
 import pysrt
 import os
+import csv
+import statistics
 
-def parseFiles(rootdir):
+def parseFiles(rootdir, writer):
     for subdir, dirs, files in os.walk(rootdir):
         for file in files:
             filepath = subdir + os.sep + file
             if filepath.endswith(".srt"):
-                print (filepath)
-                analyzeSrt(filepath)
+                analyzeSrt(file, filepath, writer)
 
-def analyzeSrt(filepath):
+def analyzeSrt(file, filepath, writer):
     subs = pysrt.open(filepath)
-    movieRuntime = calculateMovieRuntime(subs)
-    print(movieRuntime)
+    movie = file
+    runtime = calculateMovieRuntime(subs)
+    pauseLengths = getPauseLengths(subs, runtime)
+    totalPauseDuration = sum(pauseLengths)
+    pauseRatio = totalPauseDuration / float(runtime)
+    medianPauseLength = statistics.median(pauseLengths)
+    meanPauseLength = statistics.mean(pauseLengths)
+    stdevPauses = statistics.stdev(pauseLengths)
+    numPauses = numPausesAboveMean(subs, meanPauseLength, pauseLengths)
+
+    writer.writerow({'Movie': movie, 'TotalPauseTime': totalPauseDuration,
+        'Runtime': runtime, 'PauseToRuntimeRatio': pauseRatio,
+        'MeanPauseLength': meanPauseLength, 'MedianPauseLength': medianPauseLength,
+        'PauseStDev': stdevPauses, 'NumPausesAboveMean': numPauses})
 
 def calculateMovieRuntime(subs):
     lastSub = subs[-1]
@@ -20,16 +33,26 @@ def calculateMovieRuntime(subs):
     runtime = timeInSeconds(subEndtime)
     return runtime
 
-def calculateElapsedTime(filename):
-    totalElapsed = 0
-    subs = pysrt.open(filename)
+def numPausesAboveMean(subs, mean, pauseLengths):
+    numPauses = 0
+    for pause in pauseLengths:
+        if pause > mean:
+            numPauses += 1
+    return numPauses
+
+def getPauseLengths(subs, runtime):
+    pauseLengths = []
+    timeToFirstSubtitle = timeInSeconds(subs[0].start)
+    pauseLengths.append(timeToFirstSubtitle)
     for i in range(len(subs)):
         sub = subs[i]
-        subStart = sub.start
-        subEnd = sub.end
-        elapsedTime = timeInSeconds(subEnd) - timeInSeconds(subStart)
-        totalElapsed += elapsedTime
-    return totalElapsed
+        if (i == len(subs) - 1):
+            pauseLength = runtime - timeInSeconds(sub.end)
+        else:
+            nextSub = subs[i+1]
+            pauseLength = timeInSeconds(nextSub.start) - timeInSeconds(sub.end)
+        pauseLengths.append(pauseLength)
+    return pauseLengths
 
 def timeInSeconds(subTime):
     time = subTime.hours * 60 * 60
@@ -37,20 +60,17 @@ def timeInSeconds(subTime):
     time += subTime.seconds
     return time
 
-def calculateRatio(filename, totalTime):
-    dialogueTime = calculateElapsedTime(filename)
-    ratioTime = dialogueTime / float(totalTime)
-
-    print('Total dialogue time for ' + filename + ' is: ' + str(dialogueTime))
-    print('Total movie time for ' + filename + ' is: ' + str(totalTime))
-    print('Ratio of dialogue to movie for ' + filename + ' is: ' + str(ratioTime))
+def calculateRatio(subs, movieRuntime):
+    dialogueTime = calculateDialogueTime(subs)
+    pauseTime = movieRuntime - dialogueTime
+    ratioTime = pauseTime / float(movieRuntime)
+    return ratioTime
 
 if __name__ == "__main__":
     rootdir = "srtFiles"
-    parseFiles(rootdir)
-    totalTimeTotoro = 1*60*60 + 40*60
-    #calculateRatio('srtFiles/totoro.srt', totalTimeTotoro)
-    print('\n')
-
-    totalTimeCoco = 1*60*60 + 49*60
-    #calculateRatio('srtFiles/coco.srt', totalTimeCoco)
+    with open('srtAnalysis.csv', 'w', newline='') as csvfile:
+        fieldnames = ['Movie', 'Runtime', 'TotalPauseTime', 'PauseToRuntimeRatio', 'MeanPauseLength', 'MedianPauseLength', 'PauseStDev', 'NumPausesAboveMean']
+        #fieldnames = ['Movie', 'Runtime', 'PauseToRuntimeRatio']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        parseFiles(rootdir, writer)
