@@ -1,4 +1,24 @@
 import pysrt
+import os
+
+def parseFiles(rootdir):
+    for subdir, dirs, files in os.walk(rootdir):
+        for file in files:
+            filepath = subdir + os.sep + file
+            if filepath.endswith(".srt"):
+                print (filepath)
+                analyzeSrt(filepath)
+
+def analyzeSrt(filepath):
+    subs = pysrt.open(filepath)
+    movieRuntime = calculateMovieRuntime(subs)
+    print(movieRuntime)
+
+def calculateMovieRuntime(subs):
+    lastSub = subs[-1]
+    subEndtime = lastSub.end
+    runtime = timeInSeconds(subEndtime)
+    return runtime
 
 def calculateElapsedTime(filename):
     totalElapsed = 0
@@ -20,16 +40,17 @@ def timeInSeconds(subTime):
 def calculateRatio(filename, totalTime):
     dialogueTime = calculateElapsedTime(filename)
     ratioTime = dialogueTime / float(totalTime)
-    
+
     print('Total dialogue time for ' + filename + ' is: ' + str(dialogueTime))
     print('Total movie time for ' + filename + ' is: ' + str(totalTime))
     print('Ratio of dialogue to movie for ' + filename + ' is: ' + str(ratioTime))
 
 if __name__ == "__main__":
+    rootdir = "srtFiles"
+    parseFiles(rootdir)
     totalTimeTotoro = 1*60*60 + 40*60
-    calculateRatio('srtFiles/totoro.srt', totalTimeTotoro)
-
+    #calculateRatio('srtFiles/totoro.srt', totalTimeTotoro)
     print('\n')
 
     totalTimeCoco = 1*60*60 + 49*60
-    calculateRatio('srtFiles/coco.srt', totalTimeCoco)
+    #calculateRatio('srtFiles/coco.srt', totalTimeCoco)
