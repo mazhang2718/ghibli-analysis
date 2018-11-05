@@ -575,10 +575,6 @@ by the parking lot.
 00:11:43,995 --> 00:11:45,038
 Oh, thank you.
 
-138
-00:11:45,163 --> 00:11:47,374
-<i>SHORTCUT</i>
-
 139
 00:11:51,044 --> 00:11:53,255
 This is the shortcut?
@@ -670,7 +666,7 @@ Ask him for a ride.
 
 160
 00:17:14,826 --> 00:17:15,744
-I Will.
+I will.
 
 161
 00:17:16,536 --> 00:17:20,790
@@ -1202,7 +1198,7 @@ Hey, watch it!
 
 286
 00:28:05,267 --> 00:28:07,561
-<i>UQ/V, Stupid,</i>
+<i>ugly, stupid,</i>
 
 287
 00:28:08,562 --> 00:28:09,897
@@ -3489,7 +3485,7 @@ Kazuhiko... Kazuhiko...
 
 829
 01:20:09,180 --> 01:20:11,849
-Kazuhik0's all over this diary.
+Kazuhiko's all over this diary.
 
 830
 01:20:13,559 --> 01:20:18,022
@@ -3559,7 +3555,7 @@ She has a high fever!
 
 846
 01:21:03,234 --> 01:21:04,569
-<i>I'll</i> g0 get help.
+<i>I'll</i> go get help.
 
 847
 01:21:05,736 --> 01:21:07,071
@@ -3963,7 +3959,7 @@ as a mother.
 940
 01:28:42,526 --> 01:28:46,363
 <i>Emily ran away and
-soon g0! married.</i>
+soon got married.</i>
 
 941
 01:28:47,614 --> 01:28:49,700

@@ -689,7 +689,7 @@ art school, was up on all the trends.</i>
 
 177
 00:13:24,703 --> 00:13:27,103
-Yeah, the Beatles'lyrics are great.
+Yeah, the Beatles' lyrics are great.
 
 178
 00:13:27,206 --> 00:13:34,908
@@ -1200,10 +1200,6 @@ Ah, no running.
 295
 00:21:30,489 --> 00:21:32,616
 Aren't you glad?
-
-296
-00:21:39,564 --> 00:21:42,965
-<i>5th Grade: Room 4</i>
 
 297
 00:21:50,042 --> 00:21:51,509
