@@ -1,6 +1,6 @@
-# First try: http://www.pieceofk.fr/?p=437
+# Script 1: This script takes in .srt files and outputs .csvs
 
-setwd("~/Desktop/ghibli")
+setwd("~/Desktop/ghibli/r-analysis")
 
 devtools::install_github("fkeck/subtools", force=TRUE)
 install.packages("tidytext")
@@ -11,8 +11,8 @@ library(tidytext)
 library(dplyr)
 library(readr)
 
-subs <- read.subtitles("srt-raw/yesterday2-raw.srt")
-subsSent <- sentencify(subs)
+subsSRT <- read.subtitles("srt-raw/yesterday2-raw.srt")
+subsSent <- sentencify(subsSRT)
 write.subtitles(subsSent, "srt-edit/yesterday2-edit.srt") #just spits out the same text but with the subtitles joined as sentences
 
 lines <- readLines("srt-edit/yesterday2-edit.srt")
@@ -38,8 +38,3 @@ tmp <- do.call(rbind,lapply(strsplit(m$endTime,':|,'),as.numeric)) # parse times
 m$toSeconds  <- tmp %*% c(60*60,60,1,1/1000)
 m$timeLength <- m$toSeconds - m$fromSeconds # compute time difference in seconds
 write_csv(m, "csv/yesterday2.csv", na="NA")
-
-#Figure out how to iterate a function over all the files in a folder.
-#Figure out the lag function
-#figure out the summarize function
-
