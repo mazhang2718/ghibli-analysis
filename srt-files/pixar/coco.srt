@@ -248,7 +248,7 @@ No music!
 
 57
 00:03:36,383 --> 00:03:37,453
-♪ aunque la vida ♪
+aunque la vida
 
 58
 00:03:37,478 --> 00:03:39,351
@@ -391,23 +391,23 @@ But my all-time favorite is...
 
 90
 00:05:05,019 --> 00:05:07,582
-♪ Remember me ♪
+Remember me
 
 91
 00:05:07,891 --> 00:05:08,938
-♪ Remember me ♪
+Remember me
 
 92
 00:05:08,963 --> 00:05:10,622
-♪ Though I have to say goodbye ♪
+Though I have to say goodbye
 
 93
 00:05:10,685 --> 00:05:12,043
-♪ Remember me ♪
+Remember me
 
 94
 00:05:12,463 --> 00:05:15,430
-♪ Me ♪
+Me
 
 95
 00:05:15,455 --> 00:05:17,011
@@ -1014,25 +1014,25 @@ Ugh.
 
 233
 00:12:12,440 --> 00:12:14,972
-<i>♪ A feeling so close ♪</i>
+<i>A feeling so close</i>
 
 234
 00:12:14,997 --> 00:12:19,045
-<i>♪ You could reach out
-and touch it ♪</i>
+<i>You could reach out
+and touch it</i>
 
 235
 00:12:19,070 --> 00:12:21,886
-<i>♪ I never knew ♪</i>
+<i>I never knew</i>
 
 236
 00:12:21,911 --> 00:12:24,626
-<i>♪ I could want something
-so much ♪</i>
+<i>I could want something
+so much</i>
 
 237
 00:12:24,651 --> 00:12:26,292
-<i>♪ But it's true ♪</i>
+<i>But it's true</i>
 
 238
 00:12:26,992 --> 00:12:28,556
@@ -1049,12 +1049,12 @@ he will never listen.</i>
 
 241
 00:12:33,137 --> 00:12:35,930
-<i>♪ Only a song, only a song ♪</i>
+<i>Only a song, only a song</i>
 
 242
 00:12:35,954 --> 00:12:39,724
-<i>♪ Has the power
-to change a heart ♪</i>
+<i>Has the power
+to change a heart</i>
 
 243
 00:12:43,416 --> 00:12:46,425
@@ -3843,27 +3843,27 @@ You know my favorite, Héctor.
 
 885
 00:43:52,526 --> 00:43:56,367
-♪ Well, everyone knows Juanita ♪
+Well, everyone knows Juanita
 
 886
 00:43:57,113 --> 00:44:00,724
-♪ Her eyes each a different color ♪
+Her eyes each a different color
 
 887
 00:44:01,914 --> 00:44:04,279
-♪ Her teeth stick out ♪
+Her teeth stick out
 
 888
 00:44:04,304 --> 00:44:07,613
-♪ And her chin goes in ♪
+And her chin goes in
 
 889
 00:44:08,517 --> 00:44:11,740
-♪ And her... ♪
+And her...
 
 890
 00:44:11,764 --> 00:44:14,501
-♪ Knuckles they drag on the floor ♪
+Knuckles they drag on the floor
 
 891
 00:44:14,526 --> 00:44:15,921
@@ -3875,21 +3875,21 @@ There are children present.
 
 893
 00:44:17,614 --> 00:44:21,180
-♪ Her hair is like a brier ♪
+Her hair is like a brier
 
 894
 00:44:21,858 --> 00:44:26,588
-♪ She stands in a
-bow-legged stance ♪
+She stands in a
+bow-legged stance
 
 895
 00:44:27,701 --> 00:44:32,297
-♪ And if I weren't so ugly ♪
+And if I weren't so ugly
 
 896
 00:44:33,498 --> 00:44:40,886
-♪ She'd possibly
-give me a chance ♪
+She'd possibly
+give me a chance
 
 897
 00:44:45,220 --> 00:44:48,490
@@ -4095,16 +4095,16 @@ Ah, it's too popular.
 
 943
 00:47:55,302 --> 00:47:57,556
-♪ Remember me
-though I have to travel far ♪
+Remember me
+though I have to travel far
 
 944
 00:47:57,581 --> 00:47:58,692
-♪ Remember... ♪
+Remember...
 
 945
 00:47:58,723 --> 00:48:01,112
-♪ Don't let it make you cry ♪
+Don't let it make you cry
 
 946
 00:48:04,318 --> 00:48:07,016
@@ -4346,59 +4346,59 @@ Aah-aaah-aaayy!
 
 1000
 00:50:35,311 --> 00:50:37,366
-♪ What color is the sky? ♪
+What color is the sky?
 
 1001
 00:50:37,391 --> 00:50:39,342
-♪ Ay, mi amor, ay, mi amor ♪
+Ay, mi amor, ay, mi amor
 
 1002
 00:50:39,367 --> 00:50:41,002
-♪ You tell me that it's red ♪
+You tell me that it's red
 
 1003
 00:50:41,027 --> 00:50:43,129
-♪ Ay, mi amor, ay, mi amor ♪
+Ay, mi amor, ay, mi amor
 
 1004
 00:50:43,154 --> 00:50:45,129
-♪ Where should I put my shoes? ♪
+Where should I put my shoes?
 
 1005
 00:50:45,154 --> 00:50:46,845
-♪ Ay, mi amor, ay, mi amor ♪
+Ay, mi amor, ay, mi amor
 
 1006
 00:50:46,870 --> 00:50:48,630
-♪ You say, "put them on your head!" ♪
+You say, "put them on your head!"
 
 1007
 00:50:48,655 --> 00:50:51,005
-♪ Ay, mi amor, ay, mi amor ♪
+Ay, mi amor, ay, mi amor
 
 1008
 00:50:51,885 --> 00:50:53,853
-♪ You make me un poco loco ♪
+You make me un poco loco
 
 1009
 00:50:53,877 --> 00:50:55,877
-♪ un poquititito loco ♪
+un poquititito loco
 
 1010
 00:50:55,901 --> 00:50:57,789
-♪ The way you keep me guessing ♪
+The way you keep me guessing
 
 1011
 00:50:57,813 --> 00:50:59,813
-♪ I'm nodding and I'm yesing ♪
+I'm nodding and I'm yesing
 
 1012
 00:50:59,838 --> 00:51:02,271
-♪ I'll count it as a blessing ♪
+I'll count it as a blessing
 
 1013
 00:51:02,417 --> 00:51:07,243
-♪ That I'm only un poco loco ♪
+That I'm only un poco loco
 
 1014
 00:51:16,062 --> 00:51:17,460
@@ -4418,27 +4418,27 @@ He's close. Find him.
 
 1018
 00:51:29,212 --> 00:51:30,838
-♪ The loco that you make me ♪
+The loco that you make me
 
 1019
 00:51:30,863 --> 00:51:32,973
-♪ It is just un poco crazy ♪
+It is just un poco crazy
 
 1020
 00:51:32,998 --> 00:51:35,022
-♪ The sense that you're not making ♪
+The sense that you're not making
 
 1021
 00:51:35,047 --> 00:51:36,974
-♪ The liberties you're taking ♪
+The liberties you're taking
 
 1022
 00:51:36,999 --> 00:51:39,117
-♪ Leaves my cabeza shaking ♪
+Leaves my cabeza shaking
 
 1023
 00:51:39,142 --> 00:51:44,951
-♪ You are just un poco loco ♪
+You are just un poco loco
 
 1024
 00:51:44,976 --> 00:51:46,991
@@ -4466,11 +4466,11 @@ Have you seen a living boy?
 
 1030
 00:51:57,584 --> 00:51:59,838
-♪ Un poquiti-ti-ti-ti-ti-ti-ti-ti ♪
+Un poquiti-ti-ti-ti-ti-ti-ti-ti
 
 1031
 00:51:59,863 --> 00:52:04,562
-♪ ti-ti-ti-ti-to loco! ♪
+ti-ti-ti-ti-to loco!
 
 1032
 00:52:04,586 --> 00:52:06,586
@@ -4740,12 +4740,12 @@ You'll never understand.
 
 1093
 00:54:48,187 --> 00:54:53,115
-♪ Y aunque la vida
-me cueste, Llorona ♪
+Y aunque la vida
+me cueste, Llorona
 
 1094
 00:54:53,153 --> 00:54:58,018
-♪ No dejaré de quererte ♪
+No dejaré de quererte
 
 1095
 00:54:58,043 --> 00:55:00,438
@@ -4964,53 +4964,53 @@ Rrrr-aaoo-aaoo-aao-aahh!
 
 1146
 00:59:07,490 --> 00:59:09,466
-♪ Señoras y señores ♪
+Señoras y señores
 
 1147
 00:59:09,491 --> 00:59:13,784
-♪ Buenas tardes
-Buenas noches ♪
+Buenas tardes
+Buenas noches
 
 1148
 00:59:13,809 --> 00:59:15,873
-♪ Señoritas y señores ♪
+Señoritas y señores
 
 1149
 00:59:15,898 --> 00:59:17,761
-♪ To be here with you tonight ♪
+To be here with you tonight
 
 1150
 00:59:17,786 --> 00:59:19,938
-♪ Brings me joy,
-Que alegría ♪
+Brings me joy,
+Que alegría
 
 1151
 00:59:19,963 --> 00:59:22,225
-♪ For this music is my language ♪
+For this music is my language
 
 1152
 00:59:22,250 --> 00:59:25,824
-♪ And the world es mi familia ♪
+And the world es mi familia
 
 1153
 00:59:26,519 --> 00:59:28,549
-♪ For this music is my language ♪
+For this music is my language
 
 1154
 00:59:28,573 --> 00:59:31,351
-♪ And the world es mi familia ♪
+And the world es mi familia
 
 1155
 00:59:31,376 --> 00:59:33,877
-♪ For this music is my language ♪
+For this music is my language
 
 1156
 00:59:33,901 --> 00:59:37,710
-♪ And the woo-orld es mi familia ♪
+And the woo-orld es mi familia
 
 1157
 00:59:37,735 --> 00:59:39,520
-♪ For this music is my Lang-
+For this music is my Lang-
 
 1158
 00:59:39,544 --> 00:59:40,551
@@ -5161,8 +5161,8 @@ You know, I did all my own stunts.
 
 1193
 01:01:22,504 --> 01:01:26,121
-♪ Though I have to say goodbye
-Remember me ♪
+Though I have to say goodbye
+Remember me
 
 1194
 01:01:28,285 --> 01:01:32,348
@@ -6058,39 +6058,39 @@ time.
 
 1401
 01:11:48,802 --> 01:11:52,917
-♪ Remember me ♪
+Remember me
 
 1402
 01:11:52,942 --> 01:11:55,582
-♪ Though I have to say goodbye ♪
+Though I have to say goodbye
 
 1403
 01:11:55,607 --> 01:11:58,507
-♪ Remember me ♪
+Remember me
 
 1404
 01:11:58,532 --> 01:12:01,806
-♪ Don't let it make you cry ♪
+Don't let it make you cry
 
 1405
 01:12:01,831 --> 01:12:04,856
-♪ For even if I'm far away ♪
+For even if I'm far away
 
 1406
 01:12:04,881 --> 01:12:07,439
-♪ I hold you in my heart ♪
+I hold you in my heart
 
 1407
 01:12:07,464 --> 01:12:09,958
-♪ I sing a secret song to you ♪
+I sing a secret song to you
 
 1408
 01:12:09,983 --> 01:12:13,450
-♪ Each night we are apart ♪
+Each night we are apart
 
 1409
 01:12:14,040 --> 01:12:16,546
-♪ Remember me ♪
+Remember me
 
 1410
 01:12:17,446 --> 01:12:18,693
@@ -6098,35 +6098,35 @@ Papá!
 
 1411
 01:12:18,718 --> 01:12:20,659
-♪ Though I have to travel far ♪
+Though I have to travel far
 
 1412
 01:12:20,684 --> 01:12:23,074
-♪ Remember me ♪
+Remember me
 
 1413
 01:12:23,229 --> 01:12:26,721
-♪ Each time you hear a sad guitar ♪
+Each time you hear a sad guitar
 
 1414
 01:12:27,264 --> 01:12:29,245
-♪ Know that I'm with you ♪
+Know that I'm with you
 
 1415
 01:12:29,381 --> 01:12:33,819
-♪ The only way that I can be ♪
+The only way that I can be
 
 1416
 01:12:35,898 --> 01:12:40,082
-♪ Until you're in my arms again ♪
+Until you're in my arms again
 
 1417
 01:12:41,979 --> 01:12:47,047
-♪ Remember ♪
+Remember
 
 1418
 01:12:47,569 --> 01:12:51,764
-♪ Me ♪
+Me
 
 1419
 01:12:54,028 --> 01:12:56,128
@@ -6666,104 +6666,104 @@ Sing!
 
 1546
 01:21:12,199 --> 01:21:14,195
-♪ Ay ♪
+Ay
 
 1547
 01:21:14,986 --> 01:21:17,345
-♪ de mí, Llorona ♪
+de mí, Llorona
 
 1548
 01:21:18,218 --> 01:21:23,013
-♪ Llorona de azul Celeste ♪
+Llorona de azul Celeste
 
 1549
 01:21:25,140 --> 01:21:30,378
-♪ Ay de mí, Llorona ♪
+Ay de mí, Llorona
 
 1550
 01:21:30,591 --> 01:21:35,784
-♪ Llorona de azul Celeste ♪
+Llorona de azul Celeste
 
 1551
 01:21:36,862 --> 01:21:41,623
-♪ Y aunque la vida me cueste,
-Llorona ♪
+Y aunque la vida me cueste,
+Llorona
 
 1552
 01:21:41,916 --> 01:21:45,780
-♪ No dejaré de quererte ♪
+No dejaré de quererte
 
 1553
 01:21:46,256 --> 01:21:50,395
-♪ No dejaré de quererte ♪
+No dejaré de quererte
 
 1554
 01:21:51,803 --> 01:21:55,930
-♪ Me subí Al pino más alto,
-Llorona ♪
+Me subí Al pino más alto,
+Llorona
 
 1555
 01:21:56,090 --> 01:21:58,967
-♪ A ver Si Te divisaba ♪
+A ver Si Te divisaba
 
 1556
 01:21:58,991 --> 01:22:03,139
-♪ Como El pino era tierno,
-Llorona ♪
+Como El pino era tierno,
+Llorona
 
 1557
 01:22:03,164 --> 01:22:06,745
-♪ Al verme llorar, lloraba ♪
+Al verme llorar, lloraba
 
 1558
 01:22:06,770 --> 01:22:10,474
-♪ Ay de mí, Llorona, Llorona ♪
+Ay de mí, Llorona, Llorona
 
 1559
 01:22:10,499 --> 01:22:13,740
-♪ Llorona de azul Celeste ♪
+Llorona de azul Celeste
 
 1560
 01:22:13,765 --> 01:22:17,369
-♪ Ay de mí, Llorona, Llorona ♪
+Ay de mí, Llorona, Llorona
 
 1561
 01:22:17,394 --> 01:22:20,543
-♪ Llorona de azul Celeste ♪
+Llorona de azul Celeste
 
 1562
 01:22:20,568 --> 01:22:24,761
-♪ Y aunque la vida me cueste,
-Llorona ♪
+Y aunque la vida me cueste,
+Llorona
 
 1563
 01:22:24,786 --> 01:22:27,958
-♪ No dejaré de quererte ♪
+No dejaré de quererte
 
 1564
 01:22:27,983 --> 01:22:30,067
-♪ Y aunque la vida me cueste ♪
+Y aunque la vida me cueste
 - Let go of me!
 
 1565
 01:22:30,092 --> 01:22:32,199
-♪ Llorona ♪
+Llorona
 
 1566
 01:22:32,267 --> 01:22:35,373
-♪ No dejaré de quererte ♪
+No dejaré de quererte
 
 1567
 01:22:35,824 --> 01:22:39,271
-♪ No dejaré de quererte ♪
+No dejaré de quererte
 
 1568
 01:22:39,645 --> 01:22:43,954
-♪ No dejaré de quererte ♪
+No dejaré de quererte
 
 1569
 01:22:44,326 --> 01:22:47,614
-♪ ¡Ay, ay, ay! ♪
+¡Ay, ay, ay!
 
 1570
 01:22:55,533 --> 01:22:57,914
@@ -6950,11 +6950,11 @@ Orchestra, a-one, a-two, a-one...
 
 1613
 01:25:25,894 --> 01:25:27,981
-♪ Remember me ♪
+Remember me
 
 1614
 01:25:28,006 --> 01:25:29,284
-♪ Though I have to s- ♪
+Though I have to s-
 
 1615
 01:25:29,309 --> 01:25:31,019
@@ -7289,72 +7289,72 @@ Mamá... wait...
 
 1696
 01:29:50,510 --> 01:29:54,422
-♪ Remember me ♪
+Remember me
 
 1697
 01:29:55,633 --> 01:29:59,023
-♪ Though I have to say goodbye ♪
+Though I have to say goodbye
 
 1698
 01:29:59,048 --> 01:30:01,880
-♪ Remember me ♪
+Remember me
 
 1699
 01:30:02,036 --> 01:30:04,882
-♪ Don't let it make you cry ♪
+Don't let it make you cry
 
 1700
 01:30:04,959 --> 01:30:08,655
-♪ For even if I'm far away ♪
+For even if I'm far away
 - Look!
 
 1701
 01:30:08,680 --> 01:30:11,499
-♪ I hold you in my heart ♪
+I hold you in my heart
 
 1702
 01:30:11,524 --> 01:30:14,512
-♪ I sing a secret song to you ♪
+I sing a secret song to you
 
 1703
 01:30:14,537 --> 01:30:18,301
-♪ Each night we are apart ♪
+Each night we are apart
 
 1704
 01:30:18,471 --> 01:30:22,292
-♪ Remember me ♪
+Remember me
 
 1705
 01:30:22,415 --> 01:30:25,363
-♪ Though I have to travel far ♪
+Though I have to travel far
 
 1706
 01:30:25,508 --> 01:30:28,682
-♪ Remember me ♪
+Remember me
 
 1707
 01:30:28,714 --> 01:30:32,841
-♪ Each time you hear a sad guitar ♪
+Each time you hear a sad guitar
 
 1708
 01:30:33,270 --> 01:30:35,833
-♪ Know that I'm with you ♪
+Know that I'm with you
 
 1709
 01:30:35,858 --> 01:30:40,006
-♪ The only way that I can be ♪
+The only way that I can be
 
 1710
 01:30:40,683 --> 01:30:47,165
-♪ Until you're in my arms again ♪
+Until you're in my arms again
 
 1711
 01:30:47,392 --> 01:30:52,336
-♪ Remember ♪
+Remember
 
 1712
 01:30:52,361 --> 01:30:55,826
-♪ Me ♪
+Me
 
 1713
 01:31:00,399 --> 01:31:02,474
@@ -7479,12 +7479,12 @@ to remember them.
 
 1741
 01:33:22,093 --> 01:33:24,803
-♪ Say that I'm crazy ♪
+Say that I'm crazy
 - Next.
 
 1742
 01:33:24,828 --> 01:33:27,420
-♪ Or call me a fool ♪
+Or call me a fool
 
 1743
 01:33:30,812 --> 01:33:33,488
@@ -7492,8 +7492,8 @@ Enjoy your visit, Héctor.
 
 1744
 01:33:33,513 --> 01:33:38,293
-♪ But last night it seemed
-that I dreamed about you ♪
+But last night it seemed
+that I dreamed about you
 
 1745
 01:33:41,535 --> 01:33:42,703
@@ -7502,132 +7502,3 @@ Papá!
 1746
 01:33:42,728 --> 01:33:44,215
 Coco!
-
-1747
-01:33:44,240 --> 01:33:46,978
-♪ When I opened my mouth ♪
-
-1748
-01:33:47,003 --> 01:33:49,506
-♪ What came out was a song ♪
-
-1749
-01:33:49,531 --> 01:33:52,420
-♪ And you knew every word ♪
-
-1750
-01:33:52,454 --> 01:33:57,091
-♪ And we all sang along ♪
-
-1751
-01:33:57,520 --> 01:33:59,887
-♪ To a melody played ♪
-
-1752
-01:33:59,912 --> 01:34:02,608
-♪ On the strings of our souls  ♪
-
-1753
-01:34:02,633 --> 01:34:05,046
-♪ And a rhythm that rattled us ♪
-
-1754
-01:34:05,071 --> 01:34:07,868
-♪ Down to the bone ♪
-
-1755
-01:34:07,893 --> 01:34:09,910
-♪ Our love for each other ♪
-
-1756
-01:34:09,935 --> 01:34:12,563
-♪ Will live on forever ♪
-
-1757
-01:34:13,786 --> 01:34:16,337
-♪ In every beat ♪
-
-1758
-01:34:16,362 --> 01:34:18,908
-♪ Of my proud corazón ♪
-
-1759
-01:34:18,933 --> 01:34:21,221
-♪ Our love for each other ♪
-
-1760
-01:34:21,246 --> 01:34:23,750
-♪ Will live on forever ♪
-
-1761
-01:34:24,862 --> 01:34:26,719
-♪ In every beat ♪
-
-1762
-01:34:26,923 --> 01:34:31,775
-♪ Of my proud corazón ♪
-
-1763
-01:34:32,932 --> 01:34:34,857
-♪ Ay mi familia ♪
-
-1764
-01:34:34,882 --> 01:34:37,181
-♪ Oiga mi gente ♪
-
-1765
-01:34:37,205 --> 01:34:39,205
-♪ Canten a coro ♪
-
-1766
-01:34:39,230 --> 01:34:41,443
-♪ Let it be known ♪
-
-1767
-01:34:41,468 --> 01:34:43,110
-♪ Our love for each other ♪
-
-1768
-01:34:43,135 --> 01:34:45,134
-♪ Will live on forever ♪
-
-1769
-01:34:45,159 --> 01:34:47,064
-♪ In every beat ♪
-
-1770
-01:34:47,089 --> 01:34:49,437
-♪ Of my proud corazón ♪
-
-1771
-01:34:49,461 --> 01:34:51,461
-♪ Ay mi familia ♪
-
-1772
-01:34:51,486 --> 01:34:53,596
-♪ Oiga mi gente ♪
-
-1773
-01:34:53,621 --> 01:34:55,945
-♪ Canten a coro ♪
-
-1774
-01:34:55,970 --> 01:34:57,675
-♪ Let it be known ♪
-
-1775
-01:34:57,764 --> 01:34:59,478
-♪ Our love for each other ♪
-
-1776
-01:34:59,503 --> 01:35:01,867
-♪ Will live on forever ♪
-
-1777
-01:35:01,892 --> 01:35:03,813
-♪ In every beat ♪
-
-1778
-01:35:03,837 --> 01:35:09,487
-♪ Of my proud corazón ♪
-

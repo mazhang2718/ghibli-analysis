@@ -6062,4 +6062,3 @@ TripleDent gum
 1366
 01:27:38,800 --> 01:27:40,404
 No! Not this again!
-
