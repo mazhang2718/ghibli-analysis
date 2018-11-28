@@ -3170,7 +3170,7 @@ a Fancy Feastin', second-rate sidekick!
 732
 00:56:26,081 --> 00:56:30,142
 At least you don't look
-like some kind of bloated pi�ata!
+like some kind of bloated piÃ±ata!
 
 733
 00:56:30,285 --> 00:56:32,344
@@ -3920,7 +3920,7 @@ Wait, wait!
 
 903
 01:09:58,726 --> 01:10:00,921
-<i>Where is the fire, se�or?</i>
+<i>Where is the fire, seÃ±or?</i>
 
 904
 01:10:01,062 --> 01:10:03,087
@@ -4371,7 +4371,7 @@ Excuse me. That's my seat.
 
 1008
 01:19:08,942 --> 01:19:13,709
-<i>Okay, Se�or Hocusy-Pocusy, the time
+<i>Okay, SeÃ±or Hocusy-Pocusy, the time
 has come to rectify some wrongs!</i>
 
 1009

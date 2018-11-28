@@ -429,7 +429,7 @@ You found cheese?
 97
 00:05:51,584 --> 00:05:55,984
 And not just any cheese.
-Tomme de ch�vre de pays!
+Tomme de chÃ¨vre de pays!
 
 98
 00:05:56,184 --> 00:05:58,684
@@ -1071,12 +1071,12 @@ I need more leeks.
 241
 00:17:51,184 --> 00:17:54,384
 I need two salmon, three
-salade compos�e, and three filet.
+salade composÃ©e, and three filet.
 
 242
 00:17:54,484 --> 00:17:56,384
 Three orders
-of salade compos�e working.
+of salade composÃ©e working.
 
 243
 00:17:56,484 --> 00:17:58,184
@@ -1089,7 +1089,7 @@ Three filet working. I need plates.
 245
 00:18:00,984 --> 00:18:03,584
 Fire seven.
-Three salade compos�e up.
+Three salade composÃ©e up.
 
 246
 00:18:03,684 --> 00:18:05,584
@@ -1399,7 +1399,7 @@ One filet mignon, three lamb, two duck.</i>
 
 314
 00:22:38,084 --> 00:22:40,684
-<i>Fire those souffl�s
+<i>Fire those soufflÃ©s
 for table six, ja.</i>
 
 315
@@ -2244,7 +2244,7 @@ Whoa!
 
 506
 00:39:59,084 --> 00:40:00,384
-<i>� votre sant�!</i>
+<i>Ã votre santÃ©!</i>
 
 507
 00:40:06,184 --> 00:40:07,584
@@ -2358,7 +2358,7 @@ Chine-easy.
 
 531
 00:41:45,084 --> 00:41:48,784
-- Excellent work, Fran�ois, as usual.
+- Excellent work, FranÃ§ois, as usual.
 - It's good, isn't it?
 
 532
@@ -2713,7 +2713,7 @@ Grow it yourself, or bribe a grower.
 
 607
 00:45:55,284 --> 00:45:57,884
-<i>Voil�! The best restaurant get first pick.</i>
+<i>VoilÃ ! The best restaurant get first pick.</i>
 
 608
 00:45:57,984 --> 00:46:01,984
@@ -2947,7 +2947,7 @@ worthy of your talent, Linguini.
 658
 00:48:26,184 --> 00:48:31,484
 A forgotten favorite of the chef's,
-sweetbread � la Gusteau.
+sweetbread Ã  la Gusteau.
 
 659
 00:48:31,584 --> 00:48:33,284
@@ -2974,7 +2974,7 @@ a budding chef needs.
 
 664
 00:48:44,784 --> 00:48:46,084
-"Sweetbread � la Gusteau.
+"Sweetbread Ã  la Gusteau.
 
 665
 00:48:46,184 --> 00:48:48,684
@@ -2984,7 +2984,7 @@ in a seaweed salt crust
 666
 00:48:48,784 --> 00:48:51,784
 "with cuttlefish tentacle,
-dog rose pur�e,
+dog rose purÃ©e,
 
 667
 00:48:51,884 --> 00:48:54,384
@@ -3285,7 +3285,7 @@ of elephantine proportions
 734
 00:52:42,284 --> 00:52:46,284
 not to appreciate
-this '61 Ch�teau Latour.
+this '61 ChÃ¢teau Latour.
 
 735
 00:52:46,584 --> 00:52:50,584
@@ -4166,7 +4166,7 @@ another equally famous chef,
 
 927
 01:07:06,841 --> 01:07:07,841
-Touch�.
+TouchÃ©.
 
 928
 01:07:07,941 --> 01:07:11,341
@@ -4761,7 +4761,7 @@ finished an hour ago.
 
 1059
 01:17:56,541 --> 01:17:58,841
-<i>Bonjour, ma ch�rie.
+<i>Bonjour, ma chÃ©rie.
 Join us.</i>
 
 1060
@@ -5766,7 +5766,7 @@ Stick and move.
 
 1282
 01:34:29,841 --> 01:34:33,341
-Easy with that sole meuni�re.
+Easy with that sole meuniÃ¨re.
 Less salt. More butter.
 
 1283
@@ -5781,7 +5781,7 @@ like you were painting a picture.
 1285
 01:34:39,441 --> 01:34:42,141
 Not too much vinaigrette
-on that salade compos�e.
+on that salade composÃ©e.
 
 1286
 01:34:42,241 --> 01:34:45,341
@@ -5799,7 +5799,7 @@ Good. Too much salt. Good.
 
 1289
 01:34:52,341 --> 01:34:55,241
-Don't boil the consomm�,
+Don't boil the consommÃ©,
 it'll toughen the pheasant. Emile!
 
 1290

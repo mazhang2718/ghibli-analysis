@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:53,960 --> 00:00:58,670
 With every sun comes a new day.
 A new beginning.
@@ -4280,4 +4280,3 @@ we'll stay out here..
 1021
 01:29:42,480 --> 01:29:44,550
 <font color="#ff0080">a</font> <b><font color="#ffff00">SELVAHEMA</font></b><font color="#ff0080"> presentation</font>
-

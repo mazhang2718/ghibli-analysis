@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:50,200 --> 00:00:51,952
 Survival of the fittest.
 
@@ -374,7 +374,7 @@ He conducted meetings.
 89
 00:08:22,600 --> 00:08:24,431
 - You called?
-- Do you need Señor Squeaky?
+- Do you need SeÃÂ±or Squeaky?
 
 90
 00:08:26,080 --> 00:08:28,913
@@ -6642,4 +6642,3 @@ Go and live your peasant lives.
 1568
 01:37:18,240 --> 01:37:19,719
 Be gone with you!
-

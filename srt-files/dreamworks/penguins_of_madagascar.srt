@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:55,888 --> 00:00:57,875
 <i>Antarctica.</i>
 
@@ -4519,4 +4519,3 @@ I expected a little more... pizzazz!
 997
 01:22:24,438 --> 01:22:27,389
 Yes! Now, that's pizzazz!
-

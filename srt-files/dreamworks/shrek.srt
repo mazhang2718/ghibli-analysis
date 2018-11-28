@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:47,960 --> 00:00:52,840
 <i>Once upon a time there
 was a lovely princess.</i>
@@ -6226,4 +6226,3 @@ heart's searched for.</i>
 1353
 01:29:44,300 --> 01:29:48,930
 <i>Into your perfect face</i>
-

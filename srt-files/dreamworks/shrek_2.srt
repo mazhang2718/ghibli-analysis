@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:52,970 --> 00:00:57,391
 Once upon a time
 in a kingdom Far Far Away,
@@ -4652,4 +4652,3 @@ Look at our little mutant babies!
 1037
 01:25:03,890 --> 01:25:05,434
 I got to get a job.
-

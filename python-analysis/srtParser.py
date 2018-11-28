@@ -11,6 +11,7 @@ def parseFiles(rootdir, writer):
                 analyzeSrt(file, filepath, writer)
 
 def analyzeSrt(file, filepath, writer):
+    print(filepath, file)
     subs = pysrt.open(filepath)
     movie = file
     runtime = calculateMovieRuntime(subs)
@@ -67,7 +68,7 @@ def calculateRatio(subs, movieRuntime):
     return ratioTime
 
 if __name__ == "__main__":
-    rootdir = "srtFiles"
+    rootdir = "../srt-files"
     with open('srtAnalysis.csv', 'w', newline='') as csvfile:
         fieldnames = ['Movie', 'Runtime', 'TotalPauseTime', 'PauseToRuntimeRatio', 'MeanPauseLength', 'MedianPauseLength', 'PauseStDev', 'NumPausesAboveMean']
         #fieldnames = ['Movie', 'Runtime', 'PauseToRuntimeRatio']

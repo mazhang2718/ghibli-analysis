@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:46,797 --> 00:00:49,391
 <i>Today is best day ever.</i>
 
@@ -3267,7 +3267,7 @@ Come on. Come on.
 
 766
 00:50:15,554 --> 00:50:16,100
-Bon appétit.
+Bon appÃÂ©tit.
 
 767
 00:50:16,222 --> 00:50:17,394
@@ -4821,4 +4821,3 @@ Turn right at the Big Dipper.</i>
 1138
 01:23:56,198 --> 01:23:57,791
 Everybody, smile!
-

@@ -1,1357 +1,5084 @@
-{88}{185}[Flamenco-Style Guitar Intro]
-{263}{363}[Pop, Up-Tempo]
-{726}{785}Our glorious city
-{841}{913}Was built by the divinities
-{916}{1026}By gods who saw fit
-{1028}{1088}To bestow
-{1187}{1265}The gift of a paradise
-{1309}{1421}Peaceful and harmonious upon
-{1424}{1524}Us mere mortals below
-{1593}{1653}And made El Dorado
-{1655}{1777}The magnificent and golden
-{1780}{1867}One thousand years ago
-{1894}{2010}El Dorado|El Dorado
-{2012}{2209}El Dora-a-a-a-do
-{2432}{2489}-Today, we sail...|-[Nickers]
-{2491}{2541}to conquer the New World...
-{2544}{2661}-for Spain, for glory, for gold!|-[Crowd Clamoring]
-{2663}{2758}-[Crowd Cheering]|-[Man Shouting] Viva Cortes!
-{2761}{2810}[Whinnying]
-{2813}{2899}[Grunts]|Altivo, eyes forward.
-{2986}{3038}-Seven!|-All right!
-{3040}{3109}-Yes!|-Partner! Hee-hee!
-{3112}{3157}-Tons of gold for you|-Hey!
-{3160}{3205}-Tons of gold for me|-Hey!
-{3208}{3268}-[Both] Tons of gold for we|-Hey!
-{3271}{3327}-One more roll!|-[Plucks Notes]
-{3329}{3389}Uh, guys, you're broke!
-{3392}{3477}-You got nothin' to bet with!|-Oh, yeah? I got this!
-{3479}{3543}-[Man]A map!|-A map?|-A map!
-{3546}{3623}A map of the wonders|of the New World.
-{3626}{3704}-Wow! Let's have a look.|-[Scoffs]
-{3706}{3773}[Indistinct Muttering]
-{3775}{3835}Uh, Tulio!
-{3838}{3929}-Excuse us, for one moment, please.|-Tulio, look!
-{3932}{3996}-El Dorado, the city of gold.|-[Sighs]
-{3999}{4068}This could be our destiny, our fate.
-{4071}{4116}Miguel, if I believed in fate,
-{4119}{4169}I wouldn't be playing|with loaded dice.
-{4172}{4242}-Hmmm. [Chuckling]|-Not with the face. No, no, no, no, no.
-{4244}{4312}-No! No! No!|-[Whimpering, Panting]
-{4313}{4370}I said one more roll!
-{4372}{4431}My map against your cash.
-{4433}{4484}-Hmm?|-[Dice Clattering]
-{4487}{4572}-All right, peewee. You're on!|-Not with those!
-{4575}{4685}This time we use my dice.|Ehh, got a problem with that?
-{4688}{4749}[Whimpers] No.
-{4752}{4819}[Whispers]|I'm going to kill you.
-{4881}{4969}Come on, baby.|Papa needs that crappy map.
-{4972}{5034}[Giggles]
-{5062}{5125}-[Scoffs]|-[Blows]
-{5128}{5179}Stop that!
-{5181}{5261}Show me seven!
-{5374}{5441}[Gasps]
-{5443}{5494}[Crowd Exclaims, Cheers]
-{5496}{5553}-Seven!|-All right!
-{5555}{5603}-Seven!|-[Groans]
-{5606}{5697}[Laughing] There it is!|Well, nice doing business with you.
-{5732}{5849}-[Grunting] I knew it!|-[Crowd Gasping]
-{5852}{5893}[Gasps]
-{5895}{5957}Your dice are loaded!
-{5986}{6049}What?|You gave me loaded dice?
-{6052}{6109}[Grunts]
-{6143}{6225}-He gave me loaded dice!|-[Crowd Murmurs]
-{6228}{6346}-Guard, arrest him!|-You dare to impugn my honor?
-{6349}{6397}He was the one who was cheating!
-{6400}{6471}Arrest him! He tricked these sailors|and took their money!
-{6474}{6526}-Oh, now, I'm the thief?|-Yes.
-{6528}{6576}Take a look in the mirror, pal!
-{6578}{6645}Oh, you better give them|that money back, or I'll--
-{6648}{6706}-En garde!|-En garde, yourself.
-{6709}{6796}I will give you the honor|of a quick and painless death.
-{6799}{6873}But not with that. Ha!|I prefer to fight fairly. Aha!
-{6875}{6959}-[Growls]|-Well, any last words?
-{6961}{7013}I will cut you to ribbons,
-{7016}{7063}-fool!|-Such mediocrity.
-{7066}{7111}Let your sword do the talking.
-{7114}{7223}-I will.|It will be loquacious to a fault!|-Ha! Take that!
-{7226}{7311}[Both Grunting]
-{7313}{7427}-You... mincing, fencing, twit.|-Ah, you fight like my sister.
-{7429}{7494}I fought your sister.|That's a compliment.
-{7497}{7547}-Braggart!|-Heathen!
-{7550}{7608}-[Man] Kill him!|-Not the face. Not the face.
-{7642}{7717}[All Gasping, Clamoring]
-{7719}{7780}Ladies and gentlemen,|we've decided it's a draw.
-{7783}{7818}[Miguel]|Thank you all for coming.
-{7820}{7886}-You've been great. See you soon.|-Adios!
-{7931}{8003}-Congratulations. You're very good.|-No. That was good.
-{8005}{8056}-Very--|-[Snort]
-{8058}{8125}-[Gasping]|-[Mooing, Snorting]
-{8128}{8197}-We should have kept|our swords, I think.|-Y-Yeah.
-{8200}{8248}-[Snorting]|-[Tulio Whispering]|Yeah, I've got a plan.
-{8251}{8333}-What is it?|-Uh, well-Uh, you...
-{8336}{8412}-pet him, and... I'll...|-Yeah.
-{8414}{8478}run!
-{8481}{8555}-Uh, well, thanks a lot!|-[Bull Bellowing]
-{8635}{8683}[Both] Whoa!
-{8761}{8835}-There they are!|-[Hooves Screeching]
-{8838}{8935}[Male Chorus]Hey, hey, hey, hey|Hey, hey, hey, hey
-{9024}{9089}-[Woman Screaming]|-Bye. Thank you!
-{9091}{9136}-[All Gasping]|-[Bellowing]
-{9139}{9172}[Chorus] Ol�
-{9175}{9220}[Groans]
-{9253}{9305}[Fabric Ripping]
-{9308}{9368}[Both Grunting]
-{9370}{9434}-Uhh--|-Ohh--
-{9470}{9517}-I'll bet we can make that.|-[Men Shouting]
-{9520}{9584}-[Guard] There they are!|-Two pesetas says we can't.
-{9586}{9632}You're on!
-{9634}{9714}[Both Yelling]
-{9716}{9777}-[Miguel] You lose!|-[Coins Jingling]
-{9827}{9879}-[Miguel]Ohhh!|-[Tulio] Whoa! What's happening here?
-{9882}{9958}We're both in barrels.|That's the extent of my knowledge.
-{10035}{10086}[Muffled Grunts, Groans]
-{10220}{10265}Okay, Miguel,|we gotta move fast.
-{10268}{10346}-On three, we jump out|and head for the dock.|-Good. Good. Excellent.
-{10348}{10420}[Together]|One, two, three--
-{10422}{10481}-[Both Grunting] Th-Three!|-[Creaking]
-{10483}{10556}-[Both Straining] Three! Ohh!|-[Creaking Continues]
-{10559}{10615}[Straining]|Three!
-{10771}{10876}[Tulio]Uh, you ready?|Ah, okay. One more. Let's go.
-{10879}{10992}[Together]|One, two, three!
-{10994}{11064}-[Fly Buzzing]|-[Wind Whistling]
-{11067}{11127}-Excuse us.|-Okay. We're outta here.
-{11129}{11211}-Who ordered the, uh, pickles?|-[Sailor Laughing]
-{11273}{11330}[Grunting]
-{11332}{11378}Cortes!
-{11381}{11521}-My crew was as carefully chosen|as the disciples of Christ.|-[Cracks Knuckles]
-{11524}{11624}-And I will not tolerate stowaways.|-[Gulps]
-{11626}{11725}You will be flogged.|And when we put into Cuba to resupply,
-{11728}{11805}God willing, you will|be flogged some more...
-{11807}{11867}and then enslaved|on the sugar plantations...
-{11869}{11921}for the rest of your miserable lives.
-{11923}{11980}To the brig.
-{11983}{12055}All right!|Cuba!
-{12058}{12111}-[Gasps]|-[Gasps]
-{12247}{12335}[Whistling]
-{12338}{12384}-[Chuckles]|-[Nickers]
-{12387}{12451}Hey, Altivo!|Ah-ta-ta, not for you!
-{12454}{12522}You're on half rations.|Orders from Cortes.
-{12548}{12618}-[Gasps]|-[Banging]
-{12620}{12729}[Banging Continues]
-{12793}{12873}So, uh, how's the--|How's the escape plan coming?
-{12921}{12981}All right.|All right. Wait!
-{12984}{13037}-I'm getting something.|-Yeah.
-{13152}{13221}Okay!|Here's the plan.
-{13223}{13288}-In the dead of night,|you and I grab some provisions,|-Mm-hm.
-{13291}{13349}hijack one of those long boats,
-{13351}{13469}and then we row back to Spain|like there's no ma�ana!
-{13471}{13531}-Back to Spain, yeah?|-Yeah.
-{13534}{13583}-In a rowboat.|-You got it!
-{13585}{13656}Great. Sensational.|And that-that's your plan, is it?
-{13658}{13733}-That's pretty much it.|-Well, I like it.
-{13735}{13811}-So, how do we get on deck?|-Umm.
-{13813}{13897}In the dead of night,|you and I grab some provisions,
-{13899}{13981}-hijack one of those longboats--|-Uh, great.
-{13983}{14031}Okay, what's your idea, smart guy?
-{14033}{14093}Wh-Wh-What do you mean? Don't ask|me that! You're the one with the plans.
-{14096}{14176}-[Horse Whinnying]|- Wait, I-I have an idea.
-{14178}{14241}Uh, come on. Give me--|Give me a boost.
-{14244}{14310}Hey, Altivo.
-{14312}{14369}Altivo.
-{14371}{14428}You want a nice apple?|Come and get it.
-{14431}{14517}-[Hooves Clattering]|-You have to do a trick for me first.
-{14520}{14568}Huh?|[Sputtering]
-{14569}{14627}All you have to do|is find a pry bar.
-{14630}{14753}A long piece of iron|with a hooky thing at the end. Yeah?
-{14756}{14837}-Miguel, you're talking to a horse!|-[Hooves Clattering]
-{14839}{14906}That's it, Altivo,|find the pry bar.
-{14908}{14973}-Yes, find the prybar.|-[Whinnying]
-{14976}{15050}-He can't understand "pry bar."|-[Clattering Continues]
-{15052}{15132}He's a dumb horse.|There's no way--
-{15134}{15191}[Whinnying]
-{15223}{15319}Well, it's not a pry bar.
-{15321}{15388}-[Wind Howling]|-[Ship Creaking]
-{15584}{15684}-[Gasps]|-[Nickers]
-{15687}{15784}Oh, Altivo.|Oh, thank you, old boy.
-{15786}{15876}Listen, if we can|ever return the favor--
-{15879}{15973}For Pete's sake, Miguel,|he's a ruthless warhorse, not a poodle.
-{15974}{16020}Come on,|before he licks you to death.
-{16022}{16107}-Adios.|-[Whinnies]
-{16150}{16221}Shh, shh. Shh.|Quiet, please.
-{16224}{16280}-What's the matter with him?|-Oh, he wants his apple.
-{16282}{16359}-Well, give it to him|before he wakes the whole ship!|-[Bellowing]
-{16362}{16430}-Fetch!|-[Whinnying] Huh?
-{16478}{16540}[Snoring]
-{16602}{16652}[Gasps]|Hmm?
-{16655}{16709}[Hoof beats Clatter, Stop Abruptly]
-{16711}{16758}-Huh?|-Huh?|-[Whinnying]
-{16784}{16865}[Whinnying]
-{16868}{16945}-Altivo!|-Huh? Miguel!
-{16948}{17001}[Yelling]
-{17004}{17057}-Altivo, I'm coming!|-Miguel!
-{17060}{17119}Just hang on!|I'm right here, old boy!
-{17121}{17182}-Have you lost your mind?|-Help is coming!
-{17184}{17241}[Gasps]
-{17244}{17289}Ho-o-ly ship!
-{17292}{17359}[Miguel, Tulio] Whoa!
-{17362}{17471}[All Gasping]
-{17509}{17592}-Loop the rope under the horse!|-Yes!
-{17739}{17809}On the count of three,|pull back on the rope.
-{17811}{17858}-What? [Gasps]|-Three!
-{17884}{17930}-[Tulio] Pull!|-[Grunting]
-{18090}{18163}Tulio!|Hey, it worked!
-{18265}{18331}Did any of the supplies make it?
-{18334}{18401}-Well, uh, yes and no.|-[Crunching Sound]
-{18462}{18543}Ohhh, great!
-{18545}{18617}Look on the positive side.|At least things can't get--
-{18646}{18713}Excuse me.|Were you going to say "worse"?
-{18715}{18761}-No. No.|-No? You're sure?
-{18763}{18814}-Absolutely not.|I've revised the whole thing.|-Okay, because--
-{18817}{18891}-[Tulio] Yeah,|we're at least in a rowboat.|-We're in a rowboat, exactly.
-{18894}{18940}[Miguel]|You miss nothing.
-{18967}{19062}[Grunting, Groaning]
-{19064}{19172}-[Grunting, Groaning Continue]|-[Whinnying]
-{19225}{19271}[Yelling]
-{19423}{19473}-[Groaning]|-[Gasps]
-{19475}{19526}[Together] Ahh!
-{19567}{19636}[Coughs]
-{19710}{19779}[Smacking Lips]
-{19861}{19914}[All Sobbing]
-{20219}{20342}Tulio, did you ever imagine|it would end like this?
-{20344}{20424}-The horse is a surprise.|-[Nickers]
-{20426}{20528}Any... regrets?
-{20531}{20615}Besides dying?|Yeah.
-{20618}{20744}I never... had enough... gold.
-{20774}{20909}My regret, besides dying, is...
-{20912}{20995}our greatest adventure|is over before it began,
-{20998}{21070}and no one will even remember us.
-{21072}{21171}Well, if it's|any consolation, Miguel,
-{21173}{21258}you... made my life...
-{21260}{21308}an adventure.|[Sobbing]
-{21310}{21393}And if it's any consolation,|Tulio, [Sniffles]
-{21395}{21491}-you made my life... rich.|-[Sobbing Continues]
-{21494}{21572}[Scoffs, Sputters]
-{21574}{21674}[Both Sobbing]
-{21677}{21723}[Shuddering Gasp]
-{21777}{21837}[Moans]
-{21951}{22003}-[Gasps] Is it?|-Hmm. [Gasps]
-{22006}{22057}It is! It's-It's--|It's-It's-It's--
-{22060}{22111}[Both] It's land!
-{22255}{22320}-[Both Screaming]|-[Whinnying]
-{22323}{22380}All in favor of getting back|in the boat, say "aye."
-{22383}{22451}-Aye!|-Aye! Go!|-[Nickers]
-{22770}{22869}Hey, Miguel!|I could use a little help!
-{22900}{22955}Miguel!|Hello!
-{22958}{22998}Tulio!|We've done it!
-{23000}{23088}-What's that? The map?|-It's all right here!
-{23090}{23156}You still have the map?
-{23159}{23206}The whistling rock!|The stream!
-{23208}{23278}You kept the map, but you couldn't grab|a little more food?
-{23281}{23337}Even those mountains.|You said so yourself:
-{23339}{23419}It could be possible.|And it is!
-{23421}{23540}It really is... the map to El Dorado!|[Panting]
-{23572}{23635}-You drank seawater, didn't you?|-Oh, come on!
-{23638}{23683}I'm not coming on!
-{23686}{23770}I wouldn't set foot in that jungle|for a million pesetas!
-{23773}{23880}-How about a hundred million?|-What?
-{23883}{23968}I just thought that, after all,|since El Dorado is the city of gold--
-{23971}{24052}-What's your point?|-You know, dust, nuggets, bricks,
-{24054}{24123}a temple of gold where you can|pluck gold from the very walls.
-{24125}{24171}But you don't want to go, so let's...
-{24174}{24228}get back into the boat|and row back to Spain.
-{24231}{24315}-After all, it worked so well last time.|-[Gibberish] Wait!
-{24318}{24405}Mmm. Wait a minute.|New plan.
-{24408}{24514}We find the city of gold.|We take the gold,
-{24517}{24588}-and then we go back to Spain.|-And buy Spain!
-{24590}{24637}-Yeah!|-That's the spirit!
-{24638}{24769}-Come on, Tulio.|We'll follow that trail!|-What trail?
-{24772}{24901}The trail that we blaze!
-{24903}{24949}[Nickers]
-{24952}{25013}That trail that we blaze!
-{25016}{25077}-[Mutters]|-[Whinnies]
-{25115}{25170}Oh, no, you don't.
-{25197}{25282}Yeow! Your horse|bit me in the butt!
-{25284}{25378}-[Chittering]|-[Hissing]
-{25380}{25468}Look out new world|Here we come
-{25471}{25553}-Brave, intrepid|-Charge!
-{25555}{25613}And then some
-{25658}{25737}Pioneers of maximum audacity
-{25740}{25855}Whose r�sum�s show|that we are just the team
-{25857}{25955}-To live where others merely dream|-What are you looking at?
-{25958}{26027}-Building up our head of steam|-Whoa!
-{26030}{26100}On the trail we blaze
-{26103}{26194}[Chorus Vocalizing]
-{26196}{26283}Changing legend into fact
-{26286}{26338}We shall ride into history
-{26340}{26407}Turning myth into truth
-{26410}{26480}We shall surely gaze
-{26483}{26584}On the sweet unfolding
-{26586}{26640}Of an antique mystery
-{26643}{26710}All will be revealed
-{26712}{26806}On the trail we blaze
-{26808}{26864}Oh! Oh!|Oh! Oh! Oh!
-{26866}{26939}[Chorus] On the trail|On the trail we blaze
-{26942}{27013}-Dinner is served.|-Hello.
-{27015}{27099}Paradise is close at hand
-{27138}{27185}Shangri-la
-{27188}{27258}The promised land
-{27284}{27364}Seventh heaven on demand
-{27367}{27421}Quite unusual nowadays
-{27423}{27496}Virgin vistas undefiled
-{27498}{27577}Minds and bodies running wild
-{27580}{27661}In the man behold a child
-{27663}{27720}On the trail we blaze
-{27723}{27786}[Chorus Vocalizing]
-{27788}{27842}[Chorus]|On the trail we blaze
-{27844}{27917}The trail we blaze
-{27920}{27969}Is road uncharted
-{27971}{28112}Through terra incognita|to a golden shrine
-{28115}{28192}No place for the traveler
-{28195}{28283}To be fainthearted
-{28286}{28403}We are part|of a sumptuous grand design
-{28405}{28467}Changing legend into fact
-{28470}{28552}We shall ride into history
-{28555}{28612}Turning myth into truth
-{28614}{28684}We shall surely gaze
-{28686}{28767}On the sweet unfolding
-{28770}{28843}Of an antique mystery
-{28846}{28904}All will be revealed
-{28950}{29005}[Creaking, Crackling]
-{29037}{29085}-On the trail we blaze|-[Yelling]
-{29088}{29158}[Yelling Continues]
-{29185}{29240}[All Grunting]
-{29243}{29288}[Groaning]
-{29804}{29851}Hmm.
-{29913}{30014}-[Snaps Fingers]|Miguel. Miguel, wake up.|-[Moans]
-{30016}{30101}-We're there. Oh, yeah. We found it.|-We found it? Oh!
-{30104}{30162}Fantastic!|Where is it? How far?
-{30164}{30209}-Right here! Here.|-Where? Behind the rock?
-{30212}{30256}-No, no. This is it.|-[Stammering]
-{30258}{30341}Give me that!|This ca-What?
-{30344}{30425}-Apparently, "El Dorado" is|native for...|-[Muttering]
-{30427}{30508}"great, big... rock"!
-{30511}{30600}[Echoing]
-{30603}{30721}Hey, but I tell you what, I'm feeling|generous, so you can have my share!
-{30724}{30804}You don't think Cortes could've|gotten here before us and--
-{30807}{30854}And what?|Taken all the really big rocks?
-{30857}{30912}-The scoundrel!|-Tulio, you--
-{30915}{30962}We have to think about this.|We've come all this way,
-{30965}{31035}-and we-we-we should really, you know--|-Get... on...
-{31038}{31091}the horse!
-{31132}{31181}[Sighs]
-{31184}{31263}No, no, no, not with the face.|Stop.
-{31265}{31364}[Clears Throat] Looks like|there's a pass right over there.
-{31367}{31421}[Panting] Ohh!
-{31424}{31477}[Panting Continues]
-{31479}{31563}-[Grunting, Gasps]|-[Whinnying]
-{31608}{31691}-[Men Shouting]|-[Both Gasping]
-{31694}{31751}-[Both] Hyah!|-[Whinnying]
-{31782}{31825}-[All Gasping]|-[Snorting]
-{31992}{32032}[Gasping, Grunting]
-{32138}{32223}[Chuckles] I've--
-{32225}{32292}Uh, hello. Is this your rock?
-{32293}{32340}Sorry. We were just looking.|We're, uh--
-{32341}{32387}We're tourists!|Tourist.
-{32389}{32480}-[Clears Throat]|-We-We lost our group. May we go now?
-{32482}{32562}-[Gasps]|-[Chuckles] Spears.
-{32564}{32600}[Grunts]
-{32632}{32699}[Nickers]
-{32775}{32821}[Chittering]
-{32902}{32949}Hey! Hey!
-{32952}{33000}-[Chittering]|-[Bird Calling]
-{33036}{33084}[Bird Calling Continues]
-{33666}{33711}[Sighs Dejectedly]
-{33714}{33776}[Whistling]
-{34251}{34302}[Gasps]
-{34343}{34413}[Gasps]
-{34416}{34477}Oh, my--
-{34532}{34576}[Miguel]|It's-It's--[Gasps]
-{34579}{34646}[Both Whispering]|El Dorado.
-{35373}{35420}-[Giggling]|-Oh!
-{35567}{35630}[Chittering]
-{35906}{35977}-[Chuckling]|-[Children Giggling]
-{35980}{36024}[Whispering]
-{36108}{36146}[Chanting]
-{36197}{36253}[Whispering]
-{36255}{36335}Mmm. Ah!
-{36411}{36465}[Chattering]
-{36519}{36628}[Sighs] Well, it was nice|working with you, partner.
-{36631}{36682}Tulio, I just want you to know...
-{36684}{36732}I'm sorry about|that girl in Barcelona.
-{36735}{36805}-So-You-You, f--|-[Man]Behold!
-{36808}{36867}As the prophesies foretold,
-{36870}{36955}the time of judgment is now!
-{36958}{37009}[Both Gasping]
-{37093}{37209}Citizens, did I not predict|that the gods would come to us?
-{37263}{37309}Hmm.
-{37311}{37397}[Chuckling]|My lords, I am Tzekel-Kan,
-{37400}{37488}your devoted high priest|and speaker for the gods.
-{37490}{37545}Hey.
-{37547}{37653}I am Chief Tannabok.|What names may we call you?
-{37655}{37747}-Huh? I am Miguel.|-[Murmuring]
-{37749}{37802}-And I am Tulio.|-[Murmuring Continues]
-{37835}{37889}And they call us Miguel and Tulio!
-{37892}{37967}[Tzekel-Kan] Your arrival|has been greatly anticipated.
-{37970}{38026}My lords, how long|will you be staying in El Dorado?
-{38029}{38148}-[Whimpering]|-Aha! I see you've captured|this temple-robbing thief.
-{38151}{38231}-How would you have us punish her?|-Oh, no, no, no, no, no!
-{38234}{38301}My lord, I am not a thief.
-{38304}{38365}See, the gods sent me a vision...
-{38368}{38433}to bring them tribute|from the temple to guide them here.
-{38436}{38549}My only wish is to serve the gods.
-{38675}{38736}-Release her, don't ya think?|-[Villagers Gasp]
-{38739}{38821}-[Grunts]|-Then you will begin|by returning this...
-{38824}{38896}to its rightful place.
-{38898}{38945}[Chittering]
-{38948}{39027}-My lords, why now|do you choose to visit us?|-[Scoffs]
-{39030}{39108}Enough!|You do not question... the gods!
-{39110}{39170}That's right!|Do not question us,
-{39172}{39280}or we shall have to unleash|our awesome and terrible power!
-{39283}{39337}And you don't want that!
-{39340}{39424}-Well, yes! We do!|-You do?
-{39427}{39518}Of course we do!|Visit your wrath upon this nonbeliever!
-{39520}{39577}Show us the truth|of your divinity!
-{39579}{39643}-Divinity! One moment.|-[Chuckles]
-{39746}{39794}Miguel, you know|that little voice people have...
-{39796}{39842}that tells them to quit|when they're ahead?
-{39844}{39911}-You don't have one!|-Well, I'm sorry. I got carried away!
-{39914}{40001}-Way away!|-Maybe we should tell|the truth and beg for mercy.
-{40004}{40044}Are you nuts?|We'd be butchered alive!
-{40047}{40095}Yes, but they're getting suspicious.
-{40098}{40160}-And if we don't come up|with so me mega-cosmic event--|-[Rumbling]
-{40163}{40228}-[Altivo Whinnying]|-[Chittering]
-{40230}{40290}I'm trying! I'm trying! I can't think|with all these distractions!
-{40292}{40366}-You-Horse--|-Think horse. Think, think, think.
-{40369}{40488}I'm on the verge of--|Stop! [Echoing]
-{40563}{40639}[Coughing Sound]
-{40642}{40703}-[Gasps]|-[Gasps]
-{40764}{40821}[Crickets Chirping]
-{41020}{41086}[Villagers Chanting]
-{41088}{41172}-[Chanting Continues]|-Don't make me start it up again,
-{41175}{41228}'cause I will.
-{41231}{41299}[Chanting Continues]
-{41348}{41435}O mighty lords!
-{41438}{41494}Come.|Let me show you to your temple.
-{41496}{41549}All right!|Temple.
-{41623}{41680}Step aside.
-{41725}{41769}[Villagers Murmuring]
-{42132}{42211}[Panting]
-{42214}{42289}[Grunting]
-{42291}{42359}[Panting Continues]
-{42490}{42535}[Sputters]
-{42706}{42817}To commemorate your arrival,|I propose a reverent ceremony at dawn.
-{42819}{42957}Ah, then perhaps I could prepare|a glorious feast for you tonight.
-{42959}{43026}Which would you prefer?
-{43059}{43108}-Both.|-Both.|-[Together] Both.
-{43110}{43157}Both is good.
-{43158}{43245}-My lords.|-My lords.
-{43315}{43407}And so dawns the Age of the Jaguar.
-{43448}{43504}Happy New Year.|[Chuckles]
-{43656}{43720}-Hey!|-Hey. Hey.
-{43722}{43781}-[Laughing]|-[Laughing]
-{43784}{43844}[Whinnying]
-{43847}{43963}Tulio. Tulio.|They actually think we're gods.
-{43966}{44058}-[Tulio]|It's an entire city of suckers.|-[Miguel Laughing]
-{44060}{44107}We just have to keep|this up long enough...
-{44110}{44191}to load up on the gold|and then get the hell out of here!
-{44194}{44254}Tulio, we'll be living like kings!
-{44257}{44321}-Miguel and Tulio!|-Tulio and Miguel!
-{44324}{44387}-Mighty and powerful gods.|-Gods.
-{44390}{44460}-Hello.|-[Both Gasping, Whimpering]
-{44463}{44534}-[Laughing]|-Depart, mortal,
-{44537}{44609}-before we strike you|with a lightning bolt.|-Mmm. Mmmm!
-{44611}{44652}[Humming]
-{44655}{44724}Beware the wrath of the gods! Begone!|[Clicking Sound]
-{44726}{44800}Save it for the high priest, honey.|You're gonna need it.
-{44802}{44858}-[Clicking Sound]|-Miguel, it's not working.
-{44860}{44920}-[Clicking Sound]|-Miguel! We've been caught.
-{44922}{44983}Oh, no.|Don't worry about me, boys.
-{44985}{45087}"My only wish is to serve the gods."|Remember?
-{45090}{45167}-How?|-Well, if you guys want the gold,
-{45169}{45218}then you don't want|to get caught, right?
-{45221}{45315}-You're going to need my help.|-[Scoffs] What makes you|think we need your help?
-{45347}{45418}-"Ck-ck." Are you serious?|-[Whinnies]
-{45420}{45492}I-What-We--
-{45494}{45561}Okay. So, uh, who are you?
-{45564}{45640}-Yeah, uh, what's your angle?|-[Laughs] No angle.
-{45642}{45705}-I want in.|-In?
-{45708}{45776}-On the scam.|-[Chuckles]
-{45778}{45831}There's no scam!|Why would you think there's a--
-{45834}{45907}-Why?|-So I can get out.
-{45910}{45962}I thought she just said she wanted in?
-{45965}{46020}She wants in so she can get out.
-{46022}{46093}Aha! Got it.|[Chuckles]
-{46095}{46190}-W-Why?|-Think you're the only ones|who dream of better things?
-{46193}{46281}Of adventure?|You've got your reasons,
-{46283}{46329}and I've got mine.
-{46331}{46389}Let's not make it personal, okay?
-{46392}{46474}-It's just business.|-[Both] Oh.
-{46476}{46549}So when you guys|are ready to go back to...
-{46552}{46604}wherever you came from,
-{46606}{46663}-I'm going with you.|-[Laughs]
-{46665}{46736}No!|Don't think so.
-{46738}{46784}[Coughs]
-{46786}{46837}-[Whistling]|-All right. Fine.
-{46840}{46885}After all, I'm sure you know...
-{46888}{46962}the proper rituals|for blessing a tribute,|the holiest days on the calendar--
-{46964}{47059}Oh, and of course you know|all about Xibalba.
-{47061}{47135}[Chuckles]|Okay? Good luck.
-{47198}{47279}-See you at the execution.|-[Gibberish]
-{47281}{47339}Wait! Ho--|Would you-Hold it.
-{47445}{47512}-[Chuckles] Deal?|-Hmm.
-{47514}{47604}-Deal.|-Not yet.|Let's just see how this works out.
-{47606}{47709}Uh-huh. Well, then I suppose that means|you'll want these back?
-{47757}{47831}-How'd you get those?|-Where was she keeping them?
-{47834}{47920}-Call me, Chel, your new partner.|-Uh,
-{47923}{47968}-that's partner-in-training.|-[Humming]
-{47971}{48018}Now, put these on.
-{48021}{48074}Your public's waiting.|[Continues]
-{48102}{48153}-[Chel Giggling]|-Do you mind?
-{48156}{48202}No.
-{48204}{48250}Oh! Oh! Oh!|[Giggles]
-{48252}{48302}Right. Uh, excuse me.
-{48305}{48380}-[Grunting]|-Bye.
-{48433}{48526}Mm-mm-mmm! Maybe they should call|this place "Chel Dorado."
-{48528}{48601}[Chuckles]|She's whoo--
-{48603}{48654}-Whoa, she's trouble! Wait a minute!|-What?
-{48657}{48708}The little voice--|Remember the little voice?
-{48710}{48784}Ju-Ju-Just for a second|imagine that you have one.
-{48787}{48848}What would it be saying about Chel?
-{48876}{48945}-[Purrs]|-No. No. Listen.
-{48947}{48993}-We are partners.|-We are partners.
-{48995}{49084}-We have a plan, remember?|-Get the gold. Go back to Spain.
-{49087}{49163}Yes! And we are|pretending to be gods.
-{49166}{49237}Now, put Chel in the mix.|What is the voice saying?
-{49240}{49326}-Listen carefully.|-[Gasps]
-{49328}{49456}-Chel is off-limits, hmm?|-Bravo! Chel is off-limits!
-{49458}{49504}Shake on it.
-{49506}{49573}-Off-limits. Mm. Mm.|-[Both] Mmmm.
-{49576}{49632}Besides, we're supposed to be gods.
-{49635}{49685}We must avoid|giving in to temptation.
-{49688}{49828}-Gods. Oh. This is|gonna be tougher than I thought.|-Tulio, relax!
-{49830}{49940}All you have to do is smile,|act godly and follow my lead.
-{49943}{50000}[Gasps]
-{50021}{50085}[Gasps] Big smile.|Like you mean it.
-{50088}{50135}A-one, two, three.
-{50249}{50343}I hardly think I'm qualified
-{50345}{50412}To come across all sanctified
-{50415}{50508}I just don't cut it|with the cherubim
-{50509}{50572}-[Groaning]|-Tulio, what are you talking about?
-{50575}{50647}There again they're on their knees
-{50649}{50710}Being worshipped is a breeze
-{50712}{50775}Which rather suits us in
-{50778}{50875}-The interim|-Interim, interim|It's me and him
-{50878}{50954}Oh, my God!|It's tough to be a god
-{50957}{51053}Tread where mortals have not trod
-{51056}{51169}Be deified when really you're a sham
-{51210}{51281}Be an object of devotion
-{51282}{51353}Be the subject of psalms
-{51356}{51425}It's a rather touching notion
-{51428}{51506}All those prayers and those salaams
-{51508}{51586}And who am I to bridle
-{51589}{51645}If I'm forced to be an idol
-{51647}{51726}If they say that I'm a god
-{51728}{51779}That's what I am
-{51782}{51860}What's more if we don't comply
-{51863}{51912}With the locals' wishes
-{51914}{52013}I can see us being sacrificed
-{52016}{52072}-Or stuffed|-You have a point there.|Very good thinking.
-{52075}{52164}-So let's be gods|The perks are great|-Yeah!
-{52167}{52237}-El Dorado on our plates|-Thank you.
-{52240}{52290}Local feelings should not
-{52293}{52338}-Be rebuffed|-Never rebuffed
-{52341}{52429}I never rebuff a local feeling|No, my friend
-{52432}{52481}It's tough to be a god
-{52484}{52566}But if you get the people's nod
-{52569}{52630}Count your blessings|Yeah, keep 'em sweet
-{52632}{52721}-That's our advice|-It's great advice!
-{52723}{52795}Be a symbol of perfection
-{52798}{52872}Be a legend|Be a cult
-{52874}{52940}Take their praise|Take a collection
-{52942}{53012}As the multitudes exalt
-{53014}{53089}Don a supernatural habit
-{53092}{53171}-We'd be crazy not to grab it|-You got it!
-{53173}{53228}So sign on two new gods
-{53230}{53295}For paradise
-{53297}{53394}Par-a-dise
-{53397}{53450}-[Continues]|-[Chattering, Laughing]
-{53515}{53590}-[Screeching]|-[Drunken Whinnying]
-{53725}{53770}[Fades, Ends]
-{53797}{53890}[Both Snoring, Mumbling]
-{53988}{54055}-[Metallic Clattering]|-[Both Gasping]
-{54058}{54127}Good morning, my lords!
-{54130}{54224}-He's back!|-Oh, no.
-{54300}{54352}And now it's my turn!
-{54425}{54545}-The gods have awakened!|-[Cheering]
-{54547}{54593}Whoa!|[Groans]
-{54595}{54653}Mm-hmm.
-{54656}{54716}-[Grunts]|-[Whimpering]
-{54719}{54821}-Hey, Chel, what's going on?|-It's not gonna be good.
-{54823}{54871}Thank you.
-{54874}{54936}This city has been granted|a great blessing.
-{54938}{55054}And what have we done|to show our gratitude?
-{55057}{55132}A meager celebration.
-{55135}{55241}-The gods deserve a proper tribute!|-[Crowd Gasping]
-{55270}{55330}-Hmm.|-Hmm.
-{55332}{55449}The beginning of a new era,|the dawning of a new age...
-{55452}{55523}demands...
-{55526}{55582}sacrifice!
-{55584}{55630}-[All Gasping]|-[Gasps]
-{55740}{55816}-I don't like this.|-Tulio, we've got to do something.
-{55819}{55874}[Groans]
-{55979}{56032}-[Groaning]|-[Yells]
-{56035}{56093}[Tulio]Stop!
-{56095}{56153}Hmm?
-{56200}{56264}-This is not a proper tribute!|-[Moaning]
-{56267}{56315}-[Crowd Gasps]|-You do not want the tribute?
-{56317}{56363}No. No, no.|W-We want tribute.
-{56365}{56460}Uh, it's just that, uh--|Tulio, tell him.
-{56512}{56611}The stars are not in position|for this tribute!
-{56614}{56670}Like he says, the stars--
-{56673}{56721}Can't do it.
-{56724}{56770}Not today.
-{56858}{56904}Ah.
-{56906}{56994}Perhaps it is possible|I misread... the heavens.
-{56996}{57092}-Don't worry about it.|To err is human, to forgive--|-Hmm.
-{57095}{57211}My lords, may the people of El Dorado|offer you our tribute.
-{57238}{57287}[Crowd Gasping]
-{57321}{57366}[Gasps]
-{57369}{57438}[Gasping Continues]
-{57468}{57537}My lords, does this please you?
-{57539}{57605}-[Sighs]|-Yes, very nice.
-{57608}{57653}-Certainly acceptable.|-Yes, lovely. It'll do.
-{57656}{57724}The gods have chosen!
-{57726}{57772}To Xibalba?
-{57774}{57845}-[Crowd Murmuring]|-No. No.
-{57847}{57905}[Together] To Xibalba!
-{57908}{57953}-[Crowd Cheering]|-Oh, great.
-{57986}{58056}[Cheering Continues]
-{58296}{58373}Hey, Chel, um,|what are they doing?
-{58376}{58457}They're sending it to Xibalba,|the spirit world.
-{58497}{58564}-The spirit world.|-I'll take care of it.
-{58605}{58671}[Clears Throat]|Um, excuse me, Chief.
-{58674}{58738}The gods have changed their minds|about Xibalba.
-{58807}{58913}They wish to bask in the reverence|that has been shown them.
-{58915}{58947}Stop!
-{59039}{59131}-[Crowd Murmuring]|-They wish to bask!
-{59134}{59210}Take the tribute to the gods' temple!
-{59212}{59275}-[Crowd Cheering]|-[Humming]
-{59278}{59326}Nice going.
-{59484}{59529}[Chuckles]
-{59564}{59620}Smile while you can.
-{59883}{59968}Well, well, well,
-{59969}{60033}what have we here?
-{60036}{60088}[Evil Chuckle]
-{60091}{60153}-[Tulio]Ai-ai-ai.|-Tons of gold for you, hah
-{60156}{60238}-And tons of gold for me, hoo|-[Together]|Tons of gold for we, ah
-{60241}{60316}-Not bad for a day's work, eh?|-Not bad at all.
-{60319}{60404}We just became richer|than the king of Spain. [Laughing]
-{60407}{60542}You know, speaking of kings, the chief|and high priest seem a bit, uh, tense.
-{60544}{60594}Buenos d�as!
-{60596}{60653}Listen, all we have to do...
-{60656}{60760}is keep playing|the one against the other.
-{60762}{60832}You know, do a little god dance,|chant some mystic mumbo jumbo,
-{60834}{60893}dazzle 'em with some smoke and mirrors|and then get the hell back to Spain.
-{60896}{61015}Um, Tulio, how are we gonna|get all this back to Spain?
-{61018}{61079}Ummm--
-{61082}{61133}-A boat?|-[Tulio] Yeah.
-{61136}{61208}Um, we really hate|to be ascending so soon,
-{61209}{61270}but, uh, some urgent business|has come up--
-{61273}{61325}-family matters-and it's just a bit--|-Yeah, family.
-{61327}{61373}Badda-bing, budda-boom,|you know what I mean.
-{61375}{61448}Oh, we expected you|to be staying with us...
-{61451}{61519}for the next...|thousand years.
-{61522}{61573}Well, as we say|in the spirit world,
-{61575}{61661}-there's your plan and then...|there's the gods' plan.|-Mm-hmm.
-{61664}{61732}And our plan, uh, calls for a boat,|'cause we're gonna ascend...
-{61734}{61795}-kind of in|a horizontal pattern at first.|-[Chuckles]
-{61798}{61893}And then we're gonna go vertical,|uh, as we get further out to sea.
-{61895}{61972}Hmm. To build a boat|large and glorious enough...
-{61975}{62037}would take... about a week.
-{62040}{62103}-A week? Hmm.|-Um--
-{62106}{62179}I wonder how long it would take|Tzekel-Kan to do it.
-{62182}{62272}But-But for the gods,|uh, three days.
-{62275}{62320}Uh--
-{62323}{62389}Well, if that's the best you can do.
-{62391}{62491}Oh, perhaps if you were not burdened|with so much tribute,
-{62494}{62540}you could leave sooner.
-{62542}{62605}-Hmm?|-Hmm? I like it here. Miguel?
-{62608}{62684}Yep, yep.|Three days is just fine.
-{62687}{62746}-[Tulio]No, three days is not fine.|-[Chel Humming]
-{62748}{62834}-This is a real--|-Mmm.
-{62837}{62938}-these-these are the ones-problem.|-Oh. Thank you.
-{62941}{63013}-Miguel, how are we gonna|keep this up for three days?|-[Yawns]
-{63016}{63063}You worry too much.
-{63066}{63118}No, I worry exactly the right amount.
-{63121}{63197}You can never worry too much.
-{63199}{63264}We just have to lie low.
-{63267}{63396}But, Tulio, this place is amazing!|I mean, I wonder what's--
-{63399}{63457}No! Don't even move!
-{63458}{63504}-Tulio--|-You're moving!
-{63505}{63557}-A little, but-Come on.|-Hey! Hey! Hey!
-{63560}{63610}-[Stammering] Stay!|-I gotta-I--
-{63612}{63714}-[Groans]Just... stand there!|-I just--
-{63748}{63804}For three days?
-{63807}{63855}-[Clatter]|-Yes! Exactly.
-{63857}{63956}For three days.|Don't even breathe. All right?
-{63988}{64034}All right.|We lie low.
-{64036}{64085}No, ah, ah, ah, ah.|Promise?
-{64088}{64133}Yeah, yeah, yeah, yeah.|All right, all right.
-{64136}{64217}Great! Good. Okay.
-{64219}{64301}-Now, if you'll excuse me,|I have to gloat over my gold.|-[Giggling]
-{64348}{64409}[Kissing]
-{64412}{64476}Oh, yum, yum, yum.
-{64479}{64537}[Kissing Continues]
-{64539}{64609}-It's beautiful, isn't it?|-Yeah!
-{64612}{64693}-You know, you really shouldn't miss it.|-I know.
-{64696}{64748}But I-I couldn't.
-{64751}{64821}Go ahead.|I'll cover for you.
-{64823}{64918}-Oh, good. Thanks.|-[Tulio Singing, Indistinct]
-{64920}{64976}-So, what happened to Altivo?|-I don't know.
-{64978}{65068}Tulio goes for paradise
-{65071}{65152}-Hey, what happened to Miguel?|-I don't know.
-{65155}{65240}Oh, my God! He's gone!|Miguel's gone!
-{65242}{65296}He's loose!|What am I gonna do?
-{65299}{65385}Oh, no, no!|[Sobbing]
-{65388}{65471}Oh, Miguel is right.|You worry too much.
-{65474}{65521}[Groaning]
-{65523}{65597}Oh. Ooh.|[Moans]
-{65600}{65700}-Oh, yeah. Oh, oh, down, down, down.|-[Humming]
-{65703}{65773}-No! No! Big trouble.|-[Gasps]
-{65775}{65832}[Chuckling] Whoa!
-{65835}{65913}Look, sweetheart,|we're in the middle of a con here,
-{65916}{65969}walking the razor's edge.
-{65972}{66030}On the one hand, gold!
-{66033}{66141}On the other hand,|painful, agonizing failure!
-{66144}{66239}[Clears Throat] I can't afford|any tempta-uh, distractions.
-{66242}{66321}So, I'm sorry.|So sorry.
-{66323}{66412}[Sharp Inhale] But perhaps|another time? Another place, hmm?
-{66414}{66496}[Chuckles]|Too bad. I'm free now.
-{66533}{66619}I'm... not really sure|I trust you.
-{66621}{66692}Mmm, I'm not really|asking you to trust me.
-{66694}{66773}-Am I?|-Whoo.
-{66776}{66823}'Kay.
-{66826}{66872}[Moans]
-{66874}{66924}Ooh, yeah.
-{67063}{67124}[Chirping]
-{67456}{67513}Excuse me.|Excuse me?
-{67542}{67607}Hey, where is everybody?
-{67610}{67662}They've been cleared|from the streets, my lord,
-{67664}{67743}so the city can be cleansed,|as you ordered.
-{67745}{67795}-Cleansed?|-Yes.
-{67798}{67877}So the Age of the Jaguar can begin,
-{67880}{67925}-as you ordered, my lord.|-[Man]Get back in!
-{67928}{67974}-Where are you going?|-Hey, stop that!
-{67976}{68021}-[Guard]Move!|-Hey, stop that!
-{68023}{68077}What are you doing?|Stop that!
-{68079}{68130}But, my lord,|anyone who disobeys your orders...
-{68133}{68200}must be punished, as you ordered.
-{68203}{68277}It seems I've been giving|a lot of orders, haven't I?
-{68280}{68341}Tzekel-Kan has made|your commands clear, my lord.
-{68344}{68396}Really?
-{68397}{68479}-Here's an order: Take the day off.|-Huh?
-{68508}{68589}-Are you all right?|-[Panting]
-{68592}{68643}-Here.|-[Whimpers]
-{68686}{68772}Oh, no!|It's all right. Please.
-{68832}{68910}[Random Notes]
-{68948}{69002}[Tuning]
-{69053}{69081}[Continues]
-{69084}{69168}-[Whinnies]|-Hey, Altivo. There you are.
-{69170}{69227}-[Gasps]|-[Strums]
-{69230}{69275}[Playing A Tune]
-{69278}{69344}-Oh.|-Oh.
-{69416}{69486}[Both Chuckling]
-{69489}{69527}[Murmuring]
-{69588}{69648}[Continues]
-{69708}{69772}The more I learn
-{69775}{69844}The more I see
-{69887}{69998}The less the world impassions me
-{70056}{70107}The hungry heart
-{70136}{70185}The roving eye
-{70215}{70263}Have come to rest
-{70266}{70327}Do not apply
-{70394}{70449}The frantic chase
-{70479}{70548}The crazy ride
-{70550}{70642}The thrill has gone
-{70645}{70717}I step aside
-{70720}{70756}I'd believe
-{70759}{70800}In anything
-{70803}{70860}Were it not for you
-{70890}{70976}Showing me by just existing
-{70978}{71050}Only this is true
-{71053}{71108}I love you
-{71141}{71208}I love you
-{71210}{71276}Without question
-{71278}{71319}I love you
-{71322}{71401}I'd believe in anything
-{71404}{71451}Were it not for you
-{71489}{71626}Showing me by just existing|Only this is true
-{71629}{71711}Oh, I love you
-{71829}{71876}[Chuckles]
-{71904}{71954}[All Chuckling]
-{72128}{72173}[Whinnies]
-{72332}{72453}Hmm. This is not what I expected.
-{72482}{72529}Perhaps Lord Tulio will enlighten me.
-{72532}{72591}[Chuckling]
-{72593}{72639}How do I look?
-{72642}{72721}Oh, uh-Well, you--
-{72724}{72770}Oh, shut up.
-{72773}{72836}-[Tulio Gasps]Oh! Whoa!|-[Chel Humming]
-{72838}{72883}-[Tzekel-Kan]My lord?|-[Gasps]
-{72886}{72955}-Hello?|-The high priest.|-Ow!
-{72958}{73052}[Gasps] What's he gonna think if he|finds one of the gods like this with me?
-{73054}{73104}Uh, lucky god?
-{73106}{73166}J-Just-Just-Just--|[Groans]
-{73168}{73214}-Hello?|-Whoa!
-{73271}{73317}Oh, Tzekel-Kan!
-{73319}{73444}-What brings you here?|-I-I-I-I-I humbly request|an audience with you, my lord.
-{73447}{73575}-Yes, what can I do for you?|-My lord, I have just seen|Lord Miguel out among the people.
-{73577}{73677}-Really?|-If I may be so bold as to|offer some advice.
-{73679}{73740}-All right. Shoot.|-[Clears Throat]
-{73742}{73798}My lord, you are perfect.
-{73800}{73853}[Chuckles]|Oh, well. Go on.
-{73855}{73980}But in your perfection, you cannot know|how imperfect humans are.
-{73983}{74106}-Like snakes they are.|Spineless and slippery.|-[Hissing]
-{74109}{74232}They are as untrustworthy as rats,|stealing and cheating with no remorse.
-{74262}{74365}Spinning webs of lies, like spiders!
-{74368}{74432}Stop it!|That's disgusting.
-{74435}{74498}They're beyond disgusting!
-{74500}{74577}-Yeah, yeah, way beyond.|-Then we're in agreement.
-{74579}{74637}I'll begin the necessary|preparations immediately.
-{74639}{74751}Do you wish to have|your victims bound to an altar,|or would you prefer them free-range?
-{74754}{74817}-[Mutters]|-And will you be devouring|their essence whole...
-{74820}{74887}or piece by piece?
-{74890}{74948}Tzekel, you've lost me.
-{74951}{75046}My lord, these people will not|respect you if they do not fear you.
-{75048}{75107}And, of course, we'll make them|fear us by--
-{75110}{75171}A sacrifice, as it is prophesied
-{75174}{75259}-The history of the Age|of the Jaguar will be written in--|-Ink?
-{75261}{75314}-Blood!|-Blood! Oh, right.
-{75317}{75381}Of course. I should probably|consult with Lord Miguel.
-{75383}{75478}This is fairly important stuff.|I, um, should discuss the entire, uh,
-{75480}{75563}blood issue right away.
-{75565}{75635}Excuse us, won't you?|Let's go.
-{75637}{75770}[Chuckles]|Finally... we're connecting.
-{75773}{75818}[Horse Whinnies]
-{75852}{75913}[Nickering]
-{75986}{76032}This way.
-{76076}{76145}-[Chief Laughing]|-[Chuckling, Panting]
-{76182}{76227}[Grunts]
-{76230}{76330}-What do you think you're doing?|-[Chuckles] Lying low.
-{76333}{76393}[Grunts]|Look, change of plans.
-{76395}{76496}-We have to grab what we can carry|and get out of here now!|-What? Why?
-{76499}{76552}Because the high priest is nuts!|He wants--
-{76554}{76614}-This is unacceptable!|-Yeah. Yeah. Like he said.
-{76616}{76699}The gods should not|be playing ball like this!
-{76702}{76814}-Well, exactly!|-This is how the gods should play ball!
-{76816}{76871}-[Cheering]|-[Horn Sounding]
-{76912}{76972}-Well, don't blame me.|-I blame you.
-{77014}{77100}What is the object of this game,|pray tell?
-{77103}{77148}You've gotta knock the ball|through the hoop.
-{77151}{77196}-What hoop?|-That hoop.
-{77199}{77268}-[Cheering Continues]|-That's impossible.
-{77270}{77329}-We're gonna lose.|-Gods don't lose.
-{77369}{77419}[Rumbling]
-{77422}{77467}[Men] Heep-ha!
-{77470}{77562}My lords, Chief Tannabok's warriors are|the finest ballplayers in the city.
-{77564}{77664}-[Grunting, Gargling]|-Fifteen mere mortals against two gods.
-{77667}{77704}[Both Gulp]
-{77707}{77752}-I realize it's a bit uneven,|-[Warriors] Heep-ha!
-{77755}{77865}but I do hope they'll challenge you|enough to make the game... interesting.
-{77868}{77914}-Play ball!|-[Crowd Cheering]
-{77970}{78041}Crush them into the dust.|[Chuckles]
-{78044}{78089}-Enjoy.|-[Crowd Chanting]Go! Go! Go! Go! Go!
-{78091}{78140}-[Rumbling]|-[Chanting, Cheering Continue]
-{78254}{78301}-[Yells]|-[Gasps]
-{78303}{78369}-D'oh. D'oh.|-[Murmuring]
-{78372}{78410}[All Grunting]
-{78412}{78472}My lords,
-{78474}{78554}were you not supposed|to put the ball into play?
-{78557}{78608}Ohh!|[Chuckles]
-{78610}{78657}Well, no, no, no, no, no--
-{78660}{78789}We were merely demonstrating|the, um, traditional, uh,|first avoidance maneuver.
-{78792}{78854}Ah.
-{78856}{78908}I've never heard|of such a thing.
-{78910}{78967}Excuse me.
-{78970}{79039}Who invented this game?
-{79042}{79147}-Why, the gods, [Chuckles] of course.|-[Chuckles]
-{79149}{79229}I'm warning you,|don't push your luck with this guy.
-{79232}{79324}But, Tulio, we're the gods.
-{79327}{79389}-[Crowd Cheering]|-[Grunts]
-{79458}{79510}Tulio!|The hip! The hip!
-{79512}{79557}[Groans]
-{79593}{79679}-[Panting] This is impossible.|-[Grunts]
-{79681}{79749}-[Cheering]|-[Groaning]
-{79752}{79815}-[Horn Sounds]|-Excuse me?
-{79818}{79897}-Heep--|-Haaa!
-{79928}{79984}Heep-ha! Heep-ha!|Heep-ha! Heep-ha!
-{79987}{80033}[Both Groan]
-{80135}{80229}-[Warriors Chanting]|-[Footsteps Rumbling]
-{80231}{80280}[Chel]|Foul! That was a foul!
-{80283}{80334}[Chanting Continues]
-{80337}{80391}-[Squeaks]|-[Gasps]
-{80394}{80476}[Warrior]|New ball!
-{80478}{80534}[Both Panting]
-{80537}{80584}How long does this go on anyway?
-{80587}{80648}The game is over|when the shadow touches this line.
-{80650}{80727}-We need a miracle.|-No, we need to cheat.
-{80867}{80933}-[Warriors Shouting]|-[Crowd Cheering]
-{80959}{81019}[Chittering]
-{81116}{81183}-[Both] Yes!|-[Horn Sounding]
-{81254}{81309}-[Both] Huh?|-[All Grunting]
-{81311}{81362}Hey!
-{81364}{81425}-[Laughing]|-Whoo-hoo-hoo!
-{81474}{81530}-[Crowd Cheering]|-[Both] Ol�!
-{81668}{81720}-[Crowd Chanting, Indistinct]|-[All] Huh?
-{81723}{81783}-[Women Cheering]|-Hmm.
-{81811}{81844}Yes! [Laughs]
-{81846}{81892}-Who's the god?|-You de god.
-{81894}{81969}-No, you the god. Fine.|-No, you de god.
-{81972}{82081}[Giggling]|Y-Yeah! Yeah!
-{82083}{82153}[Coughs]
-{82268}{82341}Guys, it's here!|It's right here with me!
-{82343}{82428}-[Both Gasp]|-[Altivo Whinnies]
-{82604}{82680}[Gasping]
-{82681}{82724}-[All Gasping]|-[Chittering]
-{82848}{82897}Mmm.
-{82941}{83008}[Cheering]
-{83077}{83156}-[Horn Sounding]|-I love this game! [Laughing]
-{83158}{83205}-[Both] Yes!|-[Laughing]
-{83207}{83273}-[Laughing]|-Well done, partner.
-{83276}{83361}-Yes! Yes!|-My lords,|congratulations on your victory.
-{83364}{83437}And now, you will, of course,|wish to have the losing team...
-{83440}{83499}-sacrificed to your glory.|-[Crowd Gasping]
-{83501}{83549}[Groaning]
-{83551}{83600}Not again.
-{83602}{83651}-Look, Tzekel-Kan,|-Uh, Miguel?
-{83654}{83710}-forget the sacrifices.|-Miguel.
-{83713}{83778}We don't want any sacrifices.
-{83780}{83894}But all of the sacred writings|say that you will devour|the wicked and the unrighteous.
-{83897}{83964}Well, I don't see anyone here|who fits that description.
-{83967}{84047}[Scoffs]|Well, as speaker for the gods,
-{84050}{84152}it would be my privilege|to point them out.
-{84154}{84223}The gods are speaking|for themselves now!
-{84225}{84281}This city and these people...
-{84283}{84334}have no need for you anymore!
-{84336}{84391}[Grunts]
-{84393}{84455}There will be no sacrifices!
-{84458}{84541}-Not now, not ever!|-[Crowd Cheering]
-{84571}{84655}-Get out!|-[Gasps]
-{84697}{84788}-[Scoffs]|-[Cheering Continues]
-{84791}{84840}[Gasps]
-{84842}{84904}[Low Growl]
-{84907}{85009}Mmm. As the...
-{85011}{85101}gods... command.
-{85103}{85140}-[Laughing]|-[Crowd Cheering]
-{85143}{85199}Whoa! Who-o-oa!
-{85202}{85287}Hey, not bad for|my first commandment, huh? [Laughs]
-{85290}{85348}Miguel, the little voice--|[Stammers]
-{85349}{85396}Yeah, fine.
-{85477}{85561}Do you know why|the gods demand blood?
-{85564}{85639}-I don't know.|-[Grunts]
-{85642}{85711}Because gods don't bleed.
-{85797}{85882}It's time to take the future|into my own hands,
-{85884}{85942}and this city will be cleansed.
-{85945}{86008}Even if I have to do it myself.
-{86010}{86066}-Uh, how?|-[Grunts]
-{86068}{86157}There are dark magics here...
-{86159}{86221}and power... and--
-{86224}{86294}Ooh. My, my, my, my, my.
-{86296}{86376}It's not called|the Age of the Jaguar for nothing.
-{86379}{86476}[Snickering]
-{86478}{86604}This'll be a delightful way|to bid the false gods... good-bye.
-{86683}{86753}[Workers Shouting]
-{86906}{86951}Hmm.
-{86954}{87012}-Adios, muchacho!|-[Chuckles]
-{87103}{87183}-[Chuckles, Gasps]|-[Birds Chirping]
-{87237}{87283}[Pleasurable Moan]
-{87285}{87356}[Workers Shouting]
-{87391}{87473}-Well, it's, um, uh, nice.|-Nice?
-{87476}{87517}-Yes, nice.|-But?
-{87520}{87620}Um, but, uh,|is it really fit for the gods?
-{87622}{87668}-My lord.|-[Chuckles]
-{87670}{87765}I have been around boats, believe me,
-{87768}{87854}and that, um--|the pointy, tall, um--
-{87856}{87904}the-the-the-the long|up and down thing--
-{87907}{87982}-The mast?|-The mast, yes, yes. The mast is good.
-{87985}{88073}Well, look at it. [Stammering]|There's not nearly enough, uh,
-{88076}{88122}um, rope.
-{88124}{88201}-Rope?|-Yes, rope. Exactly my point.
-{88204}{88294}Vertical ascension requires|a lot more, uh, rope.
-{88296}{88396}-My lord. [Chuckles]|-And look at this. [Grunting]
-{88398}{88477}[Sighs, Clears Throat]|This doesn't look at all secure.
-{88480}{88604}Chief, I'm sorry. I'm sorry, but all|in all, it is a complete do-over.
-{88701}{88747}Hmm.
-{88797}{88854}You know, Lord Miguel,
-{88856}{88914}if you wish to stay,
-{88917}{88972}you only need to say so.
-{88999}{89094}-You mean... forever?|-Of course.
-{89192}{89262}Oh, no, I can't.|I have to go back with Tulio.
-{89265}{89313}We're-We're partners.
-{89346}{89404}Big plans in the other world, huh?
-{89439}{89492}Yep. Big plans.
-{89494}{89603}Well, then,|I better go get some more rope, huh?
-{89606}{89673}Oh, Chief, um,|forget about the rope.
-{89676}{89723}Um, my mistake.
-{89726}{89801}Hey, to err is human.
-{90112}{90158}-[Tulio]Half?.|-Mm-hmm.
-{90200}{90265}[Laughing]|I don't think so.
-{90267}{90355}I-I'll tell you what. Uh, I'll let you|come back to Spain with us,
-{90357}{90458}like you wanted, and, um, yeah,|I can see my way clear to throwing you,
-{90461}{90508}mmm, ten percent?
-{90510}{90610}[Chuckles] You know, maybe I won't go|to Spain with you and take a third.
-{90612}{90664}Ohh! [Chuckling]
-{90667}{90721}Like you don't wanna go to Spain.
-{90723}{90792}Oh, like you don't want me|to want to go to Spain.
-{90795}{90903}-I want you to want... what you want.|-Mm-hmm?
-{90906}{90958}Mm-hmm. Go on.
-{90960}{91042}All right.|Cards on the table.
-{91045}{91141}Uh, I want you to come to Spain|with me and Miguel.
-{91144}{91200}Mostly me.|Especially me.
-{91202}{91249}Only me.|Forget Miguel.
-{91250}{91386}[Chuckles] Well, as long as|that's what you want.
-{91389}{91455}-Me too.|-Okay.
-{91458}{91513}Deal?
-{91515}{91589}-Deal. Mmm.|-[Plate Clattering]
-{91591}{91670}[Hoof beats]
-{91672}{91725}[Gasps]
-{91728}{91774}"Forget Miguel"?|[Sniffling]
-{91776}{91839}Well, forget Tulio.
-{91960}{92040}[Nickering]
-{92165}{92211}[Humming]
-{92247}{92314}Well, is it ready yet?
-{92452}{92497}Ooh.
-{92537}{92600}Ah! [Sniffing]
-{92603}{92665}Ahh! Hmm.
-{92667}{92774}-It seems to be missing something.|-[Humming]
-{92777}{92827}Ah, that's it.
-{92854}{92954}-It needs more... body.|-[Grunts]
-{93042}{93086}[Gasping]
-{93088}{93153}[Hysterical Laughter]
-{93463}{93497}[Grunts]
-{93526}{93573}[Grunts]
-{93576}{93616}[Grunting]
-{93714}{93824}-[Growling]|-Do... as I command!
-{93877}{93941}-[Tzekel-Kan Laughing]|-[Jaguar Laughing]
-{93952}{94004}-The gods deserve a proper tribute.|-[Chittering]
-{94007}{94087}-Stop! There will be no sacrifices!|-[Laughing]
-{94090}{94184}[Chuckling]|That kid does you better than you do.
-{94186}{94245}[Sighs]|Some send-off, huh?
-{94247}{94343}We're finally at the "go back to Spain|and live like kings" part.
-{94345}{94427}[Children Laughing]
-{94430}{94476}[Nickers]
-{94478}{94530}Ooh-hoo-hoo.
-{94533}{94668}Well, isn't king|kind of a step down from god?
-{94669}{94724}What? Wh-Whoa, whoa, whoa.
-{94727}{94797}Miguel, we can't stay here.|[Chuckling]
-{94799}{94849}We have a plan, remember?
-{94852}{94986}How about... we forget the plan?|Hmm?
-{94988}{95048}-What?|-[Jaguar Roaring]
-{95051}{95120}[Roaring Continues]
-{95122}{95181}[Both Screaming]
-{95183}{95229}[Evil Laughter]
-{95231}{95348}Now everyone will know|the truth of your divinity.
-{95495}{95540}[Shouts]
-{95542}{95581}[Screams]
-{95662}{95715}[Screaming Continues]
-{95773}{95819}I'm okay!
-{95822}{95875}I'm still okay!
-{95878}{95943}Come on! Get on!
-{95987}{96034}[Whinnying]
-{96036}{96092}-[Chel Screams]|-[Tulio, Miguel Shout]
-{96094}{96132}[Tulio] Altivo, hyah!
-{96222}{96260}-[Whinnies]|-Whoa!
-{96298}{96354}-[Tulio Shouts]|-[Nickers]
-{96356}{96411}-[Groans]|-[Whinnies]
-{96414}{96473}-[Grunts]|-[Both Grunt]
-{96540}{96584}Tulio!
-{96587}{96691}Hey, over here,|you big Tzekel-Kan cat creep!
-{96694}{96765}-[Growls]|-Altivo, get Chel out of here.
-{96767}{96840}[Whinnying]
-{96843}{96914}-[Roars]|-[Both Yelling]
-{97076}{97121}Duck!
-{97124}{97200}[Roaring]
-{97202}{97267}[Panting, Yelling]
-{97332}{97380}Who-o-o-oa!
-{97383}{97465}[Both Gasping, Yelling]
-{97544}{97586}Move! Move!
-{97652}{97717}-Jump!|-[Roaring]
-{97783}{97841}[Both Yelling]
-{98040}{98095}[Both]|Who-o-o-a!
-{98140}{98189}I know what you are,
-{98229}{98286}and I know what you are not!
-{98289}{98369}And you are not gods!
-{98434}{98493}Y-You're not a god?
-{98496}{98540}You lied to me?
-{98543}{98589}[Clears Throat]
-{98644}{98729}-How dare you!|-Hey, it was his stupid plan!
-{98731}{98850}-What?|-Oh, oh, oh.|My plan was that we should lie low!
-{98852}{98980}But your plan was to run off and be all|"Oh, look at me. Look at me. I'm a god."
-{98982}{99046}-That's not true!|-No? Who are you kidding?
-{99048}{99095}You're buying your own con!
-{99097}{99144}At least I'm not dating mine.
-{99146}{99231}I-Ooh, low blow.
-{99234}{99327}Listen, Mr. High and Mighty,|we'd both be sailing out of here|with a mountain of gold...
-{99329}{99380}-if you had just listened to me!|-[Grunts]
-{99383}{99506}Well, now you've got all|the precious gold and Chel.|So what do you need me for?
-{99508}{99574}Well, maybe I don't need you anymore.
-{99576}{99652}Well, then, why don't you just go back|to Spain, and I'll stay here,
-{99655}{99700}and we'll both get what we want!
-{99702}{99777}-That's... fine with me, pal!|-Fine with me too!|-Ooh.
-{99780}{99823}-Fine!|-Ouch.|-Okay!
-{99826}{99908}-[Evil Chuckling]|-[Both] All right!
-{99911}{99957}Tie him up!
-{99960}{100013}-[Roaring]|-What?
-{100015}{100057}-[Jaguar Roaring]|-Whoa.
-{100060}{100114}-[Roaring Continues]|-[Both Gasp]|-Jump!
-{100116}{100164}[Both] Whoa!
-{100166}{100221}[Gasps]
-{100268}{100340}[Both Yelling]
-{100342}{100481}No-o-o-o-o!
-{100842}{100911}[Gasping, Panting]
-{100960}{101006}-[Sword Clangs]|-[Gasps]
-{101037}{101089}-[Gasps]|-[Whinnies]
-{101092}{101152}[Shuddering]
-{101154}{101200}My lord.
-{101363}{101411}Where did you get this?
-{101502}{101604}[Chuckling]|That was good, huh?
-{101683}{101750}[Grunting]
-{101848}{101900}[Cheering]
-{102079}{102155}-[Cheering Continues]|-Hey, a little help, please?
-{102158}{102237}Chief Tanni! Chief Tanni!
-{102277}{102372}-I've decided to stay.|-Oh, this is wonderful news.
-{102375}{102441}What a glorious day for El Dorado.
-{102444}{102539}Lord Miguel has decided|to live among us!
-{102542}{102600}Tulio!
-{102602}{102676}-Is everything okay?|-[Cheering Continues]
-{102778}{102860}Everything is... fine.
-{103009}{103079}[Wind Howling]
-{103394}{103439}There isn't much
-{103442}{103492}I haven't shared
-{103522}{103620}With you along the road
-{103622}{103729}And through it all|there'll always be
-{103731}{103805}Tomorrow's episode
-{103832}{103926}Suddenly that isn't true
-{103928}{104041}There's another avenue
-{104044}{104132}-Beckoning the great divide|-[Grunts]
-{104135}{104195}Ask no questions
-{104197}{104256}Take no side
-{104259}{104356}Who's to say who's right or wrong
-{104359}{104437}Whose course is braver run
-{104463}{104551}All I know is all we had
-{104553}{104635}Is over
-{104638}{104684}Said and done
-{104786}{104895}Friends never say good-bye
-{104970}{105017}[Chorus]Friends
-{105018}{105125}Never say good-bye
-{105128}{105178}[Chattering]
-{105181}{105222}Ha!
-{105224}{105284}[Villagers Laughing]
-{105475}{105539}Ahhh! Whew!
-{105814}{105921}-Mmm.|-Friends never say good-bye
-{105924}{106017}-[Children Giggling]|-[Man] Take care.
-{106020}{106065}-[Child] We'll miss you!|-Thank you.
-{106068}{106155}-Never say good-bye|-[Nickers]
-{106158}{106203}[Groans]
-{106239}{106304}-[Groans]|-[Chuckles]
-{106626}{106724}-[Giggling]|-Friends never say
-{106726}{106777}Good-bye
-{106838}{106875}[Chorus]Friends
-{106878}{106988}Never say good-bye
-{107035}{107092}Well, good luck.
-{107120}{107177}Yeah. You too.
-{107239}{107301}Never
-{107303}{107392}Say good-bye
-{107442}{107487}[Nickering]
-{107535}{107590}[Nickering Continues]
-{107667}{107716}-[Villagers Gasping]|-Whoa.
-{107718}{107790}-Whoa, boy, what is it?|-[Loud Nickering]
-{107793}{107849}[Man Shouting]
-{107851}{107928}-[Explosions]|-[Chattering]
-{107930}{108010}-Cortes.|-My lord, what is it?
-{108013}{108104}Chief Tanni!|Chief Tanni!
-{108107}{108198}-Approaching the city...|is an army of strangers.|-[Weapons Firing]
-{108201}{108306}We are safe here.|They'll never find the gate to the city.
-{108308}{108409}But, sire, they are being led|by Tzekel-Kan.
-{108412}{108509}He survived!|Warriors, prepare yourselves for battle!
-{108512}{108565}[All Shouting]
-{108567}{108614}Chief, you cannot fight them!
-{108616}{108668}Then how can we stop them?
-{108670}{108716}We can't.
-{108874}{108928}-Hmm.|-[Firing Continues]
-{108955}{109008}Uh, one moment, please.
-{109088}{109162}-Okay, here's the gate. Here's the boat.|-Uh-huh. And?
-{109165}{109212}-Here's the gate. Here's the boat.|-Okay.
-{109214}{109297}-Got that. And? Tulio!|-Well, here's the "goat,"|and here's the "bate."
-{109300}{109335}[Shouts]
-{109378}{109468}-[Chittering]|-[Gasps] That's it.
-{109471}{109520}We'll crash the boat|into the pillars.
-{109522}{109606}That's it? I mean--|But-[Scoffs]
-{109609}{109680}-What about the gold?|-Well-[Sobbing]
-{109713}{109768}[Whiny Voice] Chief!.|[Clears Throat]
-{109770}{109817}[Normal Voice] Chief.
-{109819}{109864}I've got a plan.
-{110010}{110080}[Villagers Shouting]
-{110119}{110207}Hold the line steady!|They're almost in place!
-{110210}{110259}[Whinnying]
-{110302}{110396}It better be there, for your sake.
-{110714}{110759}[Sighs]
-{110824}{110917}Okay, Chief, on my signal!
-{110956}{111025}Ready! Hit the pillars!
-{111028}{111099}-Now!|-[Shouting Continues]
-{111200}{111246}-[Rumbling]|-[Gasps]
-{111249}{111343}[Weapons Firing]
-{111380}{111428}-They're breaking too fast!|-Tulio, the sail!
-{111431}{111476}[Grunting]
-{111512}{111567}[Grunting Continues]|It's stuck!
-{111616}{111667}[All Grunting]
-{111669}{111716}-[Both Shout]|-[Gasps]
-{111804}{111861}They're not gonna make it. Altivo!
-{111884}{111957}[Nickering]
-{111959}{112005}-[Whinnying]|-[Shouts]
-{112132}{112178}-[Whinnies]|-Are you crazy?
-{112494}{112544}[Yelling]
-{112584}{112649}Get off the boat, Miguel,|or you'll never see the city again.
-{112651}{112747}I know. You don't think I'm gonna|let you have all the fun, do you?
-{112749}{112832}Come on.|We've got a wave to catch.
-{113080}{113132}-[Yelling]|-[Whimpers]
-{113399}{113469}-Get out of the way!|-Huh?
-{113507}{113556}Hold on!
-{113718}{113766}-Whoa!|-[Whinnies]
-{113963}{114040}We're gonna have to hit it broadside!
-{114042}{114119}That's your plan?|But the gold!
-{114122}{114176}-I know!|-[Gasps]
-{114178}{114248}Just turn the boat!
-{114250}{114336}On impact, everybody jump!
-{114563}{114611}[Gasping, Groaning]
-{115007}{115067}[Coughing]
-{115070}{115134}[Panting]|We made it.
-{115137}{115240}It worked.|[Chuckling] It worked.
-{115243}{115320}-Wait. Get down!|-Ouch. Ow.
-{115322}{115379}-There they are.|-[Men Shouting]
-{115640}{115691}[Gasps]
-{115834}{115865}No.
-{116057}{116116}You lying heathen.
-{116118}{116164}There's nothing here at all.
-{116166}{116227}No. Wait. Wait.
-{116230}{116289}[Grunts, Gasps]
-{116292}{116355}-Men, seize him!|-What?
-{116358}{116479}There is no El Dorado here.|Onward, men.
-{116482}{116516}[Groans]
-{116615}{116683}-[Gasps]|-[Chittering]
-{116686}{116748}Wait! No, wait!
-{116751}{116835}Wait!|[Echoing]
-{117000}{117070}-[Sputters]|-[All Laughing]
-{117072}{117166}-Yes!|-Now, that was an adventure.
-{117169}{117234}Yes. Yes, it was.|And, um,
-{117236}{117360}-[Sobbing] it was so much gold!|-[Chuckling]
-{117467}{117539}-I'm fine.|-Good.
-{117541}{117599}-Let's go.|-[Sighs]
-{117733}{117779}Partner.
-{117854}{117910}Partner.
-{117912}{117985}Hey, guys, come on!
-{117988}{118034}You don't wanna stay here|forever, do you?
-{118036}{118128}-But... we don't have a map.|-We don't have a plan.
-{118130}{118181}Well, that's what makes it interesting.
-{118184}{118266}You're right!|What are we waiting for?
-{118269}{118316}Let's follow that trail!
-{118318}{118375}-[Whinnying] Hyah!|-[Groaning]
-{118378}{118480}-Oh, the sweet unfolding|-Come on, boys!
-{118482}{118539}-Of an antique mystery|-Hey, Altivo!
-{118542}{118619}-All will be revealed|-Sit, boy! Sit!
-{118621}{118722}-Chel, we're not on the horse!|-[Chel Laughing]
-{118725}{118792}On the trail we blaze
-{118827}{118876}[Chittering]
-{118878}{118930}[Snorting]
-{118933}{118986}[Twittering] Uh-Uhh.
-{118988}{119030}Eh! [Crunch]
-{119036}{119108}Here comes the night
-{119110}{119178}Here come the memories
-{119180}{119248}Lost in your arms
-{119251}{119315}Down in the foreign fields
-{119318}{119400}Not so long ago
-{119402}{119458}Seems like eternity
-{119460}{119572}Those sweet afternoons
-{119575}{119674}Still capture me-e-e
-{119715}{119816}Some day out of the blue
-{119818}{119870}In a crowded street
-{119873}{119960}Or a deserted square
-{119962}{120030}I'll turn and I'll see you
-{120033}{120103}As if our love were new
-{120106}{120177}Someday we can start again
-{120179}{120254}Someday soon
-{120300}{120366}I still believe
-{120369}{120439}I still put faith in us
-{120441}{120512}We had it all
-{120514}{120588}And watched it slip away
-{120591}{120661}Where are we now
-{120664}{120719}Not where we want to be
-{120722}{120832}Those hot afternoons
-{120835}{120935}Still follow me-e-e
-{120971}{121077}Some day out of the blue
-{121079}{121138}Maybe years from now
-{121140}{121219}Or tomorrow night
-{121220}{121290}I'll turn and I'll see you
-{121292}{121363}As if we always knew
-{121365}{121436}Someday we would live again
-{121438}{121502}Some day soon
-{121591}{121731}-I still believe|I still put faith in us|-Believe
-{121733}{121875}-I still believe|I still put faith in us|-[Vocalizing]
-{121876}{121992}-I still believe|I still put faith in us|-Believe
-{122133}{122201}Here comes the night
-{122203}{122271}Here come the memories
-{122273}{122343}Lost in your arms
-{122344}{122409}Down in the foreign fields
-{122412}{122494}Not so long ago
-{122497}{122551}Seems like eternity
-{122553}{122663}Those sweet afternoons
-{122666}{122766}Still capture me-e-e
-{122841}{122949}Someday out of the blue
-{122952}{123007}Maybe years from now
-{123010}{123088}Or tomorrow night
-{123091}{123160}I'll turn and I'll see you
-{123162}{123235}As if we always knew
-{123237}{123307}Someday we would live again
-{123309}{123379}Someday soon
-{123670}{123743}The more I learn
-{123793}{123865}The more I see
-{123916}{124076}The less the world impassions me
-{124161}{124223}The hungry heart
-{124284}{124360}The roving eye
-{124411}{124471}Have come to rest
-{124474}{124572}Do not apply
-{124658}{124721}The frantic chase
-{124781}{124845}The crazy ride
-{124907}{124982}The thrill has gone
-{125032}{125122}I step aside
-{125124}{125181}And I'd believe
-{125183}{125251}In anything
-{125253}{125328}Were it not for you
-{125373}{125427}Showing me
-{125429}{125499}By just existing
-{125501}{125575}Only this is true
-{125610}{125726}-I love you|-[Chorus Vocalizing]
-{125728}{125850}-I love you|-[Vocalizing Continues]
-{125852}{125931}Without question
-{125934}{126025}I love you
-{126328}{126452}-The more I want|-[Chorus] The more I steal
-{126455}{126574}-The more I steal|-The more I hold
-{126576}{126634}The more I hold
-{126637}{126743}The less is real
-{126824}{126947}-All worldly things|-I follow blind
-{126950}{127072}-I follow blind|-In hope, not faith
-{127073}{127128}In hope, not faith
-{127130}{127228}Was paid in kind
-{127318}{127385}The line is drawn
-{127441}{127506}The change is made
-{127566}{127640}I come to you
-{127690}{127781}I'm not afraid
-{127784}{127841}And I'd believe
-{127844}{127906}In anything
-{127908}{127981}Were it not for you
-{128034}{128089}Showing me
-{128091}{128159}By just existing
-{128162}{128228}Only this is true
-{128268}{128323}I love you
-{128324}{128564}Translated and linkage: Jean-Luc Picard
+3
+00:00:29,496 --> 00:00:32,199
+âª Our glorious city
+
+4
+00:00:34,434 --> 00:00:37,337
+âª Was built
+by the divinities âª
+
+5
+00:00:37,370 --> 00:00:42,175
+âª By gods
+who saw fit âª
+
+6
+00:00:42,209 --> 00:00:44,177
+âª To bestow
+
+7
+00:00:48,681 --> 00:00:53,820
+âª The gift of a paradise
+
+8
+00:00:53,853 --> 00:00:58,558
+âª Peaceful and harmonious
+Upon âª
+
+9
+00:00:58,591 --> 00:01:02,829
+âª Us mere mortals
+below âª
+
+10
+00:01:05,532 --> 00:01:08,168
+âª And made El Dorado
+
+11
+00:01:08,201 --> 00:01:13,340
+âª The magnificent
+and golden âª
+
+12
+00:01:13,373 --> 00:01:18,211
+âª One thousand years ago
+
+13
+00:01:18,245 --> 00:01:22,882
+âª El Dorado
+El Dorado âª
+
+14
+00:01:22,915 --> 00:01:31,624
+âª El Dora-a-a-a-do
+
+15
+00:01:40,633 --> 00:01:42,869
+Today, we sail...
+
+16
+00:01:42,902 --> 00:01:45,238
+to conquer
+the new world...
+
+17
+00:01:45,272 --> 00:01:50,210
+for Spain, for glory,
+for gold!
+
+18
+00:01:50,243 --> 00:01:54,281
+Viva Cortes!
+
+19
+00:01:56,416 --> 00:01:59,919
+Altivo, eyes forward.
+
+20
+00:02:03,790 --> 00:02:05,792
+Seven!
+All right!
+
+21
+00:02:05,825 --> 00:02:08,761
+- Yes!
+- Partner! Hee-hee!
+
+22
+00:02:08,795 --> 00:02:10,697
+âª Tons of gold for you
+Hey!
+
+23
+00:02:10,730 --> 00:02:12,632
+âª Tons of gold for me
+Hey!
+
+24
+00:02:12,665 --> 00:02:15,468
+âª Tons of gold for we
+Hey!
+
+25
+00:02:15,502 --> 00:02:18,205
+One more roll!
+
+26
+00:02:18,238 --> 00:02:20,473
+Uh, guys,
+you're broke!
+
+27
+00:02:20,507 --> 00:02:24,611
+- You got nothin' to bet with!
+- Oh, yeah? I got this!
+
+28
+00:02:24,644 --> 00:02:26,879
+- A map!
+- A map? - A map!
+
+29
+00:02:26,913 --> 00:02:30,317
+A map of the wonders
+of the new world.
+
+30
+00:02:30,350 --> 00:02:33,620
+Wow!
+Let's have a look.
+
+31
+00:02:36,556 --> 00:02:38,925
+Uh, Tulio!
+
+32
+00:02:38,958 --> 00:02:42,929
+- Excuse us, for one moment, please.
+- Tulio, look!
+
+33
+00:02:42,962 --> 00:02:45,765
+El Dorado,
+the city of gold.
+
+34
+00:02:45,798 --> 00:02:48,968
+This could be
+our destiny, our fate.
+
+35
+00:02:49,001 --> 00:02:50,737
+Miguel, if I believed
+in fate,
+
+36
+00:02:50,770 --> 00:02:52,839
+I wouldn't be playing
+with loaded dice.
+
+37
+00:02:52,872 --> 00:02:55,975
+Hmm. Not with the face.
+No, no, no, no, no.
+
+38
+00:02:56,008 --> 00:02:58,878
+No! No! No!
+
+39
+00:02:58,911 --> 00:03:01,614
+I said one more roll!
+
+40
+00:03:01,648 --> 00:03:03,883
+My map against your cash.
+
+41
+00:03:03,916 --> 00:03:06,219
+Hmm?
+
+42
+00:03:06,253 --> 00:03:09,822
+All right, peewee.
+You're on! Not with those!
+
+43
+00:03:09,856 --> 00:03:14,561
+This time we use my dice.
+Ehh, got a problem with that?
+
+44
+00:03:14,594 --> 00:03:17,297
+No.
+
+45
+00:03:17,330 --> 00:03:20,199
+I'm going to kill you.
+
+46
+00:03:22,669 --> 00:03:26,473
+Come on, baby.
+Papa needs that crappy map.
+
+47
+00:03:32,879 --> 00:03:35,282
+Stop that!
+
+48
+00:03:35,315 --> 00:03:39,352
+Show me seven!
+
+49
+00:03:48,528 --> 00:03:50,730
+- Seven!
+- All right!
+
+50
+00:03:50,763 --> 00:03:52,799
+Seven!
+
+51
+00:03:52,832 --> 00:03:58,037
+There it is! Well,
+nice doing business with you.
+
+52
+00:03:58,070 --> 00:04:03,009
+I knew it!
+
+53
+00:04:04,911 --> 00:04:08,915
+Your dice are loaded!
+
+54
+00:04:08,948 --> 00:04:11,518
+What?
+You gave me loaded dice?
+
+55
+00:04:15,388 --> 00:04:18,658
+He gave me loaded dice!
+
+56
+00:04:18,691 --> 00:04:23,630
+Guard, arrest him!
+You dare to impugn my honor?
+
+57
+00:04:23,663 --> 00:04:25,798
+He was the one
+who was cheating!
+
+58
+00:04:25,832 --> 00:04:29,035
+Arrest him!
+He tricked these sailors and took their money!
+
+59
+00:04:29,068 --> 00:04:31,338
+Oh, now I'm the thief?
+Yes.
+
+60
+00:04:31,371 --> 00:04:33,473
+Take a look
+in the mirror, pal!
+
+61
+00:04:33,506 --> 00:04:36,008
+Oh, you better give them
+that money back, or I'll...
+
+62
+00:04:36,042 --> 00:04:38,778
+- En garde!
+- En garde, yourself.
+
+63
+00:04:38,811 --> 00:04:42,549
+I will give you the honor
+of a quick and painless death.
+
+64
+00:04:42,582 --> 00:04:45,785
+But not with that. Ha!
+I prefer to fight fairly. Aha!
+
+65
+00:04:45,818 --> 00:04:49,489
+Well, any last words?
+
+66
+00:04:49,522 --> 00:04:51,691
+I will
+cut you to ribbons,
+
+67
+00:04:51,724 --> 00:04:53,760
+fool!
+Such mediocrity.
+
+68
+00:04:53,793 --> 00:04:55,762
+Let your sword
+do the talking.
+
+69
+00:04:55,795 --> 00:05:00,500
+I will. It will be loquacious to a fault!
+Ha! Take that!
+
+70
+00:05:04,036 --> 00:05:08,875
+- You... mincing, fencing, twit.
+- Ah, you fight like my sister.
+
+71
+00:05:08,908 --> 00:05:11,711
+I fought your sister.
+That's a compliment.
+
+72
+00:05:11,744 --> 00:05:13,880
+Blackguard!
+Heathen!
+
+73
+00:05:13,913 --> 00:05:17,784
+Kill him!
+- Not the face. Not the face.
+
+74
+00:05:20,887 --> 00:05:23,690
+Ladies and gentlemen,
+we've decided it's a draw.
+
+75
+00:05:23,723 --> 00:05:25,825
+Thank you all for coming.
+
+76
+00:05:25,858 --> 00:05:29,696
+- You've been great. See you soon.
+- Adios!
+
+77
+00:05:29,729 --> 00:05:32,999
+Congratulations. You're very good.
+No. That was good.
+
+78
+00:05:33,032 --> 00:05:35,402
+Very...
+
+79
+00:05:37,870 --> 00:05:40,973
+We should have kept our swords,
+I think. Y-Yeah.
+
+80
+00:05:41,007 --> 00:05:43,109
+Yeah, I've got a plan.
+
+81
+00:05:43,142 --> 00:05:46,779
+What is it?
+Uh, well... Uh, you...
+
+82
+00:05:46,813 --> 00:05:50,149
+pet him, and... I'll... Yeah.
+
+83
+00:05:50,182 --> 00:05:52,752
+Run!
+
+84
+00:05:52,785 --> 00:05:55,855
+Uh, well,
+thanks a lot!
+
+85
+00:05:59,492 --> 00:06:01,728
+Whoa!
+
+86
+00:06:04,464 --> 00:06:07,700
+There they are!
+
+87
+00:06:07,734 --> 00:06:11,738
+âª Hey, hey, hey, hey
+Hey, hey, hey, hey âª
+
+88
+00:06:15,442 --> 00:06:18,077
+Bye. Thank you!
+
+89
+00:06:20,179 --> 00:06:21,714
+âª Ole
+
+90
+00:06:29,889 --> 00:06:33,893
+Uhh...
+Ohh...
+
+91
+00:06:33,926 --> 00:06:36,062
+I'll bet
+we can make that.
+
+92
+00:06:36,095 --> 00:06:38,865
+There they are!
+- Two pesetas says we can't.
+
+93
+00:06:38,898 --> 00:06:40,867
+You're on!
+
+94
+00:06:44,236 --> 00:06:48,775
+You lose!
+
+95
+00:06:48,808 --> 00:06:50,910
+Ohhh! Whoa!
+What's happening here?
+
+96
+00:06:50,943 --> 00:06:54,881
+We're both in barrels.
+That's the extent of my knowledge.
+
+97
+00:07:05,257 --> 00:07:07,226
+Okay, Miguel,
+we gotta move fast.
+
+98
+00:07:07,259 --> 00:07:10,530
+On three, we jump out and head for the dock.
+Good. Good. Excellent.
+
+99
+00:07:10,563 --> 00:07:13,533
+One, two, three...
+
+100
+00:07:13,566 --> 00:07:16,202
+Th-Three!
+
+101
+00:07:16,235 --> 00:07:19,171
+Three! Ohh!
+
+102
+00:07:19,205 --> 00:07:22,174
+Three!
+
+103
+00:07:28,715 --> 00:07:32,652
+Uh, you ready? Ah, okay.
+One more. Let's go.
+
+104
+00:07:32,685 --> 00:07:37,657
+One, two, three!
+
+105
+00:07:40,693 --> 00:07:43,062
+Excuse us. Okay.
+We're outta here.
+
+106
+00:07:43,095 --> 00:07:46,733
+Who ordered
+the, uh, pickles?
+
+107
+00:07:51,571 --> 00:07:53,740
+Cortes!
+
+108
+00:07:53,773 --> 00:07:59,979
+My crew was as carefully chosen
+as the disciples of Christ.
+
+109
+00:08:00,012 --> 00:08:03,950
+And I will not
+tolerate stowaways.
+
+110
+00:08:03,983 --> 00:08:08,187
+You will be flogged.
+And when we put into Cuba to resupply,
+
+111
+00:08:08,220 --> 00:08:11,290
+God willing, you will
+be flogged some more...
+
+112
+00:08:11,323 --> 00:08:13,926
+and then enslaved
+on the sugar plantations...
+
+113
+00:08:13,960 --> 00:08:16,596
+for the rest
+of your miserable lives.
+
+114
+00:08:16,629 --> 00:08:18,831
+To the brig.
+
+115
+00:08:18,865 --> 00:08:21,868
+All right!
+Cuba!
+
+116
+00:08:35,748 --> 00:08:38,284
+Hey, Altivo!
+Ah-ta-ta, not for you!
+
+117
+00:08:38,317 --> 00:08:42,321
+You're on half rations.
+Orders from Cortes.
+
+118
+00:08:52,599 --> 00:08:55,968
+So, uh, how's the...
+How's the escape plan coming?
+
+119
+00:08:58,070 --> 00:09:00,339
+All right.
+All right. Wait!
+
+120
+00:09:00,372 --> 00:09:03,209
+I'm getting something.
+Yeah.
+
+121
+00:09:07,780 --> 00:09:10,282
+Okay!
+Here's the plan.
+
+122
+00:09:10,316 --> 00:09:13,586
+In the dead of night,
+you and I grab some provisions, Mm-hm.
+
+123
+00:09:13,620 --> 00:09:15,755
+Hijack one
+of those longboats,
+
+124
+00:09:15,788 --> 00:09:20,993
+and then we row back to Spain
+like there's no manana!
+
+125
+00:09:21,027 --> 00:09:23,295
+Back to Spain, yeah?
+Yeah.
+
+126
+00:09:23,329 --> 00:09:25,331
+In a rowboat.
+You got it!
+
+127
+00:09:25,364 --> 00:09:28,868
+Great. Sensational.
+And that-that's your plan, is it?
+
+128
+00:09:28,901 --> 00:09:31,771
+That's pretty much it.
+Well, I like it.
+
+129
+00:09:31,804 --> 00:09:35,742
+So, how do we get on deck?
+Umm.
+
+130
+00:09:35,775 --> 00:09:38,645
+In the dead of night,
+you and I grab some provisions,
+
+131
+00:09:38,678 --> 00:09:42,181
+hijack one of those longboats... Uh, great.
+
+132
+00:09:42,214 --> 00:09:44,350
+Okay, what's
+your idea, smart guy?
+
+133
+00:09:44,383 --> 00:09:46,886
+Wh-Wh-What do you mean? Don't ask me that!
+You're the one with the plans.
+
+134
+00:09:46,919 --> 00:09:50,189
+Wait, I...
+I have an idea.
+
+135
+00:09:50,222 --> 00:09:53,225
+Uh, come on. Give me...
+Give me a boost.
+
+136
+00:09:53,259 --> 00:09:56,095
+Hey, Altivo.
+
+137
+00:09:56,128 --> 00:09:58,364
+Altivo.
+
+138
+00:09:58,397 --> 00:10:00,700
+You want a nice apple?
+Come and get it.
+
+139
+00:10:00,733 --> 00:10:04,370
+You have to do
+a trick for me first.
+
+140
+00:10:04,403 --> 00:10:06,806
+Huh?
+
+141
+00:10:06,839 --> 00:10:09,041
+All you have to do
+is find a pry bar.
+
+142
+00:10:09,075 --> 00:10:14,380
+A long piece of iron with a hooky thing at the end.
+Yeah?
+
+143
+00:10:14,413 --> 00:10:17,850
+Miguel, you're
+talking to a horse!
+
+144
+00:10:17,884 --> 00:10:20,887
+That's it, Altivo,
+find the pry bar.
+
+145
+00:10:20,920 --> 00:10:23,756
+Yes, find the pry bar.
+
+146
+00:10:23,790 --> 00:10:26,759
+He can't
+understand "pry bar."
+
+147
+00:10:26,793 --> 00:10:30,229
+He's a dumb horse.
+There's no way...
+
+148
+00:10:34,066 --> 00:10:38,070
+Well,
+it's not a pry bar.
+
+149
+00:10:53,385 --> 00:10:57,289
+Oh, Altivo.
+Oh, thank you, old boy.
+
+150
+00:10:57,323 --> 00:11:01,260
+Listen, if we can
+ever return the favor...
+
+151
+00:11:01,293 --> 00:11:05,097
+For Pete's sake, Miguel,
+he's a ruthless warhorse, not a poodle.
+
+152
+00:11:05,131 --> 00:11:07,266
+Come on,
+before he licks you to death.
+
+153
+00:11:07,299 --> 00:11:11,203
+Adios.
+
+154
+00:11:12,772 --> 00:11:15,341
+Shh, shh. Shh.
+Quiet, please.
+
+155
+00:11:15,374 --> 00:11:18,144
+What's the matter with him?
+Oh, he wants his apple.
+
+156
+00:11:18,177 --> 00:11:21,380
+Well, give it to him
+before he wakes the whole ship!
+
+157
+00:11:21,413 --> 00:11:24,283
+Fetch!
+Huh?
+
+158
+00:11:31,423 --> 00:11:33,793
+Hmm?
+
+159
+00:11:35,862 --> 00:11:39,098
+Huh?
+Huh?
+
+160
+00:11:42,368 --> 00:11:45,938
+Altivo! Huh?
+Miguel!
+
+161
+00:11:48,240 --> 00:11:50,376
+Altivo, I'm coming!
+Miguel!
+
+162
+00:11:50,409 --> 00:11:52,912
+Just hang on!
+I'm right here, old boy!
+
+163
+00:11:52,945 --> 00:11:55,848
+Have you lost your mind?
+Help is coming!
+
+164
+00:11:58,284 --> 00:12:00,252
+Ho-o-ly ship!
+
+165
+00:12:00,286 --> 00:12:03,155
+Whoa!
+
+166
+00:12:08,895 --> 00:12:12,865
+Loop the rope under the horse!
+Yes!
+
+167
+00:12:19,005 --> 00:12:21,974
+On the count of three,
+pull back on the rope.
+
+168
+00:12:22,008 --> 00:12:24,010
+What?
+Three!
+
+169
+00:12:24,043 --> 00:12:27,246
+Pull!
+
+170
+00:12:33,485 --> 00:12:36,856
+Tulio!
+Hey, it worked!
+
+171
+00:12:40,927 --> 00:12:43,429
+Did any
+of the supplies make it?
+
+172
+00:12:43,462 --> 00:12:46,999
+Well, uh, yes and no.
+
+173
+00:12:49,101 --> 00:12:52,271
+Ohhh, great!
+
+174
+00:12:52,304 --> 00:12:57,009
+Look on the positive side.
+At least things can't get...
+
+175
+00:12:57,043 --> 00:12:59,211
+Excuse me.
+We're you going to say "worse"?
+
+176
+00:12:59,245 --> 00:13:01,113
+No. No. No?
+You're sure?
+
+177
+00:13:01,147 --> 00:13:03,515
+Absolutely not. I've revised the whole thing.
+Okay, because...
+
+178
+00:13:03,549 --> 00:13:06,953
+Yeah, we're at least in a rowboat.
+We're in a rowboat, exactly.
+
+179
+00:13:06,986 --> 00:13:10,122
+You miss nothing.
+
+180
+00:13:31,177 --> 00:13:32,411
+Ahh!
+
+181
+00:14:02,108 --> 00:14:07,479
+Tulio, did you ever imagine
+it would end like this?
+
+182
+00:14:07,513 --> 00:14:11,083
+The horse
+is a surprise.
+
+183
+00:14:11,117 --> 00:14:15,187
+Any...
+regrets?
+
+184
+00:14:15,221 --> 00:14:19,058
+Besides dying?
+Yeah.
+
+185
+00:14:19,091 --> 00:14:25,497
+I never...
+had enough... gold.
+
+186
+00:14:25,531 --> 00:14:31,037
+My regret,
+besides dying, is...
+
+187
+00:14:31,070 --> 00:14:34,540
+our greatest adventure
+is over before it began,
+
+188
+00:14:34,573 --> 00:14:37,609
+and no one
+will even remember us.
+
+189
+00:14:37,643 --> 00:14:42,014
+Well, if it's
+any consolation, Miguel,
+
+190
+00:14:42,048 --> 00:14:45,684
+you...
+made my life...
+
+191
+00:14:45,717 --> 00:14:47,486
+an adventure.
+
+192
+00:14:47,519 --> 00:14:51,190
+And if it's
+any consolation, Tulio,
+
+193
+00:14:51,223 --> 00:14:55,461
+you made my life... rich.
+
+194
+00:15:14,313 --> 00:15:16,949
+Is it?
+Hmm.
+
+195
+00:15:16,983 --> 00:15:19,151
+It is!
+It's... It's... It's... It's... It's...
+
+196
+00:15:19,185 --> 00:15:21,320
+It's land!
+
+197
+00:15:30,196 --> 00:15:32,298
+All in favor of getting back
+in the boat, say "aye."
+
+198
+00:15:32,331 --> 00:15:35,701
+Aye!
+Aye! Go!
+
+199
+00:15:49,181 --> 00:15:52,985
+Hey, Miguel!
+I could use a little help!
+
+200
+00:15:54,186 --> 00:15:56,555
+Miguel!
+Hello!
+
+201
+00:15:56,588 --> 00:15:58,357
+Tulio!
+We've done it!
+
+202
+00:15:58,390 --> 00:16:01,760
+What's that? The map?
+It's all right here!
+
+203
+00:16:01,793 --> 00:16:05,031
+You still have
+the map?
+
+204
+00:16:05,064 --> 00:16:07,099
+The whistling rock!
+The stream!
+
+205
+00:16:07,133 --> 00:16:10,136
+You kept the map,
+but you couldn't grab a little more food?
+
+206
+00:16:10,169 --> 00:16:12,371
+Even those mountains.
+You said so yourself:
+
+207
+00:16:12,404 --> 00:16:15,574
+It coul be possible.
+And it is!
+
+208
+00:16:15,607 --> 00:16:22,214
+It really is...
+the map to El Dorado!
+
+209
+00:16:22,248 --> 00:16:24,550
+You drank seawater,
+didn't you? Oh, come on!
+
+210
+00:16:24,583 --> 00:16:26,552
+I'm not coming on!
+
+211
+00:16:26,585 --> 00:16:30,322
+I wouldn't set foot in that jungle for a million pesetas!
+
+212
+00:16:30,356 --> 00:16:35,194
+- How about a hundred million?
+- What?
+
+213
+00:16:35,227 --> 00:16:38,497
+I just thought that, after all,
+since El Dorado is the city of gold...
+
+214
+00:16:38,530 --> 00:16:42,101
+- What's your point?
+- You know, dust, nuggets, bricks,
+
+215
+00:16:42,134 --> 00:16:45,037
+a temple of gold where you can
+pluck gold from the very walls.
+
+216
+00:16:45,071 --> 00:16:47,039
+But you don't
+want to go, so let's...
+
+217
+00:16:47,073 --> 00:16:49,575
+get back into the boat
+and row back to Spain.
+
+218
+00:16:49,608 --> 00:16:53,112
+After all,
+it worked so well last time. Wait!
+
+219
+00:16:53,145 --> 00:16:56,715
+Mmm. Wait a minute.
+New plan.
+
+220
+00:16:56,748 --> 00:17:01,487
+We find the city of gold.
+We take the gold,
+
+221
+00:17:01,520 --> 00:17:04,423
+and then we go back to Spain.
+And buy Spain!
+
+222
+00:17:04,456 --> 00:17:06,325
+Yeah!
+That's the spirit!
+
+223
+00:17:06,358 --> 00:17:12,264
+Come on, Tulio.
+We'll follow that trail! What trail?
+
+224
+00:17:12,298 --> 00:17:17,669
+The trail that we blaze!
+
+225
+00:17:19,705 --> 00:17:22,441
+That trail
+that we blaze!
+
+226
+00:17:26,412 --> 00:17:28,847
+Oh, no, you don't.
+
+227
+00:17:28,880 --> 00:17:33,385
+Yeow! Your horse
+bit me in the butt!
+
+228
+00:17:37,256 --> 00:17:42,161
+âª Look out new world
+Here we come âª
+
+229
+00:17:42,194 --> 00:17:44,830
+âª Brave, intrepid
+Charge!
+
+230
+00:17:44,863 --> 00:17:46,665
+âª And then some
+
+231
+00:17:48,734 --> 00:17:52,604
+âª Pioneers of maximum
+audacity âª
+
+232
+00:17:52,638 --> 00:17:57,476
+âª Whose resumes show that we are just the team âª
+
+233
+00:17:57,509 --> 00:18:01,147
+âª To live where others merely
+dream âª What are you looking at?
+
+234
+00:18:01,180 --> 00:18:04,650
+âª Building up our head of steam âª Whoa!
+
+235
+00:18:04,683 --> 00:18:07,619
+âª On the trail we blaze
+
+236
+00:18:11,457 --> 00:18:14,693
+âª Changing legend
+into fact âª
+
+237
+00:18:14,726 --> 00:18:17,629
+âª We shall
+ride into history âª
+
+238
+00:18:17,663 --> 00:18:20,266
+âª Turning myth into truth
+
+239
+00:18:20,299 --> 00:18:23,269
+âª We shall surely gaze
+
+240
+00:18:23,302 --> 00:18:27,839
+âª On the sweet unfolding
+
+241
+00:18:27,873 --> 00:18:30,309
+âª Of an antique mystery
+
+242
+00:18:30,342 --> 00:18:32,544
+âª All will be revealed
+
+243
+00:18:32,578 --> 00:18:36,815
+âª On the trail we blaze
+
+244
+00:18:36,848 --> 00:18:39,185
+Oh! Oh!
+Oh! Oh! Oh!
+
+245
+00:18:39,218 --> 00:18:42,488
+âª On the trail
+On the trail we blaze âª
+
+246
+00:18:42,521 --> 00:18:45,757
+Dinner is served.
+Hello.
+
+247
+00:18:45,791 --> 00:18:50,829
+âª Paradise is close at hand
+
+248
+00:18:50,862 --> 00:18:52,898
+âª Shangri-la
+
+249
+00:18:52,931 --> 00:18:56,768
+âª The promised land
+
+250
+00:18:56,802 --> 00:18:59,771
+âª Seventh heaven on demand
+
+251
+00:18:59,805 --> 00:19:02,774
+âª Quite unusual nowadays
+
+252
+00:19:02,808 --> 00:19:05,511
+âª Virgin vistas undefiled
+
+253
+00:19:05,544 --> 00:19:08,847
+âª Minds and bodies
+running wild âª
+
+254
+00:19:08,880 --> 00:19:13,552
+âª In the man
+behold a child âª
+
+255
+00:19:13,585 --> 00:19:14,853
+âª On the trail we blaze
+
+256
+00:19:17,789 --> 00:19:19,891
+âª On the trail we blaze
+
+257
+00:19:19,925 --> 00:19:23,429
+âª The trail we blaze
+
+258
+00:19:23,462 --> 00:19:25,664
+âª Is road uncharted
+
+259
+00:19:25,697 --> 00:19:31,637
+âª Through terra incognita
+to a golden shrine âª
+
+260
+00:19:31,670 --> 00:19:34,806
+âª No place for the traveler
+
+261
+00:19:34,840 --> 00:19:38,744
+âª To be fainthearted
+
+262
+00:19:38,777 --> 00:19:43,615
+âª We are part of a sumptuous
+grand design âª
+
+263
+00:19:43,649 --> 00:19:46,685
+âª Changing legend into fact
+
+264
+00:19:46,718 --> 00:19:49,655
+âª We shall ride into history
+
+265
+00:19:49,688 --> 00:19:52,391
+âª Turning myth into truth
+
+266
+00:19:52,424 --> 00:19:55,394
+âª We shall surely gaze
+
+267
+00:19:55,427 --> 00:19:58,797
+âª On the sweet unfolding
+
+268
+00:19:58,830 --> 00:20:01,933
+âª Of an antique mystery
+
+269
+00:20:01,967 --> 00:20:04,670
+âª All will be revealed
+
+270
+00:20:10,041 --> 00:20:12,344
+âª On the trail we blaze
+
+271
+00:20:42,073 --> 00:20:44,410
+Hmm.
+
+272
+00:20:47,078 --> 00:20:50,582
+Miguel. Miguel, wake up.
+
+273
+00:20:50,616 --> 00:20:54,653
+We're there. Oh, yeah.
+We found it. We found it? Oh!
+
+274
+00:20:54,686 --> 00:20:56,922
+Fantastic!
+Where is it? How far?
+
+275
+00:20:56,955 --> 00:20:58,724
+Right here! Here.
+Where? Behind the rock?
+
+276
+00:20:58,757 --> 00:21:00,992
+No, no.
+This is it.
+
+277
+00:21:01,026 --> 00:21:03,929
+Give me that!
+This ca-What?
+
+278
+00:21:03,962 --> 00:21:07,999
+Apparently, "El Dorado"
+is native for...
+
+279
+00:21:08,033 --> 00:21:11,603
+"great, big... rock"!
+
+280
+00:21:14,740 --> 00:21:20,512
+Hey, but I tell you what, I'm feeling generous,
+so you can have my share!
+
+281
+00:21:20,546 --> 00:21:23,515
+You don't think Cortes could've
+gotten here before us and...
+
+282
+00:21:23,549 --> 00:21:25,717
+And what? Taken all
+the real big rocks?
+
+283
+00:21:25,751 --> 00:21:28,053
+The scoundrel!
+Tulio, you...
+
+284
+00:21:28,086 --> 00:21:30,055
+We have to think about this.
+We've come all this way,
+
+285
+00:21:30,088 --> 00:21:33,592
+and we-we-we should really,
+you know... Get... on...
+
+286
+00:21:33,625 --> 00:21:35,994
+the horse!
+
+287
+00:21:39,698 --> 00:21:43,469
+No, no, no,
+not with the face. Stop.
+
+288
+00:21:43,502 --> 00:21:47,373
+Looks like there's
+a pass right over there.
+
+289
+00:21:47,406 --> 00:21:49,641
+Ohh!
+
+290
+00:22:00,919 --> 00:22:03,489
+Hyah!
+
+291
+00:22:19,571 --> 00:22:22,941
+I've...
+
+292
+00:22:22,974 --> 00:22:25,611
+Uh, hello.
+Is this your rock?
+
+293
+00:22:25,644 --> 00:22:27,813
+Sorry. We were just looking.
+We're, uh...
+
+294
+00:22:27,846 --> 00:22:29,948
+We're tourists!
+Tourist.
+
+295
+00:22:29,981 --> 00:22:33,819
+We-We lost our group.
+May we go now?
+
+296
+00:22:33,852 --> 00:22:37,155
+Spears.
+
+297
+00:22:51,036 --> 00:22:53,505
+Hey! Hey!
+
+298
+00:23:54,566 --> 00:23:57,035
+Oh, my...
+
+299
+00:23:59,705 --> 00:24:01,172
+It's... It's...
+
+300
+00:24:01,206 --> 00:24:04,042
+El Dorado.
+
+301
+00:24:34,039 --> 00:24:36,474
+Oh!
+
+302
+00:25:12,110 --> 00:25:14,746
+Mmm. Ah!
+
+303
+00:25:22,187 --> 00:25:26,758
+Well, it was nice working
+with you, partner.
+
+304
+00:25:26,792 --> 00:25:29,027
+Tulio, I just
+want you to know...
+
+305
+00:25:29,060 --> 00:25:30,696
+I'm sorry about
+that girl in Barcelona.
+
+306
+00:25:30,729 --> 00:25:34,165
+So... You... You,
+f... Behold!
+
+307
+00:25:34,199 --> 00:25:36,868
+As the prophesies foretold,
+
+308
+00:25:36,902 --> 00:25:40,572
+the time of judgment
+is now!
+
+309
+00:25:46,077 --> 00:25:50,949
+Citizens, did I not predict
+that the gods would come to us?
+
+310
+00:25:53,852 --> 00:25:55,186
+Hmm.
+
+311
+00:25:55,220 --> 00:25:58,624
+My lords,
+I am Tzekel-Kan,
+
+312
+00:25:58,657 --> 00:26:02,728
+your devoted high priest
+and speaker for the gods.
+
+313
+00:26:02,761 --> 00:26:05,063
+Hey.
+
+314
+00:26:05,096 --> 00:26:09,668
+I am Chief Tannabok.
+What names may we call you?
+
+315
+00:26:09,701 --> 00:26:13,038
+Huh?
+I am Miguel.
+
+316
+00:26:13,071 --> 00:26:16,708
+And I am Tulio.
+
+317
+00:26:16,742 --> 00:26:19,377
+And they call us
+Miguel and Tulio!
+
+318
+00:26:19,410 --> 00:26:22,748
+Your arrival has been
+greatly anticipated.
+
+319
+00:26:22,781 --> 00:26:25,116
+My lords,
+how long will you be staying in El Dorado?
+
+320
+00:26:25,150 --> 00:26:30,221
+Aha! I see you've captured
+this temple-robbing thief.
+
+321
+00:26:30,255 --> 00:26:33,759
+How would you have us punish her?
+Oh, no, no, no, no, no!
+
+322
+00:26:33,792 --> 00:26:36,161
+My lord, I am not a thief.
+
+323
+00:26:36,194 --> 00:26:39,264
+See, the gods
+sent me a vision...
+
+324
+00:26:39,297 --> 00:26:42,133
+to bring them tribute from the
+temple to guide them here.
+
+325
+00:26:42,167 --> 00:26:47,038
+My only wish
+is to serve the gods.
+
+326
+00:26:52,110 --> 00:26:54,846
+Release her,
+don't ya think?
+
+327
+00:26:54,880 --> 00:26:58,349
+Then you will begin
+by returning this...
+
+328
+00:26:58,383 --> 00:27:01,352
+to its rightful place.
+
+329
+00:27:03,454 --> 00:27:06,758
+My lords, why now
+do you choose to visit us?
+
+330
+00:27:06,792 --> 00:27:10,228
+Enough! You do not question...
+the gods!
+
+331
+00:27:10,261 --> 00:27:12,898
+That's right!
+Do not question us,
+
+332
+00:27:12,931 --> 00:27:17,102
+or we shall have to unleash
+our awesome and terrible power!
+
+333
+00:27:17,135 --> 00:27:19,871
+And you don't want that!
+
+334
+00:27:19,905 --> 00:27:23,374
+- Well, yes! We do!
+- You do?
+
+335
+00:27:23,408 --> 00:27:26,978
+Of course we do!
+Visit your wrath upon this nonbeliever!
+
+336
+00:27:27,012 --> 00:27:29,681
+Show us the truth
+of your divinity!
+
+337
+00:27:29,715 --> 00:27:32,417
+Divinity!
+One moment.
+
+338
+00:27:36,354 --> 00:27:38,890
+Miguel, you know that
+little voice people have...
+
+339
+00:27:38,924 --> 00:27:41,092
+that tells them to quit
+when they're ahead?
+
+340
+00:27:41,126 --> 00:27:43,795
+You don't have one!
+Well, I'm sorry. I got carried away!
+
+341
+00:27:43,829 --> 00:27:47,465
+- Way away!
+- Maybe we should tell the truth and beg for mercy.
+
+342
+00:27:47,498 --> 00:27:49,300
+Are you nuts?
+We'd be butchered alive!
+
+343
+00:27:49,334 --> 00:27:52,203
+Yes, but they're
+getting suspicious.
+
+344
+00:27:52,237 --> 00:27:54,172
+And if we don't come up
+with some mega-cosmic event...
+
+345
+00:27:57,008 --> 00:27:59,477
+I'm trying! I'm trying!
+I can't think with all these distractions!
+
+346
+00:27:59,510 --> 00:28:02,814
+You... Horse... Think horse.
+Think, think, think.
+
+347
+00:28:02,848 --> 00:28:07,819
+I'm on the verge of... Stop!
+
+348
+00:28:32,878 --> 00:28:36,014
+Don't make me
+start it up again,
+
+349
+00:28:36,047 --> 00:28:38,784
+'cause I will.
+
+350
+00:28:43,554 --> 00:28:46,892
+O mighty lords!
+
+351
+00:28:46,925 --> 00:28:49,861
+Come.
+Let me show you to your temple.
+
+352
+00:28:49,895 --> 00:28:52,030
+All right!
+Temple.
+
+353
+00:28:55,000 --> 00:28:57,468
+Step aside.
+
+354
+00:29:40,245 --> 00:29:45,016
+To commemorate your arrival,
+I propose a reverent ceremony at dawn.
+
+355
+00:29:45,050 --> 00:29:50,488
+Ah, then perhaps I could prepare
+a glorious feast for you tonight.
+
+356
+00:29:50,521 --> 00:29:53,524
+Which would
+you prefer?
+
+357
+00:29:55,293 --> 00:29:56,828
+Both.
+Both. Both.
+
+358
+00:29:56,862 --> 00:29:59,130
+Both is good.
+
+359
+00:29:59,164 --> 00:30:02,300
+My lords.
+My lords.
+
+360
+00:30:05,570 --> 00:30:09,507
+And so dawns
+the Age of the Jaguar.
+
+361
+00:30:11,176 --> 00:30:14,512
+Happy new year.
+
+362
+00:30:20,051 --> 00:30:22,553
+Hey!
+Hey. Hey.
+
+363
+00:30:27,926 --> 00:30:32,597
+Tulio. Tulio.
+They actually think we're gods.
+
+364
+00:30:32,630 --> 00:30:36,634
+It's
+an entire city of suckers.
+
+365
+00:30:36,667 --> 00:30:38,970
+We just have to keep
+this up long enough...
+
+366
+00:30:39,004 --> 00:30:42,207
+to load up on the gold and then get the hell out of here!
+
+367
+00:30:42,240 --> 00:30:44,976
+Tulio, we'll be living
+like kings!
+
+368
+00:30:45,010 --> 00:30:47,612
+- Miguel and Tulio!
+- Tulio and Miguel!
+
+369
+00:30:47,645 --> 00:30:50,581
+Mighty and powerful gods.
+Gods.
+
+370
+00:30:50,615 --> 00:30:53,451
+Hello.
+
+371
+00:30:53,484 --> 00:30:56,888
+Depart, mortal,
+
+372
+00:30:56,922 --> 00:30:59,624
+before we strike you with a lightning bolt.
+Mmm. Mmmm!
+
+373
+00:31:01,492 --> 00:31:04,429
+Beware the wrath
+of the gods! Begone!
+
+374
+00:31:04,462 --> 00:31:07,598
+Save it for the high priest,
+honey. You're gonna need it.
+
+375
+00:31:07,632 --> 00:31:10,101
+Miguel,
+it's not working.
+
+376
+00:31:10,135 --> 00:31:12,603
+Miguel!
+We've been caught.
+
+377
+00:31:12,637 --> 00:31:14,672
+Oh, no. Don't worry
+about me, boys.
+
+378
+00:31:14,705 --> 00:31:19,577
+"My only wish is to serve the gods."
+Remember?
+
+379
+00:31:19,610 --> 00:31:22,247
+- How?
+- Well, if you guys want the gold,
+
+380
+00:31:22,280 --> 00:31:25,116
+then you don't want
+to get caught, right?
+
+381
+00:31:25,150 --> 00:31:30,321
+You're going to need my help.
+- What makes you think we need your help?
+
+382
+00:31:30,355 --> 00:31:33,424
+"Ck-ck."
+Are you serious?
+
+383
+00:31:33,458 --> 00:31:36,294
+I... What... We...
+
+384
+00:31:36,327 --> 00:31:39,330
+Okay. So, uh,
+who are you?
+
+385
+00:31:39,364 --> 00:31:42,633
+Yeah, uh,
+what's your angle? No angle.
+
+386
+00:31:42,667 --> 00:31:45,403
+- I want in.
+- In?
+
+387
+00:31:45,436 --> 00:31:48,439
+On the scam.
+
+388
+00:31:48,473 --> 00:31:51,142
+There's no scam!
+Why would you think there's a...
+
+389
+00:31:51,176 --> 00:31:53,945
+- Why?
+- So I can get out.
+
+390
+00:31:53,979 --> 00:31:55,680
+I thought she just said
+she wanted in?
+
+391
+00:31:55,713 --> 00:31:58,349
+She wants in
+so she can get out.
+
+392
+00:31:58,383 --> 00:32:01,086
+Aha! Got it.
+
+393
+00:32:01,119 --> 00:32:05,656
+- W-Why?
+- Think you're the only ones who dream of better things?
+
+394
+00:32:05,690 --> 00:32:09,260
+Of adventure?
+You've got your reasons,
+
+395
+00:32:09,294 --> 00:32:11,196
+and I've got mine.
+
+396
+00:32:11,229 --> 00:32:13,431
+Let's not make it
+personal, okay?
+
+397
+00:32:13,464 --> 00:32:17,468
+- It's just business.
+- Oh.
+
+398
+00:32:17,502 --> 00:32:20,405
+So when you guys
+are ready to go back to...
+
+399
+00:32:20,438 --> 00:32:22,607
+wherever you came from,
+
+400
+00:32:22,640 --> 00:32:25,176
+I'm going with you.
+
+401
+00:32:25,210 --> 00:32:28,246
+No!
+Don't think so.
+
+402
+00:32:30,448 --> 00:32:32,217
+All right. Fine.
+
+403
+00:32:32,250 --> 00:32:34,319
+After all,
+I'm sure you know...
+
+404
+00:32:34,352 --> 00:32:37,755
+the proper rituals for blessing a tribute,
+the holiest days on the calendar...
+
+405
+00:32:37,788 --> 00:32:41,993
+Oh, and of course you know
+all about Xibalba.
+
+406
+00:32:42,027 --> 00:32:45,063
+Okay? Good luck.
+
+407
+00:32:46,564 --> 00:32:51,136
+See you at the execution.
+
+408
+00:32:51,169 --> 00:32:53,471
+Wait! Ho... Would you...
+Hold it.
+
+409
+00:32:58,043 --> 00:33:01,046
+Deal?
+Hmm.
+
+410
+00:33:01,079 --> 00:33:04,582
+Deal. Not yet.
+Let's just see how this works out.
+
+411
+00:33:04,615 --> 00:33:09,020
+Uh-huh.
+Well, then I suppose that means you'll want these back?
+
+412
+00:33:11,422 --> 00:33:14,159
+How'd you get those?
+Where was she keeping them?
+
+413
+00:33:14,192 --> 00:33:17,728
+Call me, Chel,
+your new partner. Uh,
+
+414
+00:33:17,762 --> 00:33:19,364
+that's partner-in-training.
+
+415
+00:33:19,397 --> 00:33:20,731
+Now, put these on.
+
+416
+00:33:20,765 --> 00:33:25,136
+Your public's waiting.
+
+417
+00:33:25,170 --> 00:33:27,538
+Do you mind?
+
+418
+00:33:27,572 --> 00:33:29,474
+No.
+
+419
+00:33:29,507 --> 00:33:31,142
+Oh! Oh! Oh!
+
+420
+00:33:31,176 --> 00:33:33,678
+Right. Uh, excuse me.
+
+421
+00:33:33,711 --> 00:33:37,048
+Bye.
+
+422
+00:33:39,084 --> 00:33:43,054
+Mm-mm-mmm!
+Maybe they should call this place "Chel Dorado."
+
+423
+00:33:43,088 --> 00:33:46,091
+She's whoo...
+
+424
+00:33:46,124 --> 00:33:48,426
+Whoa, she's trouble!
+Wait a minute! What?
+
+425
+00:33:48,459 --> 00:33:50,628
+The little voice...
+Remember the little voice?
+
+426
+00:33:50,661 --> 00:33:53,598
+Ju-Ju-Just for a second
+imagine that you have one.
+
+427
+00:33:53,631 --> 00:33:56,534
+What would it
+be saying about Chel?
+
+428
+00:33:56,567 --> 00:34:00,638
+No. No. Listen.
+
+429
+00:34:00,671 --> 00:34:02,407
+We are partners.
+We are partners.
+
+430
+00:34:02,440 --> 00:34:06,411
+We have a plan, remember?
+Get the gold. Go back to Spain.
+
+431
+00:34:06,444 --> 00:34:09,614
+Yes! And we are
+pretending to be gods.
+
+432
+00:34:09,647 --> 00:34:12,683
+Now, put Chel in the mix.
+What is the voice saying?
+
+433
+00:34:12,717 --> 00:34:16,554
+Listen carefully.
+
+434
+00:34:16,587 --> 00:34:22,393
+Chel is off-limits, hmm?
+Bravo! Chel is off-limits!
+
+435
+00:34:22,427 --> 00:34:23,794
+Shake on it.
+
+436
+00:34:23,828 --> 00:34:26,731
+Off-limits. Mm.
+Mm. Mmmm.
+
+437
+00:34:26,764 --> 00:34:28,633
+Besides, we're supposed
+to be gods.
+
+438
+00:34:28,666 --> 00:34:31,436
+We must avoid
+giving in to temptation.
+
+439
+00:34:31,469 --> 00:34:37,375
+Gods. Oh. This is gonna to be tougher than I thought.
+Tulio, relax!
+
+440
+00:34:37,408 --> 00:34:42,180
+All you have to do is smile,
+act godly and follow my lead.
+
+441
+00:34:44,582 --> 00:34:48,186
+Big smile.
+Like you mean it.
+
+442
+00:34:48,219 --> 00:34:50,221
+A-one, two, three.
+
+443
+00:34:54,825 --> 00:34:58,729
+âª I hardly think
+I'm qualified âª
+
+444
+00:34:58,763 --> 00:35:01,832
+âª To come across
+all sanctified âª
+
+445
+00:35:01,866 --> 00:35:05,670
+âª I just don't cut it
+with the cherubim âª
+
+446
+00:35:05,703 --> 00:35:08,439
+Tulio, what are you
+talking about?
+
+447
+00:35:08,473 --> 00:35:11,542
+âª There again
+they're on their knees âª
+
+448
+00:35:11,576 --> 00:35:14,245
+âª Being worshipped
+is a breeze âª
+
+449
+00:35:14,279 --> 00:35:16,814
+âª Which rather
+suits us in âª
+
+450
+00:35:16,847 --> 00:35:20,851
+âª The interim âª Interim,
+interim It's me and him âª
+
+451
+00:35:20,885 --> 00:35:24,422
+Oh, my God!
+âª It's tough to be a god
+
+452
+00:35:24,455 --> 00:35:28,559
+âª Tread where mortals
+have not trod âª
+
+453
+00:35:28,593 --> 00:35:34,765
+âª Be deified when really
+you're a sham âª
+
+454
+00:35:34,799 --> 00:35:37,835
+âª Be an object
+of devotion âª
+
+455
+00:35:37,868 --> 00:35:40,871
+âª Be the subject of psalms
+
+456
+00:35:40,905 --> 00:35:43,541
+âª It's a rather
+touching notion âª
+
+457
+00:35:43,574 --> 00:35:46,911
+âª All those prayers
+and those salaams âª
+
+458
+00:35:46,944 --> 00:35:50,481
+âª And who am I to bridle
+
+459
+00:35:50,515 --> 00:35:53,484
+âª If I'm forced
+to be an idol âª
+
+460
+00:35:53,518 --> 00:35:55,886
+âª If they say that
+I'm a god âª
+
+461
+00:35:55,920 --> 00:35:58,723
+âª That's what I am
+
+462
+00:35:58,756 --> 00:36:01,759
+âª What's more
+if we don't comply âª
+
+463
+00:36:01,792 --> 00:36:04,362
+âª With the locals' wishes
+
+464
+00:36:04,395 --> 00:36:07,565
+âª I can see us
+being sacrificed âª
+
+465
+00:36:07,598 --> 00:36:10,868
+- âª Or stuffed
+- You have a point there. Very good thinking.
+
+466
+00:36:10,901 --> 00:36:14,839
+âª So let's be gods The perks are great âª Yeah!
+
+467
+00:36:14,872 --> 00:36:17,708
+âª El Dorado on our plates
+Thank you.
+
+468
+00:36:17,742 --> 00:36:20,278
+âª Local feelings
+should not âª
+
+469
+00:36:20,311 --> 00:36:22,213
+âª Be rebuffed
+âª Never rebuffed
+
+470
+00:36:22,247 --> 00:36:25,216
+âª I never rebuff a local feeling No,
+my friend âª
+
+471
+00:36:25,250 --> 00:36:27,652
+âª It's tough to be a god
+
+472
+00:36:27,685 --> 00:36:30,855
+âª But if you get
+the people's nod âª
+
+473
+00:36:30,888 --> 00:36:34,325
+âª Count your blessings
+Yeah, keep 'em sweet âª
+
+474
+00:36:34,359 --> 00:36:37,895
+âª That's our advice
+It's great advice!
+
+475
+00:36:37,928 --> 00:36:41,266
+âª Be a symbol of perfection
+
+476
+00:36:41,299 --> 00:36:44,235
+âª Be a legend
+Be a cult âª
+
+477
+00:36:44,269 --> 00:36:46,971
+âª Take their praise
+Take a collection âª
+
+478
+00:36:47,004 --> 00:36:50,475
+âª As the multitudes exalt
+
+479
+00:36:50,508 --> 00:36:53,411
+âª Don a supernatural habit
+
+480
+00:36:53,444 --> 00:36:56,814
+âª We'd be crazy not to grab it âª You got it!
+
+481
+00:36:56,847 --> 00:36:58,783
+âª So sign on two new gods
+
+482
+00:36:58,816 --> 00:37:02,019
+âª For paradise
+
+483
+00:37:02,052 --> 00:37:05,823
+âª Par-a-dise
+
+484
+00:37:33,718 --> 00:37:36,687
+Good morning, my lords!
+
+485
+00:37:36,721 --> 00:37:40,658
+He's back!
+Oh, no.
+
+486
+00:37:43,794 --> 00:37:45,963
+And now it's my turn!
+
+487
+00:37:48,899 --> 00:37:54,038
+The gods have awakened!
+
+488
+00:37:54,071 --> 00:37:55,773
+Whoa!
+
+489
+00:37:55,806 --> 00:37:58,743
+Mm-hmm.
+
+490
+00:38:01,346 --> 00:38:05,650
+- Hey, Chel, what's going on?
+- It's not gonna be good.
+
+491
+00:38:05,683 --> 00:38:07,718
+Thank you.
+
+492
+00:38:07,752 --> 00:38:10,488
+This city has been
+granted a great blessing.
+
+493
+00:38:10,521 --> 00:38:14,992
+And what have we done
+to show our gratitude?
+
+494
+00:38:15,025 --> 00:38:18,629
+A meager celebration.
+
+495
+00:38:18,663 --> 00:38:24,335
+The god's deserve
+a proper tribute!
+
+496
+00:38:24,369 --> 00:38:26,837
+Hmm.
+Hmm.
+
+497
+00:38:26,871 --> 00:38:31,576
+The beginning of a new era,
+the dawning of a new age...
+
+498
+00:38:31,609 --> 00:38:34,445
+demands...
+
+499
+00:38:34,479 --> 00:38:36,747
+sacrifice!
+
+500
+00:38:43,888 --> 00:38:47,057
+I don't like this.
+Tulio, we've got to do something.
+
+501
+00:38:55,566 --> 00:38:58,436
+Stop!
+
+502
+00:38:58,469 --> 00:39:01,071
+Hmm?
+
+503
+00:39:03,040 --> 00:39:05,810
+This is not
+a proper tribute!
+
+504
+00:39:05,843 --> 00:39:08,078
+You do not
+want the tribute?
+
+505
+00:39:08,112 --> 00:39:09,947
+No. No, no.
+W-We want tribute.
+
+506
+00:39:09,980 --> 00:39:13,884
+Uh, it's just that, uh...
+Tulio, tell him.
+
+507
+00:39:16,053 --> 00:39:20,157
+The stars are not in position for this tribute!
+
+508
+00:39:20,190 --> 00:39:22,527
+Like he says,
+the stars...
+
+509
+00:39:22,560 --> 00:39:24,495
+Can't do it.
+
+510
+00:39:24,529 --> 00:39:26,831
+Not today.
+
+511
+00:39:30,601 --> 00:39:32,102
+Ah.
+
+512
+00:39:32,136 --> 00:39:36,140
+Perhaps it is possible
+I misread... the heavens.
+
+513
+00:39:36,173 --> 00:39:40,177
+Don't worry about it.
+To err is human, to forgive... Hmm.
+
+514
+00:39:40,210 --> 00:39:46,417
+My lords,
+may the people of El Dorado offer you our tribute.
+
+515
+00:39:55,926 --> 00:39:58,896
+My lords,
+does this please you?
+
+516
+00:39:58,929 --> 00:40:01,499
+Yes, very nice.
+
+517
+00:40:01,532 --> 00:40:03,801
+Certainly acceptable.
+Yes, lovely. It'll do.
+
+518
+00:40:03,834 --> 00:40:06,737
+The gods have chosen!
+
+519
+00:40:06,771 --> 00:40:08,739
+To Xibalba?
+
+520
+00:40:08,773 --> 00:40:11,776
+No. No.
+
+521
+00:40:11,809 --> 00:40:14,178
+To Xibalba!
+
+522
+00:40:14,211 --> 00:40:17,615
+Oh, great.
+
+523
+00:40:30,127 --> 00:40:33,798
+Hey, Chel, um,
+what are they doing?
+
+524
+00:40:33,831 --> 00:40:37,134
+They're sending it to Xibalba,
+the spirit world.
+
+525
+00:40:38,969 --> 00:40:41,739
+The spirit world.
+I'll take care of it.
+
+526
+00:40:43,273 --> 00:40:46,143
+Um, excuse me, Chief.
+
+527
+00:40:46,176 --> 00:40:48,913
+The gods have changed their minds about Xibalba.
+
+528
+00:40:50,815 --> 00:40:56,220
+They wish to bask in the reverence
+that has been shown them.
+
+529
+00:40:56,253 --> 00:40:57,688
+Stop!
+
+530
+00:41:01,592 --> 00:41:05,229
+They wish to bask!
+
+531
+00:41:05,262 --> 00:41:08,733
+Take the tribute
+to the gods' temple!
+
+532
+00:41:11,536 --> 00:41:14,104
+Nice going.
+
+533
+00:41:23,313 --> 00:41:26,517
+Smile while you can.
+
+534
+00:41:36,761 --> 00:41:40,197
+Well, well, well,
+
+535
+00:41:40,230 --> 00:41:43,000
+what have we here?
+
+536
+00:41:45,302 --> 00:41:48,005
+Ai-ai-ai.
+âª Tons of gold for you, hah
+
+537
+00:41:48,038 --> 00:41:51,208
+âª And tons of gold for me, hoo
+âª Tons of gold for we, ah
+
+538
+00:41:51,241 --> 00:41:54,845
+Not bad for a day's work, eh?
+Not bad at all.
+
+539
+00:41:54,879 --> 00:41:58,583
+We just became richer
+than the king of Spain.
+
+540
+00:41:58,616 --> 00:42:04,188
+You know, speaking of kings,
+the chief and high priest seem a bit, uh, tense.
+
+541
+00:42:04,221 --> 00:42:06,290
+Buenos Dias!
+
+542
+00:42:06,323 --> 00:42:08,826
+Listen, all we have to do...
+
+543
+00:42:08,859 --> 00:42:13,263
+is keep playing
+the o against the other.
+
+544
+00:42:13,297 --> 00:42:16,233
+You know, do a little god dance,
+chant some mystic mumbo jumbo,
+
+545
+00:42:16,266 --> 00:42:18,936
+dazzle 'em with some smoke and mirrors
+and then get the hell back to Spain.
+
+546
+00:42:18,969 --> 00:42:23,974
+Um, Tulio, how are we gonna
+get all this back to Spain?
+
+547
+00:42:24,008 --> 00:42:26,711
+Ummm...
+
+548
+00:42:26,744 --> 00:42:28,913
+A boat?
+Yeah.
+
+549
+00:42:28,946 --> 00:42:32,216
+Um, we really hate
+to be ascending so soon,
+
+550
+00:42:32,249 --> 00:42:34,719
+but, uh, some urgent
+business has come up...
+
+551
+00:42:34,752 --> 00:42:36,954
+family matters...
+and it's just a bit... Yeah, family.
+
+552
+00:42:36,987 --> 00:42:38,923
+Badda-bing, budda-boom,
+you know what I mean.
+
+553
+00:42:38,956 --> 00:42:42,126
+Oh, we expected you
+to be staying with us...
+
+554
+00:42:42,159 --> 00:42:44,995
+for the next...
+thousand years.
+
+555
+00:42:45,029 --> 00:42:47,197
+Well, as we say
+in the spirit world,
+
+556
+00:42:47,231 --> 00:42:50,968
+there's your plan and then...
+there's the gods' plan. Mm-hmm.
+
+557
+00:42:51,001 --> 00:42:53,871
+And our plan, uh, calls for a boat,
+'cause we're gonna ascend...
+
+558
+00:42:53,904 --> 00:42:56,607
+kind of in a horizontal
+pattern at first.
+
+559
+00:42:56,641 --> 00:43:00,678
+And then we're gonna go vertical, uh,
+as we get further out to sea.
+
+560
+00:43:00,711 --> 00:43:03,981
+Hmm. To build a boat
+large and glorious enough...
+
+561
+00:43:04,014 --> 00:43:06,717
+would take... about a week.
+
+562
+00:43:06,751 --> 00:43:09,286
+A week? Hmm.
+Um...
+
+563
+00:43:09,319 --> 00:43:12,623
+I wonder how long it would take Tzekel-Kan to do it.
+
+564
+00:43:12,657 --> 00:43:16,326
+But... But for the gods,
+uh, three days.
+
+565
+00:43:16,360 --> 00:43:18,362
+Uh...
+
+566
+00:43:18,395 --> 00:43:21,231
+Well, if that's the best
+you can do.
+
+567
+00:43:21,265 --> 00:43:25,870
+Oh, perhaps if you were not
+burdened with so much tribute,
+
+568
+00:43:25,903 --> 00:43:27,638
+you could leave sooner.
+
+569
+00:43:27,672 --> 00:43:30,274
+Hmm? Hmm?
+I like it here. Miguel?
+
+570
+00:43:30,307 --> 00:43:33,711
+Yep, yep.
+Three days is just fine.
+
+571
+00:43:33,744 --> 00:43:36,380
+No, three days is not fine.
+
+572
+00:43:36,413 --> 00:43:39,884
+This is a real...
+Mmm.
+
+573
+00:43:39,917 --> 00:43:44,154
+These... these are the ones... problem.
+Oh. Thank you.
+
+574
+00:43:44,188 --> 00:43:47,291
+Miguel, how are we gonna
+keep this up for three days?
+
+575
+00:43:47,324 --> 00:43:49,326
+You worry too much.
+
+576
+00:43:49,359 --> 00:43:51,996
+No, I worry exactly
+the right amount.
+
+577
+00:43:52,029 --> 00:43:55,065
+You can never
+worry too much.
+
+578
+00:43:55,099 --> 00:43:57,835
+We just have to lie low.
+
+579
+00:43:57,868 --> 00:44:03,240
+But, Tulio, this place is amazing!
+I mean, I wonder what's...
+
+580
+00:44:03,273 --> 00:44:05,843
+No! Don't even move!
+
+581
+00:44:05,876 --> 00:44:07,812
+- Tulio...
+- You're moving!
+
+582
+00:44:07,845 --> 00:44:10,047
+- A little, but... Come on.
+- Hey! Hey! Hey!
+
+583
+00:44:10,080 --> 00:44:12,182
+- Stay!
+- I gotta... I...
+
+584
+00:44:12,216 --> 00:44:16,386
+Just... stand there!
+I just...
+
+585
+00:44:18,022 --> 00:44:20,257
+For three days?
+
+586
+00:44:20,290 --> 00:44:22,359
+Yes! Exactly.
+
+587
+00:44:22,392 --> 00:44:26,663
+For three days.
+Don't even breathe. All right?
+
+588
+00:44:28,165 --> 00:44:29,934
+All right.
+We lie low.
+
+589
+00:44:29,967 --> 00:44:32,036
+No, ah, ah, ah, ah.
+Promise?
+
+590
+00:44:32,069 --> 00:44:34,038
+Yeah, yeah, yeah, yeah.
+All right, all right.
+
+591
+00:44:34,071 --> 00:44:37,374
+Great! Good. Okay.
+
+592
+00:44:37,407 --> 00:44:42,947
+Now, if you'll excuse me,
+I have to gloat over my gold.
+
+593
+00:44:45,482 --> 00:44:48,285
+Oh, yum, yum, yum.
+
+594
+00:44:50,921 --> 00:44:53,958
+It's beautiful,
+isn't it? Yeah!
+
+595
+00:44:53,991 --> 00:44:57,327
+You know,
+you really shouldn't miss it. I know.
+
+596
+00:44:57,361 --> 00:44:59,797
+But I-I couldn't.
+
+597
+00:44:59,830 --> 00:45:02,800
+Go ahead.
+I'll cover for you.
+
+598
+00:45:02,833 --> 00:45:06,837
+Oh, good. Thanks.
+
+599
+00:45:06,871 --> 00:45:09,106
+So, what happened to Altivo?
+I don't know.
+
+600
+00:45:09,139 --> 00:45:13,010
+âª Tulio goes for paradise
+
+601
+00:45:13,043 --> 00:45:16,446
+Hey, what happened to Miguel?
+I don't know.
+
+602
+00:45:16,480 --> 00:45:20,217
+Oh, my God! He's gone!
+Miguel's gone!
+
+603
+00:45:20,250 --> 00:45:22,419
+He's loose!
+What am I gonna do?
+
+604
+00:45:22,452 --> 00:45:26,290
+Oh, no, no!
+
+605
+00:45:26,323 --> 00:45:29,994
+Oh, Miguel is right.
+You worry too much.
+
+606
+00:45:32,029 --> 00:45:35,032
+Oh. Ooh.
+
+607
+00:45:35,065 --> 00:45:39,536
+Oh, yeah. Oh, oh,
+down, down, down, down.
+
+608
+00:45:39,569 --> 00:45:42,372
+No! No!
+Big trouble.
+
+609
+00:45:42,406 --> 00:45:44,909
+Whoa!
+
+610
+00:45:44,942 --> 00:45:48,278
+Look, sweetheart,
+we're in the middle of a con here,
+
+611
+00:45:48,312 --> 00:45:50,547
+walking
+the razor's edge.
+
+612
+00:45:50,580 --> 00:45:53,150
+On the one hand, gold!
+
+613
+00:45:53,183 --> 00:45:57,855
+On the other hand,
+painful, agonizing failure!
+
+614
+00:45:57,888 --> 00:46:01,959
+I can't afford any tempta...
+uh, distractions.
+
+615
+00:46:01,992 --> 00:46:05,262
+So, I'm sorry.
+So sorry.
+
+616
+00:46:05,295 --> 00:46:09,099
+But perhaps another time?
+Another place, hmm?
+
+617
+00:46:09,133 --> 00:46:12,402
+Too bad.
+I'm free now.
+
+618
+00:46:14,104 --> 00:46:17,842
+I'm... not really sure
+I trust you.
+
+619
+00:46:17,875 --> 00:46:20,878
+Mmm, I'm not really
+asking you to trust me.
+
+620
+00:46:20,911 --> 00:46:24,414
+Am I?
+Whoo.
+
+621
+00:46:24,448 --> 00:46:26,483
+'Kay.
+
+622
+00:46:28,252 --> 00:46:30,320
+Ooh, yeah.
+
+623
+00:46:52,542 --> 00:46:56,113
+Excuse me. Excuse me?
+
+624
+00:46:56,146 --> 00:46:58,983
+Hey, where is everybody?
+
+625
+00:46:59,016 --> 00:47:01,218
+They've been cleared
+from the streets, my lord,
+
+626
+00:47:01,251 --> 00:47:04,521
+so the city can be cleansed,
+as you ordered.
+
+627
+00:47:04,554 --> 00:47:06,857
+Cleansed?
+Yes.
+
+628
+00:47:06,891 --> 00:47:10,094
+So the Age of the Jaguar
+can begin,
+
+629
+00:47:10,127 --> 00:47:12,196
+as you ordered, my lord.
+Get back in!
+
+630
+00:47:12,229 --> 00:47:14,231
+- Where are you going?
+- Hey, stop that!
+
+631
+00:47:14,264 --> 00:47:16,200
+- Move!
+- Hey, stop that!
+
+632
+00:47:16,233 --> 00:47:18,468
+What are you doing?
+Stop that!
+
+633
+00:47:18,502 --> 00:47:20,905
+But, my lord, anyone
+who disobeys your orders...
+
+634
+00:47:20,938 --> 00:47:23,573
+must be punished,
+as you ordered.
+
+635
+00:47:23,607 --> 00:47:26,944
+It seems I've been giving
+a lot of orders, haven't I?
+
+636
+00:47:26,977 --> 00:47:29,479
+Tzekel-Kan has made
+your commands clear, my lord.
+
+637
+00:47:29,513 --> 00:47:31,882
+Really?
+
+638
+00:47:31,916 --> 00:47:36,386
+Take the day off.
+Huh?
+
+639
+00:47:36,420 --> 00:47:39,990
+Are you all right?
+
+640
+00:47:40,024 --> 00:47:42,092
+Here.
+
+641
+00:47:43,961 --> 00:47:48,232
+Oh, no!
+It's all right. Please.
+
+642
+00:48:00,477 --> 00:48:04,081
+Hey, Altivo.
+There you are.
+
+643
+00:48:08,485 --> 00:48:11,288
+Oh.
+Oh.
+
+644
+00:48:26,603 --> 00:48:29,239
+âª The more I learn
+
+645
+00:48:29,273 --> 00:48:33,978
+âª The more I see
+
+646
+00:48:34,011 --> 00:48:38,448
+âª The less the world
+impassions me âª
+
+647
+00:48:41,085 --> 00:48:44,288
+âª The hungry heart
+
+648
+00:48:44,321 --> 00:48:47,724
+âª The roving eye
+
+649
+00:48:47,757 --> 00:48:49,994
+âª Have come to rest
+
+650
+00:48:50,027 --> 00:48:53,030
+âª Do not apply
+
+651
+00:48:55,265 --> 00:48:58,535
+âª The frantic chase
+
+652
+00:48:58,568 --> 00:49:01,538
+âª The crazy ride
+
+653
+00:49:01,571 --> 00:49:05,642
+âª The thrill has gone
+
+654
+00:49:05,675 --> 00:49:08,612
+âª I step aside
+
+655
+00:49:08,645 --> 00:49:10,447
+âª I'd believe
+
+656
+00:49:10,480 --> 00:49:12,116
+âª In anything
+
+657
+00:49:12,149 --> 00:49:15,719
+âª Were it not for you
+
+658
+00:49:15,752 --> 00:49:19,589
+âª Showing me by just existing
+
+659
+00:49:19,623 --> 00:49:22,492
+âª Only this is true
+
+660
+00:49:22,526 --> 00:49:26,263
+âª I love you
+
+661
+00:49:26,296 --> 00:49:29,166
+âª I love you
+
+662
+00:49:29,199 --> 00:49:32,202
+âª Without question
+
+663
+00:49:32,236 --> 00:49:34,038
+âª I love you
+
+664
+00:49:34,071 --> 00:49:37,207
+âª I'd believe in anything
+
+665
+00:49:37,241 --> 00:49:41,011
+âª Were it not for you
+
+666
+00:49:41,045 --> 00:49:46,516
+âª Showing me by just existing
+Only this is true âª
+
+667
+00:49:46,550 --> 00:49:50,587
+âª Oh, I love you
+
+668
+00:50:15,845 --> 00:50:21,151
+Hmm. This is not
+what I expected.
+
+669
+00:50:21,185 --> 00:50:24,288
+Perhaps Lord Tulio
+will enlighten me.
+
+670
+00:50:26,823 --> 00:50:28,725
+How do I look?
+
+671
+00:50:28,758 --> 00:50:32,262
+Oh, uh... Well, you...
+
+672
+00:50:32,296 --> 00:50:34,298
+Oh, shut up.
+
+673
+00:50:34,331 --> 00:50:36,800
+Oh! Whoa!
+
+674
+00:50:36,833 --> 00:50:39,069
+My lord?
+
+675
+00:50:39,103 --> 00:50:41,838
+- Hello?
+- The high priest. - Ow!
+
+676
+00:50:41,871 --> 00:50:46,176
+What's he gonna think if he finds
+one of the gods like this with me?
+
+677
+00:50:46,210 --> 00:50:48,278
+Uh, lucky god?
+
+678
+00:50:48,312 --> 00:50:50,714
+J-Just-Just-Just...
+
+679
+00:50:50,747 --> 00:50:53,317
+Hello?
+Whoa!
+
+680
+00:50:55,319 --> 00:50:57,421
+Oh, Tzekel-Kan!
+
+681
+00:50:57,454 --> 00:51:02,392
+What brings you here?
+I-I-I-I-I humbly request an audience with you, my lord.
+
+682
+00:51:02,426 --> 00:51:07,764
+- Yes, what can I do for you? - My lord,
+I have just seen Lord Miguel out among the people.
+
+683
+00:51:07,797 --> 00:51:12,169
+- Really?
+- If I may be so bold as to offer some advice.
+
+684
+00:51:12,202 --> 00:51:14,671
+All right. Shoot.
+
+685
+00:51:14,704 --> 00:51:17,241
+My lord,
+you are perfect.
+
+686
+00:51:17,274 --> 00:51:19,409
+Oh, well. Go on.
+
+687
+00:51:19,443 --> 00:51:24,614
+But in your perfection,
+you cannot know how imperfect humans are.
+
+688
+00:51:24,648 --> 00:51:29,886
+Like snakes they are.
+Spineless and slippery.
+
+689
+00:51:29,919 --> 00:51:36,393
+They are as untrustworthy as rats,
+stealing and cheating with no remorse.
+
+690
+00:51:36,426 --> 00:51:40,730
+Spinning webs of lies,
+like spiders!
+
+691
+00:51:40,764 --> 00:51:43,567
+Stop it!
+That's disgusting.
+
+692
+00:51:43,600 --> 00:51:46,370
+They're beyond disgusting!
+
+693
+00:51:46,403 --> 00:51:49,473
+Yeah, yeah, way beyond.
+Then we're in agreement.
+
+694
+00:51:49,506 --> 00:51:52,209
+I'll begin the necessary
+preparations immediately.
+
+695
+00:51:52,242 --> 00:51:56,813
+Do you wish to have your victims bound to an altar,
+or would you prefer them free-range?
+
+696
+00:51:56,846 --> 00:51:59,916
+And will you be devouring
+their essence whole...
+
+697
+00:51:59,949 --> 00:52:02,552
+or piece by piece?
+
+698
+00:52:02,586 --> 00:52:05,189
+Tzekel, you've lost me.
+
+699
+00:52:05,222 --> 00:52:09,259
+My lord,
+these people will not respect you if they do not fear you.
+
+700
+00:52:09,293 --> 00:52:11,695
+And, of course, we'll make them
+fear us by...
+
+701
+00:52:11,728 --> 00:52:14,398
+A sacrifice,
+as it is prophesied.
+
+702
+00:52:14,431 --> 00:52:18,168
+The history of the Age of the
+Jaguar will be written in... Ink?
+
+703
+00:52:18,202 --> 00:52:20,437
+Blood!
+Blood! Oh, right.
+
+704
+00:52:20,470 --> 00:52:23,207
+Of course.
+I should probably consult with Lord Miguel.
+
+705
+00:52:23,240 --> 00:52:27,277
+This is fairly important stuff. I, um,
+should discuss the entire, uh,
+
+706
+00:52:27,311 --> 00:52:30,747
+blood issue right away.
+
+707
+00:52:30,780 --> 00:52:33,717
+Excuse us, won't you?
+Let's go.
+
+708
+00:52:33,750 --> 00:52:39,423
+Finally... we're connecting.
+
+709
+00:52:48,665 --> 00:52:51,901
+This way.
+
+710
+00:52:58,508 --> 00:53:02,712
+What do you think you're doing?
+- Lying low.
+
+711
+00:53:02,746 --> 00:53:05,415
+Look, change of plans.
+
+712
+00:53:05,449 --> 00:53:09,653
+We have to grab what we can carry
+and get out of here now! What? Why?
+
+713
+00:53:09,686 --> 00:53:11,921
+Because the high priest
+is nuts! He wants...
+
+714
+00:53:11,955 --> 00:53:14,591
+- This is unacceptable!
+- Yeah. Yeah. Like he said.
+
+715
+00:53:14,624 --> 00:53:18,228
+The gods should not
+be playing ball like this!
+
+716
+00:53:18,262 --> 00:53:22,866
+- Well, exactly!
+- This is how the gods should play ball!
+
+717
+00:53:26,936 --> 00:53:29,506
+Well, don't blame me.
+I blame you.
+
+718
+00:53:31,275 --> 00:53:34,744
+What is the object
+of this game, pray tell?
+
+719
+00:53:34,778 --> 00:53:37,247
+You've gotta knock the ball
+through the hoop.
+
+720
+00:53:37,281 --> 00:53:39,015
+What hoop?
+That hoop.
+
+721
+00:53:39,048 --> 00:53:41,785
+That's impossible.
+
+722
+00:53:41,818 --> 00:53:44,888
+- We're gonna lose.
+- Gods don't lose.
+
+723
+00:53:48,024 --> 00:53:50,327
+Heep-ha!
+
+724
+00:53:50,360 --> 00:53:53,930
+My lords, Chief Tannabok's warriors
+are the finest ballplayers in the city.
+
+725
+00:53:53,963 --> 00:53:58,435
+Fifteen mere mortals
+against two gods.
+
+726
+00:54:00,003 --> 00:54:02,272
+I realize it's a bit uneven,
+Heep-ha!
+
+727
+00:54:02,306 --> 00:54:06,776
+But I do hope they'll challenge you
+enough to make the game... interesting.
+
+728
+00:54:06,810 --> 00:54:10,947
+Play ball!
+
+729
+00:54:10,980 --> 00:54:13,917
+Crush them into the dust.
+
+730
+00:54:13,950 --> 00:54:16,019
+Enjoy.
+Go! Go! Go! Go! Go!
+
+731
+00:54:24,928 --> 00:54:27,764
+D'oh. D'oh.
+
+732
+00:54:29,566 --> 00:54:32,001
+My lords,
+
+733
+00:54:32,035 --> 00:54:35,772
+were you not supposed
+to put the ball into play?
+
+734
+00:54:35,805 --> 00:54:37,607
+Ohh!
+
+735
+00:54:37,641 --> 00:54:39,843
+Well,
+no, no, no, no, no...
+
+736
+00:54:39,876 --> 00:54:45,382
+We were merely demonstrating the, um, traditional, uh,
+first avoidance maneuver.
+
+737
+00:54:45,415 --> 00:54:48,385
+Ah.
+
+738
+00:54:48,418 --> 00:54:50,320
+I've never heard
+of such a thing.
+
+739
+00:54:50,354 --> 00:54:52,989
+Excuse me.
+
+740
+00:54:53,022 --> 00:54:55,725
+Who invented this game?
+
+741
+00:54:55,759 --> 00:55:00,330
+Why, the gods,
+of course.
+
+742
+00:55:00,364 --> 00:55:03,733
+I'm warning you,
+don't push your luck with this guy.
+
+743
+00:55:03,767 --> 00:55:07,637
+But, Tulio,
+we're the gods.
+
+744
+00:55:13,076 --> 00:55:15,445
+Tulio!
+The hip! The hip!
+
+745
+00:55:18,782 --> 00:55:22,719
+This is impossible.
+
+746
+00:55:25,455 --> 00:55:28,458
+Excuse me?
+
+747
+00:55:28,492 --> 00:55:32,729
+- Heep...
+- Haaa!
+
+748
+00:55:32,762 --> 00:55:35,365
+Heep-ha! Heep-ha!
+Heep-ha! Heep-ha!
+
+749
+00:55:45,509 --> 00:55:47,811
+Foul! That was a foul!
+
+750
+00:55:52,081 --> 00:55:55,919
+New ball!
+
+751
+00:55:58,522 --> 00:56:00,089
+How long does this
+go on anyway?
+
+752
+00:56:00,123 --> 00:56:02,859
+The game is over when the shadow touches this line.
+
+753
+00:56:02,892 --> 00:56:06,730
+We need a miracle.
+No, we need to cheat.
+
+754
+00:56:22,579 --> 00:56:25,749
+Yes!
+
+755
+00:56:28,017 --> 00:56:30,787
+Huh?
+
+756
+00:56:30,820 --> 00:56:32,889
+Hey!
+
+757
+00:56:32,922 --> 00:56:37,093
+Whoo-hoo-hoo!
+
+758
+00:56:37,126 --> 00:56:40,096
+Ole!
+
+759
+00:56:45,234 --> 00:56:47,637
+Huh?
+
+760
+00:56:47,671 --> 00:56:51,140
+Hmm.
+
+761
+00:56:51,174 --> 00:56:52,976
+Yes!
+
+762
+00:56:53,009 --> 00:56:54,744
+Who's the god?
+You de god.
+
+763
+00:56:54,778 --> 00:56:57,914
+No, you the god.
+Fine. No, you de god.
+
+764
+00:56:57,947 --> 00:57:02,752
+Y-Yeah! Yeah!
+
+765
+00:57:10,259 --> 00:57:13,563
+Guys, it's here!
+It's right here with me!
+
+766
+00:57:34,918 --> 00:57:37,153
+Mmm.
+
+767
+00:57:44,027 --> 00:57:47,531
+I love this game!
+
+768
+00:57:47,564 --> 00:57:49,799
+Yes!
+
+769
+00:57:49,833 --> 00:57:52,268
+Well done, partner.
+
+770
+00:57:52,301 --> 00:57:56,005
+- Yes! Yes!
+- My lords, congratulations on your victory.
+
+771
+00:57:56,039 --> 00:57:59,075
+And now, you will, of course,
+wish to have the losing team...
+
+772
+00:57:59,108 --> 00:58:02,045
+sacrificed to your glory.
+
+773
+00:58:03,880 --> 00:58:06,182
+Not again.
+
+774
+00:58:06,215 --> 00:58:08,084
+Look, Tzekel-Kan,
+Uh, Miguel?
+
+775
+00:58:08,117 --> 00:58:10,787
+Forget the sacrifices.
+Miguel.
+
+776
+00:58:10,820 --> 00:58:13,289
+We don't want any sacrifices.
+
+777
+00:58:13,322 --> 00:58:18,161
+But all of the sacred writings say that you
+will devour the wicked and the unrighteous.
+
+778
+00:58:18,194 --> 00:58:21,097
+Well, I don't see anyone here
+who fits that description.
+
+779
+00:58:21,130 --> 00:58:24,701
+Well, as speaker
+for the gods,
+
+780
+00:58:24,734 --> 00:58:28,938
+it would be my privilege
+to point them out.
+
+781
+00:58:28,972 --> 00:58:32,041
+The gods are speaking
+for themselves now!
+
+782
+00:58:32,075 --> 00:58:34,310
+This city and these people...
+
+783
+00:58:34,343 --> 00:58:36,646
+have no need
+for you anymore!
+
+784
+00:58:39,015 --> 00:58:41,885
+There will be no sacrifices!
+
+785
+00:58:41,918 --> 00:58:46,255
+Not now, not ever!
+
+786
+00:58:46,289 --> 00:58:49,893
+Get out!
+
+787
+00:59:00,336 --> 00:59:04,808
+Mmm. As the...
+
+788
+00:59:04,841 --> 00:59:08,645
+gods... command.
+
+789
+00:59:10,213 --> 00:59:12,716
+Whoa! Who-o-oa!
+
+790
+00:59:12,749 --> 00:59:16,285
+Hey, not bad for my
+first commandment, huh?
+
+791
+00:59:16,319 --> 00:59:19,155
+Miguel, the little voice...
+
+792
+00:59:19,188 --> 00:59:21,324
+Yeah, fine.
+
+793
+00:59:24,193 --> 00:59:27,831
+Do you know why
+the gods demand blood?
+
+794
+00:59:27,864 --> 00:59:31,000
+I don't know.
+
+795
+00:59:31,034 --> 00:59:34,671
+Because gods don't bleed.
+
+796
+00:59:37,674 --> 00:59:41,110
+It's time to take the future
+into my own hands,
+
+797
+00:59:41,144 --> 00:59:43,780
+and this city
+will be cleansed.
+
+798
+00:59:43,813 --> 00:59:46,315
+Even if I
+have to do it myself.
+
+799
+00:59:46,349 --> 00:59:48,852
+Uh, how?
+
+800
+00:59:48,885 --> 00:59:52,989
+There are dark magics here...
+
+801
+00:59:53,022 --> 00:59:55,692
+and power... and...
+
+802
+00:59:55,725 --> 00:59:58,261
+Ooh. My, my, my,
+my, my.
+
+803
+00:59:58,294 --> 01:00:02,098
+It's not called the Age of the Jaguar for nothing.
+
+804
+01:00:05,969 --> 01:00:11,875
+This'll be a delightful way to
+bid the false gods... good-bye.
+
+805
+01:00:24,120 --> 01:00:25,789
+Hmm.
+
+806
+01:00:25,822 --> 01:00:28,892
+Audios, muchacho!
+
+807
+01:00:44,107 --> 01:00:47,410
+- Well, it's, um, uh, nice.
+- Nice?
+
+808
+01:00:47,443 --> 01:00:49,278
+Yes, nice.
+But?
+
+809
+01:00:49,312 --> 01:00:53,750
+Um, but, uh, is it
+really fit for the gods?
+
+810
+01:00:53,783 --> 01:00:55,719
+My lord.
+
+811
+01:00:55,752 --> 01:00:59,789
+I have been around boats,
+believe me,
+
+812
+01:00:59,823 --> 01:01:03,326
+and that, um...
+the pointy, tall, um...
+
+813
+01:01:03,359 --> 01:01:05,428
+the-the-the-the long
+up and down thing...
+
+814
+01:01:05,461 --> 01:01:08,832
+The mast? The mast, yes, yes.
+The mast is good.
+
+815
+01:01:08,865 --> 01:01:12,969
+Well, look at it.
+There's not nearly enough, uh,
+
+816
+01:01:13,002 --> 01:01:14,470
+um, rope.
+
+817
+01:01:14,503 --> 01:01:17,941
+- Rope?
+- Yes, rope. Exactly my point.
+
+818
+01:01:17,974 --> 01:01:21,811
+Vertical ascension requires
+a lot more, uh, rope.
+
+819
+01:01:21,845 --> 01:01:26,015
+- My lord.
+- And look at this.
+
+820
+01:01:26,049 --> 01:01:29,318
+This doesn't look
+at all secure.
+
+821
+01:01:29,352 --> 01:01:35,191
+Chief, I'm sorry. I'm sorry,
+but all in all, it is a complete do-over.
+
+822
+01:01:39,062 --> 01:01:40,463
+Hmm.
+
+823
+01:01:43,032 --> 01:01:45,201
+You know, Lord Miguel,
+
+824
+01:01:45,234 --> 01:01:48,004
+if you wish to stay,
+
+825
+01:01:48,037 --> 01:01:50,940
+you only need to say so.
+
+826
+01:01:50,974 --> 01:01:55,044
+- You mean... forever?
+- Of course.
+
+827
+01:01:59,182 --> 01:02:02,418
+Oh, no, I can't.
+I have to go back with Tulio.
+
+828
+01:02:02,451 --> 01:02:04,187
+We're... We're partners.
+
+829
+01:02:05,488 --> 01:02:07,991
+Big plans
+in the other world, huh?
+
+830
+01:02:09,458 --> 01:02:11,795
+Yep. Big plans.
+
+831
+01:02:11,828 --> 01:02:16,299
+Well, then, I better
+go get some more rope, huh?
+
+832
+01:02:16,332 --> 01:02:19,502
+Oh, Chief, um,
+forget about the rope.
+
+833
+01:02:19,535 --> 01:02:21,304
+Um, my mistake.
+
+834
+01:02:21,337 --> 01:02:24,473
+Hey, to err is human.
+
+835
+01:02:37,453 --> 01:02:41,157
+- Half?
+- Mm-hmm.
+
+836
+01:02:41,190 --> 01:02:43,993
+I don't think so.
+
+837
+01:02:44,027 --> 01:02:47,563
+I-I'll tell you what.
+Uh, I'll let you come back to Spain with us,
+
+838
+01:02:47,596 --> 01:02:52,001
+like you wanted, and, um, yeah,
+I can see my way clear to throwing you,
+
+839
+01:02:52,035 --> 01:02:54,103
+mmm, ten percent?
+
+840
+01:02:54,137 --> 01:02:58,374
+You know, maybe I won't go to
+Spain with you and take a third.
+
+841
+01:02:58,407 --> 01:03:00,576
+Ohh!
+
+842
+01:03:00,609 --> 01:03:03,046
+Like you don't
+wanna go to Spain.
+
+843
+01:03:03,079 --> 01:03:05,982
+Oh, like you don't want me
+to want to go to Spain.
+
+844
+01:03:06,015 --> 01:03:10,954
+I want you to want...
+what you want. Mm-hmm?
+
+845
+01:03:10,987 --> 01:03:12,956
+Mm-hmm. Go on.
+
+846
+01:03:12,989 --> 01:03:16,359
+All right.
+Cards on the table.
+
+847
+01:03:16,392 --> 01:03:20,529
+Uh, I want you to come to Spain with me and Miguel.
+
+848
+01:03:20,563 --> 01:03:23,066
+Mostly me.
+Especially me.
+
+849
+01:03:23,099 --> 01:03:24,901
+Only me.
+Forget Miguel.
+
+850
+01:03:24,934 --> 01:03:31,074
+Well, as long as that's
+what you want.
+
+851
+01:03:31,107 --> 01:03:34,010
+Me too.
+Okay.
+
+852
+01:03:34,043 --> 01:03:36,045
+Deal?
+
+853
+01:03:36,079 --> 01:03:39,182
+Deal. Mmm.
+
+854
+01:03:45,021 --> 01:03:47,256
+"Forget Miguel"?
+
+855
+01:03:47,290 --> 01:03:50,193
+Well, forget Tulio.
+
+856
+01:04:06,575 --> 01:04:09,312
+Well, is it ready yet?
+
+857
+01:04:15,118 --> 01:04:16,252
+Ooh.
+
+858
+01:04:18,554 --> 01:04:21,624
+Ah!
+
+859
+01:04:21,657 --> 01:04:23,993
+Ahh! Hmm.
+
+860
+01:04:24,027 --> 01:04:28,664
+It seems to be
+missing something.
+
+861
+01:04:28,697 --> 01:04:31,901
+Ah, that's it.
+
+862
+01:04:31,935 --> 01:04:36,072
+It needs more... body.
+
+863
+01:05:07,536 --> 01:05:13,042
+Do... as I command!
+
+864
+01:05:17,646 --> 01:05:19,983
+The gods deserve
+a proper tribute.
+
+865
+01:05:20,016 --> 01:05:23,352
+Stop! There will be
+no sacrifices!
+
+866
+01:05:23,386 --> 01:05:27,456
+That kid does you
+better than you do.
+
+867
+01:05:27,490 --> 01:05:30,026
+Some send-off, huh?
+
+868
+01:05:30,059 --> 01:05:34,097
+We're finally at the "go back to
+Spain and live like kings" part.
+
+869
+01:05:39,535 --> 01:05:41,971
+Ooh-hoo-hoo.
+
+870
+01:05:42,005 --> 01:05:47,610
+Well, isn't king kind of a step down from god?
+
+871
+01:05:47,643 --> 01:05:50,046
+What? Wh-Whoa, whoa, whoa.
+
+872
+01:05:50,079 --> 01:05:53,316
+Miguel, we can't stay here.
+
+873
+01:05:53,349 --> 01:05:55,184
+We have a plan, remember?
+
+874
+01:05:55,218 --> 01:06:00,756
+How about...
+we forget the plan? Hmm?
+
+875
+01:06:00,789 --> 01:06:03,459
+What?
+
+876
+01:06:11,067 --> 01:06:16,505
+Now everyone will know
+the truth of your divinity.
+
+877
+01:06:34,090 --> 01:06:35,624
+I'm okay!
+
+878
+01:06:35,658 --> 01:06:38,027
+I'm still okay!
+
+879
+01:06:38,061 --> 01:06:42,498
+Come on! Get on!
+
+880
+01:06:47,070 --> 01:06:49,272
+Altivo, hyah!
+
+881
+01:06:52,375 --> 01:06:55,444
+Whoa!
+
+882
+01:07:05,854 --> 01:07:07,490
+Tulio!
+
+883
+01:07:07,523 --> 01:07:12,061
+Hey, over here,
+you big Tzekel-Kan cat creep!
+
+884
+01:07:12,095 --> 01:07:15,431
+Altivo, get Chel out of here.
+
+885
+01:07:27,876 --> 01:07:29,812
+Duck!
+
+886
+01:07:39,122 --> 01:07:40,656
+Who-o-o-oa!
+
+887
+01:07:47,463 --> 01:07:49,798
+Move! Move!
+
+888
+01:07:52,335 --> 01:07:55,371
+Jump!
+
+889
+01:08:06,815 --> 01:08:09,285
+Who-o-o-a!
+
+890
+01:08:12,388 --> 01:08:16,359
+I know what you are,
+
+891
+01:08:16,392 --> 01:08:18,827
+and I know what you are not!
+
+892
+01:08:18,861 --> 01:08:21,830
+And you are not gods!
+
+893
+01:08:24,567 --> 01:08:27,536
+Y... You're not a god?
+
+894
+01:08:27,570 --> 01:08:29,172
+You lied to me?
+
+895
+01:08:33,409 --> 01:08:36,879
+How dare you!
+Hey, it was his stupid plan!
+
+896
+01:08:36,912 --> 01:08:41,917
+- What?
+- Oh, oh, oh. My plan was that we should lie low!
+
+897
+01:08:41,950 --> 01:08:47,456
+But your plan was to run off and be all "Oh,
+look at me. Look at me. I'm a god."
+
+898
+01:08:47,490 --> 01:08:50,326
+- That's not true!
+- No? Who are you kidding?
+
+899
+01:08:50,359 --> 01:08:52,295
+You're buying your own con!
+
+900
+01:08:52,328 --> 01:08:54,330
+At least I'm not dating mine.
+
+901
+01:08:54,363 --> 01:08:57,833
+I... Ooh, low blow.
+
+902
+01:08:57,866 --> 01:09:01,604
+Listen, Mr. High and Mighty, we'd both be
+sailing out of here with a mountain of gold...
+
+903
+01:09:01,637 --> 01:09:04,240
+if you had just
+listened to me!
+
+904
+01:09:04,273 --> 01:09:09,412
+Well, now you've got all the precious gold and Chel.
+So what do you need me for?
+
+905
+01:09:09,445 --> 01:09:12,281
+Well, maybe I don't
+need you anymore.
+
+906
+01:09:12,315 --> 01:09:15,551
+Well, then, why don't you just go back to Spain,
+and I'll stay here,
+
+907
+01:09:15,584 --> 01:09:17,486
+and we'll both
+get what we want!
+
+908
+01:09:17,520 --> 01:09:20,689
+- That's... fine with me, pal!
+- Fine with me too! - Ooh.
+
+909
+01:09:20,723 --> 01:09:22,591
+- Fine! - Ouch.
+- Okay!
+
+910
+01:09:22,625 --> 01:09:26,229
+All right!
+
+911
+01:09:26,262 --> 01:09:28,264
+Tie him up!
+
+912
+01:09:28,297 --> 01:09:30,566
+What?
+
+913
+01:09:30,599 --> 01:09:32,435
+Whoa.
+
+914
+01:09:32,468 --> 01:09:34,970
+Jump!
+
+915
+01:09:35,003 --> 01:09:37,240
+Whoa!
+
+916
+01:09:44,280 --> 01:09:51,520
+No-o-o-o-o!
+
+917
+01:10:18,447 --> 01:10:19,848
+My lord.
+
+918
+01:10:25,688 --> 01:10:28,757
+Where did you get this?
+
+919
+01:10:32,561 --> 01:10:36,765
+That was good, huh?
+
+920
+01:10:56,652 --> 01:10:59,822
+Hey, a little help, please?
+
+921
+01:10:59,855 --> 01:11:04,793
+Chief Tanni! Chief Tanni!
+
+922
+01:11:04,827 --> 01:11:09,365
+- I've decided to stay.
+- Oh, this is wonderful news.
+
+923
+01:11:09,398 --> 01:11:11,867
+What a glorious day
+for El Dorado.
+
+924
+01:11:11,900 --> 01:11:15,838
+Lord Miguel has decided
+to live among us!
+
+925
+01:11:15,871 --> 01:11:18,441
+Tulio!
+
+926
+01:11:18,474 --> 01:11:22,511
+Is everything okay?
+
+927
+01:11:25,748 --> 01:11:29,818
+Everything is... fine.
+
+928
+01:11:51,674 --> 01:11:53,476
+âª There isn't much
+
+929
+01:11:53,509 --> 01:11:56,779
+âª I haven't shared
+
+930
+01:11:56,812 --> 01:12:00,816
+âª With you along the road
+
+931
+01:12:00,849 --> 01:12:05,754
+âª And through it all
+there'll always be âª
+
+932
+01:12:05,788 --> 01:12:09,725
+âª Tomorrow's episode
+
+933
+01:12:09,758 --> 01:12:13,729
+âª Suddenly that isn't true
+
+934
+01:12:13,762 --> 01:12:18,701
+âª There's another avenue
+
+935
+01:12:18,734 --> 01:12:22,438
+âª Beckoning the great divide
+
+936
+01:12:22,471 --> 01:12:25,107
+âª Ask no questions
+
+937
+01:12:25,140 --> 01:12:27,543
+âª Take no side
+
+938
+01:12:27,576 --> 01:12:31,680
+âª Who's to say
+who's right or wrong âª
+
+939
+01:12:31,714 --> 01:12:36,118
+âª Who's course is braver run
+
+940
+01:12:36,151 --> 01:12:39,788
+âª All I know is all we had
+
+941
+01:12:39,822 --> 01:12:43,592
+âª Is over
+
+942
+01:12:43,626 --> 01:12:45,127
+âª Said and done
+
+943
+01:12:49,598 --> 01:12:54,737
+âª Friends never say good-bye
+
+944
+01:12:57,072 --> 01:12:59,107
+âª Friends
+
+945
+01:12:59,141 --> 01:13:03,746
+âª Never say good-bye
+
+946
+01:13:05,948 --> 01:13:07,783
+Ha!
+
+947
+01:13:18,193 --> 01:13:21,664
+Ahhh! Whew!
+
+948
+01:13:32,675 --> 01:13:36,912
+Mmm.
+âª Friends never say good-bye
+
+949
+01:13:36,945 --> 01:13:41,149
+Take care.
+
+950
+01:13:41,183 --> 01:13:43,085
+We'll miss you!
+Thank you.
+
+951
+01:13:43,118 --> 01:13:47,022
+âª Never say good-bye
+
+952
+01:14:06,141 --> 01:14:10,746
+âª Friends never say
+
+953
+01:14:10,779 --> 01:14:13,181
+âª Good-bye
+
+954
+01:14:14,983 --> 01:14:16,752
+âª Friends
+
+955
+01:14:16,785 --> 01:14:21,990
+âª Never say good-bye
+
+956
+01:14:23,592 --> 01:14:25,794
+Well, good luck.
+
+957
+01:14:25,828 --> 01:14:29,865
+Yeah. You too.
+
+958
+01:14:31,834 --> 01:14:34,570
+âª Never
+
+959
+01:14:34,603 --> 01:14:38,140
+âª Say good-bye
+
+960
+01:14:49,785 --> 01:14:51,820
+Whoa.
+
+961
+01:14:51,854 --> 01:14:55,190
+Whoa, boy, what is it?
+
+962
+01:15:00,729 --> 01:15:04,032
+- Cortes.
+- My lord, what is it?
+
+963
+01:15:04,066 --> 01:15:07,770
+Chief Tanni!
+Chief Tanni!
+
+964
+01:15:07,803 --> 01:15:11,907
+Approaching the city...
+is an army of strangers.
+
+965
+01:15:11,940 --> 01:15:16,311
+We are safe here.
+They'll never find the gate to the city.
+
+966
+01:15:16,344 --> 01:15:20,749
+But, sire, they are being led
+by Tzekel-Kan.
+
+967
+01:15:20,783 --> 01:15:25,020
+He survived! Warriors,
+prepare yourselves for battle!
+
+968
+01:15:27,189 --> 01:15:29,692
+Chief, you cannot fight them!
+
+969
+01:15:29,725 --> 01:15:31,894
+Then how can we stop them?
+
+970
+01:15:31,927 --> 01:15:34,029
+We can't.
+
+971
+01:15:40,202 --> 01:15:43,606
+Hmm.
+
+972
+01:15:43,639 --> 01:15:46,241
+Uh, one moment, please.
+
+973
+01:15:48,944 --> 01:15:51,279
+Okay, here's the gate.
+Here's the boat. Uh-huh. And?
+
+974
+01:15:51,313 --> 01:15:53,816
+Here's the gate.
+Here's the boat. Okay.
+
+975
+01:15:53,849 --> 01:15:57,786
+Got that. And? Tulio! Well, here's the "goat,"
+and here's the "bate."
+
+976
+01:16:01,056 --> 01:16:04,993
+That's it.
+
+977
+01:16:05,027 --> 01:16:07,262
+We'll crash the boat
+into the pillars.
+
+978
+01:16:07,295 --> 01:16:10,766
+That's it?
+I mean... But...
+
+979
+01:16:10,799 --> 01:16:15,137
+What about the gold?
+Well...
+
+980
+01:16:15,170 --> 01:16:17,740
+Chief!
+
+981
+01:16:17,773 --> 01:16:19,341
+Chief.
+
+982
+01:16:19,374 --> 01:16:21,977
+I've got a plan.
+
+983
+01:16:31,954 --> 01:16:35,758
+Hold the line steady!
+They're almost in place!
+
+984
+01:16:39,662 --> 01:16:43,598
+It better be there,
+for your sake.
+
+985
+01:17:01,383 --> 01:17:06,889
+Okay, Chief, on my signal!
+
+986
+01:17:06,922 --> 01:17:09,858
+Ready! Hit the pillars!
+
+987
+01:17:09,892 --> 01:17:13,628
+Now!
+
+988
+01:17:24,472 --> 01:17:27,042
+- They're breaking too fast!
+- Tulio, the sail!
+
+989
+01:17:30,078 --> 01:17:32,280
+It's stuck!
+
+990
+01:17:42,190 --> 01:17:45,460
+They're not gonna make it.
+Altivo!
+
+991
+01:17:55,971 --> 01:17:58,406
+Are you crazy?
+
+992
+01:18:14,857 --> 01:18:17,459
+Get off the boat, Miguel,
+or you'll never see the city again.
+
+993
+01:18:17,492 --> 01:18:21,730
+I know. You don't think I'm gonna
+let you have all the fun, do you?
+
+994
+01:18:21,764 --> 01:18:25,100
+Come on.
+We've got a wave to catch.
+
+995
+01:18:48,857 --> 01:18:53,228
+- Get out of the way!
+- Huh?
+
+996
+01:18:53,261 --> 01:18:54,763
+Hold on!
+
+997
+01:19:02,070 --> 01:19:04,807
+Whoa!
+
+998
+01:19:12,280 --> 01:19:15,483
+We're gonna have to
+hit it broadside!
+
+999
+01:19:15,517 --> 01:19:18,921
+That's your plan?
+But the gold!
+
+1000
+01:19:18,954 --> 01:19:21,223
+I know!
+
+1001
+01:19:21,256 --> 01:19:24,326
+Just turn the boat!
+
+1002
+01:19:24,359 --> 01:19:27,863
+On impact, everybody jump!
+
+1003
+01:19:58,393 --> 01:20:01,296
+We made it.
+
+1004
+01:20:01,329 --> 01:20:05,600
+It worked.
+It worked.
+
+1005
+01:20:05,633 --> 01:20:09,004
+Wait. Get down!
+Ouch. Ow.
+
+1006
+01:20:09,037 --> 01:20:11,306
+There they are.
+
+1007
+01:20:30,325 --> 01:20:31,559
+No.
+
+1008
+01:20:39,534 --> 01:20:42,304
+You lying heathen.
+
+1009
+01:20:42,337 --> 01:20:44,172
+There's nothing here at all.
+
+1010
+01:20:44,206 --> 01:20:46,875
+No. Wait. Wait.
+
+1011
+01:20:49,411 --> 01:20:52,147
+- Men, seize him!
+- What?
+
+1012
+01:20:52,180 --> 01:20:57,285
+There is no El Dorado here.
+Onward, men.
+
+1013
+01:21:06,261 --> 01:21:08,964
+Wait! No, wait!
+
+1014
+01:21:08,997 --> 01:21:12,100
+Wait!
+
+1015
+01:21:22,044 --> 01:21:26,281
+- Yes!
+- Now, that was an adventure.
+
+1016
+01:21:26,314 --> 01:21:28,683
+Yes. Yes, it was.
+And, um,
+
+1017
+01:21:28,716 --> 01:21:34,589
+it was so much gold!
+
+1018
+01:21:38,660 --> 01:21:41,930
+I'm fine.
+Good.
+
+1019
+01:21:41,964 --> 01:21:43,999
+Let's go.
+
+1020
+01:21:50,005 --> 01:21:51,406
+Partner.
+
+1021
+01:21:54,542 --> 01:21:57,145
+Partner.
+
+1022
+01:21:57,179 --> 01:22:00,215
+Hey, guys, come on!
+
+1023
+01:22:00,248 --> 01:22:02,184
+You don't wanna stay here
+forever, do you?
+
+1024
+01:22:02,217 --> 01:22:06,121
+But... we don't have a map.
+We don't have a plan.
+
+1025
+01:22:06,154 --> 01:22:08,323
+Well, that's what
+makes it interesting.
+
+1026
+01:22:08,356 --> 01:22:12,194
+You're right!
+What are we waiting for?
+
+1027
+01:22:12,227 --> 01:22:14,029
+Let's follow
+that trail!
+
+1028
+01:22:14,062 --> 01:22:16,331
+Hyah!
+
+1029
+01:22:16,364 --> 01:22:20,668
+âª Oh, the sweet unfolding
+Come on, boys!
+
+1030
+01:22:20,702 --> 01:22:23,171
+âª Of an antique mystery
+Hey, Altivo!
+
+1031
+01:22:23,205 --> 01:22:26,508
+âª All will be revealed Sit, boy! Sit!
+
+1032
+01:22:26,541 --> 01:22:30,745
+Chel, we're not
+on the horse!
+
+1033
+01:22:30,778 --> 01:22:33,581
+âª On the trail we blaze
+
+1034
+01:22:39,687 --> 01:22:42,257
+Uh-Uhh.
+
+1035
+01:22:42,290 --> 01:22:43,758
+Eh!
+
+1036
+01:22:43,791 --> 01:22:47,195
+âª Here comes the night
+
+1037
+01:22:47,229 --> 01:22:49,764
+âª Here come the memories
+
+1038
+01:22:49,797 --> 01:22:52,700
+âª Lost in your arms
+
+1039
+01:22:52,734 --> 01:22:55,737
+âª Down in the foreign fields
+
+1040
+01:22:55,770 --> 01:22:59,274
+âª Not so long ago
+
+1041
+01:22:59,307 --> 01:23:01,543
+âª Seems like eternity
+
+1042
+01:23:01,576 --> 01:23:06,348
+âª Those sweet afternoons
+
+1043
+01:23:06,381 --> 01:23:10,118
+âª Still capture me-e-e
+
+1044
+01:23:12,320 --> 01:23:16,691
+âª Someday out of the blue
+
+1045
+01:23:16,724 --> 01:23:18,693
+âª In a crowded street
+
+1046
+01:23:18,726 --> 01:23:22,697
+âª Or a deserted square
+
+1047
+01:23:22,730 --> 01:23:25,467
+âª I'll turn and I'll see you
+
+1048
+01:23:25,500 --> 01:23:28,470
+âª As if our love were new
+
+1049
+01:23:28,503 --> 01:23:31,706
+âª Someday we can start again
+
+1050
+01:23:31,739 --> 01:23:34,509
+âª Someday soon
+
+1051
+01:23:36,611 --> 01:23:39,681
+âª I still believe
+
+1052
+01:23:39,714 --> 01:23:42,684
+âª I still put faith in us
+
+1053
+01:23:42,717 --> 01:23:45,687
+âª We had it all
+
+1054
+01:23:45,720 --> 01:23:48,690
+âª And watched it slip away
+
+1055
+01:23:48,723 --> 01:23:51,726
+âª Where are we now
+
+1056
+01:23:51,759 --> 01:23:54,396
+âª Not where we want to be
+
+1057
+01:23:54,429 --> 01:23:59,167
+âª Those hot afternoons
+
+1058
+01:23:59,201 --> 01:24:02,804
+âª Still follow me-e-e
+
+1059
+01:24:04,806 --> 01:24:09,144
+âª Someday out of the blue
+
+1060
+01:24:09,177 --> 01:24:11,613
+âª Maybe years from now
+
+1061
+01:24:11,646 --> 01:24:15,083
+âª Or tomorrow night
+
+1062
+01:24:15,117 --> 01:24:18,253
+âª I'll turn and I'll see you
+
+1063
+01:24:18,286 --> 01:24:21,289
+âª As if we always knew
+
+1064
+01:24:21,323 --> 01:24:24,126
+âª Someday we would live again
+
+1065
+01:24:24,159 --> 01:24:27,429
+âª Someday soon
+
+1066
+01:24:29,797 --> 01:24:35,803
+âª I still believe I still put faith in us âª âª Believe
+
+1067
+01:24:35,837 --> 01:24:42,110
+âª I still believe
+I still put faith in us âª
+
+1068
+01:24:42,144 --> 01:24:47,815
+âª I still believe I still put faith in us âª âª Believe
+
+1069
+01:24:52,920 --> 01:24:55,857
+âª Here comes the night
+
+1070
+01:24:55,890 --> 01:24:58,826
+âª Here come the memories
+
+1071
+01:24:58,860 --> 01:25:01,829
+âª Lost in your arms
+
+1072
+01:25:01,863 --> 01:25:04,632
+âª Down in the foreign fields
+
+1073
+01:25:04,666 --> 01:25:08,470
+âª Not so long ago
+
+1074
+01:25:08,503 --> 01:25:10,572
+âª Seems like eternity
+
+1075
+01:25:10,605 --> 01:25:15,277
+âª Those sweet afternoons
+
+1076
+01:25:15,310 --> 01:25:20,215
+âª Still capture me-e-e
+
+1077
+01:25:22,817 --> 01:25:27,422
+âª Someday out of the blue
+
+1078
+01:25:27,455 --> 01:25:29,591
+âª Maybe years from now
+
+1079
+01:25:29,624 --> 01:25:33,261
+âª Or tomorrow night
+
+1080
+01:25:33,295 --> 01:25:36,231
+âª I'll turn and I'll see you
+
+1081
+01:25:36,264 --> 01:25:39,167
+âª As if we always knew
+
+1082
+01:25:39,201 --> 01:25:41,936
+âª Someday we would live again
+
+1083
+01:25:41,969 --> 01:25:44,572
+âª Someday soon
+
+1084
+01:25:57,419 --> 01:26:00,222
+âª The more I learn
+
+1085
+01:26:02,390 --> 01:26:05,193
+âª The more I see
+
+1086
+01:26:07,395 --> 01:26:14,702
+âª The less the world
+impassions me âª
+
+1087
+01:26:17,672 --> 01:26:20,842
+âª The hungry heart
+
+1088
+01:26:22,944 --> 01:26:25,780
+âª The roving eye
+
+1089
+01:26:28,015 --> 01:26:30,852
+âª Have come to rest
+
+1090
+01:26:30,885 --> 01:26:34,589
+âª Do not apply
+
+1091
+01:26:38,593 --> 01:26:41,629
+âª The frantic chase
+
+1092
+01:26:43,565 --> 01:26:46,768
+âª The crazy ride
+
+1093
+01:26:48,970 --> 01:26:51,839
+âª The thrill has gone
+
+1094
+01:26:54,276 --> 01:26:57,779
+âª I step aside
+
+1095
+01:26:57,812 --> 01:27:00,515
+âª And I'd believe
+
+1096
+01:27:00,548 --> 01:27:03,451
+âª In anything
+
+1097
+01:27:03,485 --> 01:27:06,388
+âª Were it not for you
+
+1098
+01:27:08,490 --> 01:27:10,558
+âª Showing me
+
+1099
+01:27:10,592 --> 01:27:13,561
+âª By just existing
+
+1100
+01:27:13,595 --> 01:27:18,266
+âª Only this is true
+
+1101
+01:27:18,300 --> 01:27:22,770
+âª I love you
+
+1102
+01:27:22,804 --> 01:27:28,443
+âª I love you
+
+1103
+01:27:28,476 --> 01:27:31,579
+âª Without question
+
+1104
+01:27:31,613 --> 01:27:35,983
+âª I love you
+
+1105
+01:27:47,762 --> 01:27:53,034
+âª The more I want
+âª The more I steal
+
+1106
+01:27:53,067 --> 01:27:58,406
+âª The more I steal
+âª The more I hold
+
+1107
+01:27:58,440 --> 01:28:01,075
+âª The more I hold
+
+1108
+01:28:01,108 --> 01:28:05,380
+âª The less is real
+
+1109
+01:28:08,583 --> 01:28:13,721
+âª All worldly things
+âª I follow blind
+
+1110
+01:28:13,755 --> 01:28:19,427
+âª I follow blind
+âª In hope, not faith
+
+1111
+01:28:19,461 --> 01:28:21,629
+âª In hope, not faith
+
+1112
+01:28:21,663 --> 01:28:25,800
+âª Was paid in kind
+
+1113
+01:28:29,771 --> 01:28:32,340
+âª The line is drawn
+
+1114
+01:28:34,742 --> 01:28:37,445
+âª The change is made
+
+1115
+01:28:39,714 --> 01:28:42,717
+âª I come to you
+
+1116
+01:28:45,019 --> 01:28:48,656
+âª I'm not afraid
+
+1117
+01:28:48,690 --> 01:28:50,892
+âª And I'd believe
+
+1118
+01:28:50,925 --> 01:28:53,961
+âª In anything
+
+1119
+01:28:53,995 --> 01:28:56,931
+âª Were it not for you
+
+1120
+01:28:59,166 --> 01:29:01,669
+âª Showing me
+
+1121
+01:29:01,703 --> 01:29:04,572
+âª By just existing
+
+1122
+01:29:04,606 --> 01:29:07,341
+âª Only this is true
+
+1123
+01:29:08,976 --> 01:29:10,778
+âª I love you

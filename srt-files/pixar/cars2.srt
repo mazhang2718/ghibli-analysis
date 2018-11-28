@@ -134,7 +134,7 @@ aren't gonna unload themselves.
 
 31
 00:03:57,383 --> 00:03:59,612
-Professor Zündapp?
+Professor ZÃÂ¼ndapp?
 
 32
 00:03:59,718 --> 00:04:01,146
@@ -1579,7 +1579,7 @@ Holley Shiftwell from the Tokyo station.
 
 344
 00:23:27,326 --> 00:23:29,227
-Try the canapés on the mezzanine.
+Try the canapÃÂ©s on the mezzanine.
 
 345
 00:23:33,266 --> 00:23:36,894
@@ -2223,7 +2223,7 @@ Could I start it now, Professor Z?
 
 486
 00:31:31,210 --> 00:31:33,234
-Go 50°% power.
+Go 50ÃÂ°% power.
 
 487
 00:31:34,480 --> 00:31:39,144
@@ -2429,7 +2429,7 @@ the equalizer in this race.</i>
 
 530
 00:33:42,201 --> 00:33:44,362
-<i>French rally car Raoul ÇaRoule</i>
+<i>French rally car Raoul ÃÂaRoule</i>
 
 531
 00:33:44,470 --> 00:33:46,563
@@ -3821,7 +3821,7 @@ There you are.
 832
 00:51:13,664 --> 00:51:15,632
 <i>- Mater, get back!
-- Imbécile!</i>
+- ImbÃÂ©cile!</i>
 
 833
 00:51:22,905 --> 00:51:24,237
@@ -5005,7 +5005,7 @@ It's just the professor.
 
 1092
 01:05:52,351 --> 01:05:53,943
-Zündapp! When is he coming?
+ZÃÂ¼ndapp! When is he coming?
 
 1093
 01:05:54,052 --> 01:05:56,021
@@ -6365,7 +6365,7 @@ The Professor's on the run!
 
 1394
 01:23:41,356 --> 01:23:44,019
-- Holley, I'll get Zündapp. Help Mater.
+- Holley, I'll get ZÃÂ¼ndapp. Help Mater.
 - Got it!
 
 1395
@@ -6443,7 +6443,7 @@ Death ray?
 
 1411
 01:26:05,699 --> 01:26:06,997
-Turn off the bomb, Zündapp!
+Turn off the bomb, ZÃÂ¼ndapp!
 
 1412
 01:26:07,100 --> 01:26:09,591
@@ -7019,7 +7019,7 @@ Finn!
 1539
 01:33:20,859 --> 01:33:22,952
 Our satellites picked up
-an urgent communiqué.
+an urgent communiquÃÂ©.
 
 1540
 01:33:23,127 --> 01:33:24,823

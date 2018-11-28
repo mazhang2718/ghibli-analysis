@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:58,600 --> 00:01:02,020
 Yellow, black. Yellow, black.
 Yellow, black. Yellow, black.
@@ -1276,7 +1276,7 @@ the window please?
 
 284
 00:19:56,279 --> 00:19:59,907
-Check out my new rÃ©sumÃ©.
+Check out my new rÃÂÃÂ©sumÃÂÃÂ©.
 I made it into a fold-out brochure.
 
 285
@@ -1412,7 +1412,7 @@ It's an allergic thing.
 
 315
 00:21:51,686 --> 00:21:54,146
-Put that on your rÃ©sumÃ© brochure.
+Put that on your rÃÂÃÂ©sumÃÂÃÂ© brochure.
 
 316
 00:21:54,230 --> 00:21:56,148
@@ -3583,7 +3583,7 @@ Thank you. Thank you.
 
 794
 00:50:09,590 --> 00:50:12,718
-I see from your rÃ©sumÃ©
+I see from your rÃÂÃÂ©sumÃÂÃÂ©
 that you're devilishly handsome
 
 795
@@ -3713,7 +3713,7 @@ That's where I usually sit. Right there.
 
 823
 00:51:52,610 --> 00:51:56,781
-Ken, Barry was looking at your rÃ©sumÃ©,
+Ken, Barry was looking at your rÃÂÃÂ©sumÃÂÃÂ©,
 and he agreed with me
 
 824
@@ -6081,4 +6081,3 @@ Wrap it up, guys.
 1349
 01:30:35,055 --> 01:30:37,182
 l had virtually no rehearsal for that.
-

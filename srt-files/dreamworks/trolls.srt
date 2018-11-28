@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:51,197 --> 00:00:52,284
 <i>Once upon a time...</i>
 
@@ -5814,4 +5814,3 @@ stole the night away</i>
 1377
 01:24:34,302 --> 01:24:36,012
 But wait, wait, wait.
-

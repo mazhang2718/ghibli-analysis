@@ -2409,11 +2409,11 @@ but now, you're a war hero.
 529
 00:33:27,480 --> 00:33:31,075
 - He's a worker?
-- A worker danced with my fianc�e?
+- A worker danced with my fiancÃ©e?
 
 530
 00:33:31,160 --> 00:33:33,071
-F-fianc�e?
+F-fiancÃ©e?
 
 531
 00:33:33,160 --> 00:33:35,355
@@ -5363,4 +5363,3 @@ Ker-plop
 1181
 01:16:32,040 --> 01:16:33,871
 # (Ker-plop) #
-
